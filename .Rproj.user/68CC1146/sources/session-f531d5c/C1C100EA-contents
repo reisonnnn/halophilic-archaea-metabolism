@@ -1,0 +1,354 @@
+library(tidyverse)
+library(ggplot2)
+
+project_root <- getwd()
+
+cat("=========================================\n")
+cat("TRANSPORTER & ENZYME ANALYSIS (UPDATED)\n")
+cat("=========================================\n\n")
+
+dir.create(file.path(project_root, "results"), showWarnings = FALSE)
+dir.create(file.path(project_root, "results/figures"), showWarnings = FALSE)
+dir.create(file.path(project_root, "results/tables"), showWarnings = FALSE)
+
+transporters <- read.csv(
+  file.path(project_root, "results/tables/transporter_genes_FULL.csv"),
+  stringsAsFactors = FALSE
+)
+
+all_annotations <- read.csv(
+  file.path(project_root, "data/processed/metabolic_pathways/all_eggnog_annotations.csv"),
+  stringsAsFactors = FALSE
+)
+
+cat("TRANSPORTER ANALYSIS\n")
+cat("--------------------\n\n")
+
+cat("DETAILED TRANSPORTER BREAKDOWN:\n")
+cat("-------------------------------\n")
+print(transporters %>% select(strain_id, Description, transporter_type))
+cat("\n")
+
+transporter_summary <- transporters %>%
+  group_by(strain_id, transporter_type) %>%
+  summarise(count = n(), .groups = 'drop')
+
+cat("Transporter summary by type:\n")
+print(transporter_summary)
+cat("\n")
+
+total_transporters <- transporters %>%
+  count(strain_id, name = "total_transporters")
+
+cat("Total transporters per strain:\n")
+print(total_transporters)
+cat("\n")
+
+total_by_strain <- transporter_summary %>%
+  group_by(strain_id) %>%
+  summarise(total = sum(count), .groups = 'drop')
+
+glycerol_transporters <- transporter_summary %>%
+  filter(grepl("Glycerol|Aqua", transporter_type)) %>%
+  group_by(strain_id) %>%
+  summarise(glycerol_count = sum(count), .groups = 'drop')
+
+sugar_transporters <- transporter_summary %>%
+  filter(grepl("Sugar", transporter_type)) %>%
+  group_by(strain_id) %>%
+  summarise(sugar_count = sum(count), .groups = 'drop')
+
+comparison_table <- total_by_strain %>%
+  left_join(glycerol_transporters, by = "strain_id") %>%
+  left_join(sugar_transporters, by = "strain_id") %>%
+  mutate(
+    glycerol_count = ifelse(is.na(glycerol_count), 0, glycerol_count),
+    sugar_count = ifelse(is.na(sugar_count), 0, sugar_count)
+  )
+
+cat("========================================\n")
+cat("CRITICAL COMPARISON:\n")
+cat("========================================\n")
+for(i in 1:nrow(comparison_table)) {
+  cat(sprintf("%s:\n", comparison_table$strain_id[i]))
+  cat(sprintf("  TOTAL:   %d transporters\n", comparison_table$total[i]))
+  cat(sprintf("  Glycerol: %d transporters\n", comparison_table$glycerol_count[i]))
+  cat(sprintf("  Sugar: %d transporters\n", comparison_table$sugar_count[i]))
+  cat("\n")
+}
+cat("========================================\n\n")
+
+color_map <- c(
+  "Sugar/Glucose" = "#1976D2",
+  "Glycerol (strict match)" = "#2E7D32",
+  "Aquaglyceroporin/Channel" = "#66BB6A",
+  "Glycerol metabolism (may indicate uptake)" = "#81C784"
+)
+
+available_types <- unique(transporter_summary$transporter_type)
+colors_to_use <- color_map[names(color_map) %in% available_types]
+
+p1 <- ggplot(transporter_summary, aes(x = strain_id, y = count, fill = transporter_type)) +
+  geom_col(position = "stack", width = 0.7) +
+  geom_text(data = total_by_strain, 
+            aes(x = strain_id, y = total, label = paste0("Total: ", total), fill = NULL),
+            vjust = -0.5, color = "black", fontface = "bold", size = 5) +
+  scale_fill_manual(values = colors_to_use) +
+  labs(
+    title = "Transporter Distribution by Substrate Type",
+    subtitle = "Complete breakdown including glycerol channels and uptake mechanisms",
+    x = "Strain",
+    y = "Number of Transporters",
+    fill = "Transporter Specificity"
+  ) +
+  ylim(0, max(total_by_strain$total) * 1.15) +
+  theme_minimal(base_size = 14) +
+  theme(
+    plot.title = element_text(face = "bold", hjust = 0.5, size = 18),
+    plot.subtitle = element_text(hjust = 0.5, size = 11, color = "#555555"),
+    legend.position = "right",
+    panel.grid.major.x = element_blank()
+  )
+
+ggsave(file.path(project_root, "results/figures/transporter_distribution.png"),
+       p1, width = 12, height = 7, dpi = 300)
+
+cat("✓ Transporter distribution plot saved\n\n")
+
+comparison_long <- comparison_table %>%
+  select(strain_id, glycerol_count, sugar_count) %>%
+  pivot_longer(cols = c(glycerol_count, sugar_count),
+               names_to = "substrate",
+               values_to = "count") %>%
+  mutate(substrate = case_when(
+    substrate == "glycerol_count" ~ "Glycerol",
+    substrate == "sugar_count" ~ "Sugar/Glucose"
+  ))
+
+p1b <- ggplot(comparison_long, aes(x = strain_id, y = count, fill = substrate)) +
+  geom_col(position = "dodge", width = 0.7) +
+  geom_text(aes(label = count), position = position_dodge(width = 0.7),
+            vjust = -0.5, fontface = "bold", size = 5) +
+  scale_fill_manual(
+    values = c(
+      "Glycerol" = "#2E7D32",
+      "Sugar/Glucose" = "#1976D2"
+    )
+  ) +
+  labs(
+    title = "Glycerol vs Sugar/Glucose Transporters",
+    subtitle = "Direct comparison showing uptake capacity",
+    x = "Strain",
+    y = "Number of Transporters",
+    fill = "Substrate Type"
+  ) +
+  ylim(0, max(comparison_long$count) * 1.15) +
+  theme_minimal(base_size = 14) +
+  theme(
+    plot.title = element_text(face = "bold", hjust = 0.5, size = 18),
+    plot.subtitle = element_text(hjust = 0.5, size = 12, color = "#555555"),
+    legend.position = "top",
+    panel.grid.major.x = element_blank()
+  )
+
+ggsave(file.path(project_root, "results/figures/transporter_comparison.png"),
+       p1b, width = 10, height = 7, dpi = 300)
+
+cat("✓ Glycerol vs Sugar comparison plot saved\n\n")
+
+cat("KEY ENZYME ANALYSIS\n")
+cat("-------------------\n\n")
+
+key_enzymes <- list(
+  "Glycerol kinase" = "2.7.1.30",
+  "Glycerol-3-P dehydrogenase" = "1.1.1.6|1.1.5.3",
+  "Dihydroxyacetone kinase" = "2.7.1.29",
+  "Glucose-6-phosphate isomerase" = "5.3.1.9",
+  "Phosphofructokinase" = "2.7.1.11",
+  "Hexokinase" = "2.7.1.1"
+)
+
+enzyme_presence <- data.frame()
+
+for (enzyme_name in names(key_enzymes)) {
+  ec_pattern <- key_enzymes[[enzyme_name]]
+  
+  enzyme_counts <- all_annotations %>%
+    filter(grepl(ec_pattern, EC)) %>%
+    group_by(strain_id) %>%
+    summarise(count = n(), .groups = 'drop') %>%
+    mutate(enzyme = enzyme_name)
+  
+  enzyme_presence <- rbind(enzyme_presence, enzyme_counts)
+}
+
+all_combos <- expand.grid(
+  strain_id = unique(all_annotations$strain_id),
+  enzyme = names(key_enzymes),
+  stringsAsFactors = FALSE
+)
+
+enzyme_presence <- all_combos %>%
+  left_join(enzyme_presence, by = c("strain_id", "enzyme")) %>%
+  mutate(count = ifelse(is.na(count), 0, count))
+
+cat("Key enzyme presence:\n")
+print(enzyme_presence %>% pivot_wider(names_from = strain_id, values_from = count))
+cat("\n")
+
+p2 <- ggplot(enzyme_presence, aes(x = strain_id, y = enzyme, fill = count)) +
+  geom_tile(color = "white", size = 1) +
+  geom_text(aes(label = count), color = "black", fontface = "bold", size = 6) +
+  scale_fill_gradient(low = "#FFF5F0", high = "#CB181D", limits = c(0, max(enzyme_presence$count))) +
+  labs(
+    title = "Key Metabolic Enzyme Presence",
+    subtitle = "Copy number of critical enzymes",
+    x = "Strain",
+    y = "Enzyme",
+    fill = "Copy Number"
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(
+    plot.title = element_text(face = "bold", hjust = 0.5, size = 16),
+    plot.subtitle = element_text(hjust = 0.5),
+    axis.text.y = element_text(hjust = 1),
+    panel.grid = element_blank()
+  )
+
+ggsave(file.path(project_root, "results/figures/key_enzyme_heatmap.png"),
+       p2, width = 10, height = 6, dpi = 300)
+
+cat("✓ Key enzyme heatmap saved\n\n")
+
+cat("PATHWAY COMPLETENESS\n")
+cat("--------------------\n\n")
+
+glycerol_pathway_genes <- c("2.7.1.30", "1.1.1.6", "1.1.5.3", "2.7.1.29")
+glycolysis_genes <- c("2.7.1.1", "5.3.1.9", "2.7.1.11", "4.1.2.13", "2.7.2.3")
+
+pathway_completeness <- data.frame(
+  strain_id = unique(all_annotations$strain_id)
+)
+
+for (strain in pathway_completeness$strain_id) {
+  strain_data <- all_annotations %>% filter(strain_id == strain)
+  
+  glycerol_present <- sum(sapply(glycerol_pathway_genes, function(ec) {
+    any(grepl(ec, strain_data$EC))
+  }))
+  
+  glycolysis_present <- sum(sapply(glycolysis_genes, function(ec) {
+    any(grepl(ec, strain_data$EC))
+  }))
+  
+  pathway_completeness[pathway_completeness$strain_id == strain, "glycerol_pathway"] <- 
+    glycerol_present
+  pathway_completeness[pathway_completeness$strain_id == strain, "glycolysis_pathway"] <- 
+    glycolysis_present
+}
+
+pathway_completeness <- pathway_completeness %>%
+  mutate(
+    glycerol_pct = round(glycerol_pathway / length(glycerol_pathway_genes) * 100, 1),
+    glycolysis_pct = round(glycolysis_pathway / length(glycolysis_genes) * 100, 1)
+  )
+
+cat("Pathway completeness:\n")
+print(pathway_completeness)
+cat("\n")
+
+cat("CREATING SUMMARY TABLE\n")
+cat("----------------------\n\n")
+
+total_proteins <- all_annotations %>%
+  group_by(strain_id) %>%
+  summarise(total = n(), .groups = 'drop')
+
+annotated_proteins <- all_annotations %>%
+  filter(!is.na(KEGG_ko) & KEGG_ko != "" & KEGG_ko != "-") %>%
+  group_by(strain_id) %>%
+  summarise(annotated = n(), .groups = 'drop')
+
+glycerol_genes <- all_annotations %>%
+  filter(grepl("glycerol", Description, ignore.case = TRUE)) %>%
+  group_by(strain_id) %>%
+  summarise(glycerol = n(), .groups = 'drop')
+
+glucose_genes <- all_annotations %>%
+  filter(grepl("glucose|glycolysis", Description, ignore.case = TRUE)) %>%
+  group_by(strain_id) %>%
+  summarise(glucose = n(), .groups = 'drop')
+
+summary_table <- total_proteins %>%
+  left_join(annotated_proteins, by = "strain_id") %>%
+  left_join(comparison_table %>% select(strain_id, glycerol_count, sugar_count), 
+            by = "strain_id") %>%
+  left_join(glycerol_genes, by = "strain_id") %>%
+  left_join(glucose_genes, by = "strain_id") %>%
+  mutate(
+    annotated_pct = round(annotated / total * 100, 1),
+    glycerol = ifelse(is.na(glycerol), 0, glycerol),
+    glucose = ifelse(is.na(glucose), 0, glucose)
+  ) %>%
+  select(strain_id, total, annotated_pct, 
+         glycerol_count, sugar_count,
+         glycerol, glucose)
+
+colnames(summary_table) <- c("Strain", "Total_Proteins", "Annotated_Pct", 
+                             "Glycerol_Transporters", "Sugar_Transporters",
+                             "Glycerol_Genes", "Glucose_Genes")
+
+write.csv(summary_table,
+          file.path(project_root, "results/tables/complete_summary_UPDATED.csv"),
+          row.names = FALSE)
+
+cat("Summary table:\n")
+print(summary_table)
+cat("\n")
+
+cat("=========================================\n")
+cat("KEY FINDINGS (UPDATED)\n")
+cat("=========================================\n\n")
+
+cat("1. TRANSPORTER DISTRIBUTION:\n\n")
+for(i in 1:nrow(summary_table)) {
+  cat(sprintf("   %s:\n", summary_table$Strain[i]))
+  cat(sprintf("   - Glycerol transporters: %d\n", summary_table$Glycerol_Transporters[i]))
+  cat(sprintf("   - Sugar transporters: %d\n", summary_table$Sugar_Transporters[i]))
+  cat(sprintf("   - RATIO (Glycerol:Sugar): %.2f\n\n", 
+              summary_table$Glycerol_Transporters[i] / summary_table$Sugar_Transporters[i]))
+}
+
+cat("2. INTERPRETATION:\n")
+if(summary_table$Glycerol_Transporters[1] > 0) {
+  cat("   KBTZ03 HAS glycerol transporters!\n")
+  cat("   Growth preference likely due to:\n")
+  cat("   a) Similar or better glycerol uptake capacity\n")
+  cat("   b) Limited sugar transport (only", summary_table$Sugar_Transporters[1], "transporters)\n")
+  cat("   c) Efficient glycerol metabolism pathway\n\n")
+} else {
+  cat("   KBTZ03 has NO specific glycerol transporters\n")
+  cat("   Growth preference likely due to:\n")
+  cat("   a) Passive glycerol diffusion (small uncharged molecule)\n")
+  cat("   b) Very limited sugar import capacity\n")
+  cat("   c) Efficient glycerol metabolism once inside\n\n")
+}
+
+cat("3. METABOLIC GENE DISTRIBUTION:\n")
+for(i in 1:nrow(summary_table)) {
+  cat(sprintf("   - %s: %d glycerol metabolism genes, %d glucose genes\n", 
+              summary_table$Strain[i], 
+              summary_table$Glycerol_Genes[i],
+              summary_table$Glucose_Genes[i]))
+}
+cat("\n")
+
+cat("FILES SAVED:\n")
+cat("- results/figures/transporter_distribution.png (UPDATED with full breakdown)\n")
+cat("- results/figures/transporter_comparison.png (direct glycerol vs sugar)\n")
+cat("- results/figures/key_enzyme_heatmap.png\n")
+cat("- results/tables/complete_summary_UPDATED.csv\n\n")
+
+cat("=========================================\n")
+cat("ANALYSIS COMPLETE\n")
+cat("=========================================\n")

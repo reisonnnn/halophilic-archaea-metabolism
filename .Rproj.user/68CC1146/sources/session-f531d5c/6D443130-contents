@@ -1,0 +1,234 @@
+library(tidyverse)
+
+project_root <- getwd()
+
+cat("=========================================\n")
+cat("ENTNER-DOUDOROFF (ED) PATHWAY ANALYSIS\n")
+cat("=========================================\n\n")
+
+# Load annotations
+all_annotations <- read.csv(
+  file.path(project_root, "data/processed/metabolic_pathways/all_eggnog_annotations.csv"),
+  stringsAsFactors = FALSE
+)
+
+cat("Checking for ED pathway enzymes...\n\n")
+
+# ED pathway key enzymes (archaea use modified/semi-phosphorylated ED pathway)
+ed_enzymes <- data.frame(
+  KO = c(
+    # Classical ED pathway
+    "K00036",  # Glucose-6-phosphate dehydrogenase
+    "K01690",  # 6-phosphogluconate dehydratase
+    "K01625",  # 2-keto-3-deoxy-6-phosphogluconate aldolase (KDPG aldolase)
+    
+    # Non-phosphorylated (archaea-specific) ED pathway
+    "K00034",  # Glucose 1-dehydrogenase
+    "K01684",  # Gluconate dehydratase
+    "K16370",  # 2-keto-3-deoxygluconate aldolase (KDG aldolase)
+    
+    # Related/alternative
+    "K07404",  # Gluconokinase
+    "K00042",  # 6-phosphogluconate dehydrogenase (oxidative pentose phosphate)
+    "K01057",  # 6-phosphogluconolactonase
+    "K00849"   # Galactokinase (can phosphorylate glucose in some archaea)
+  ),
+  enzyme = c(
+    "Glucose-6-P DH (G6PDH)",
+    "6-Phosphogluconate dehydratase",
+    "KDPG aldolase (phosphorylated ED)",
+    "Glucose 1-DH (non-phosphorylated ED)",
+    "Gluconate dehydratase (non-phosphorylated ED)",
+    "KDG aldolase (non-phosphorylated ED)",
+    "Gluconokinase",
+    "6-Phosphogluconate DH",
+    "6-Phosphogluconolactonase",
+    "Galactokinase"
+  ),
+  pathway_type = c(
+    "Phosphorylated ED",
+    "Phosphorylated ED",
+    "Phosphorylated ED",
+    "Non-phosphorylated ED (archaea)",
+    "Non-phosphorylated ED (archaea)",
+    "Non-phosphorylated ED (archaea)",
+    "Bridge enzyme",
+    "PPP/ED hybrid",
+    "PPP/ED hybrid",
+    "Alternative"
+  ),
+  stringsAsFactors = FALSE
+)
+
+# Find ED pathway enzymes
+ed_pathway_genes <- all_annotations %>%
+  filter(KEGG_ko %in% paste0("ko:", ed_enzymes$KO)) %>%
+  mutate(KEGG_ko = str_remove(KEGG_ko, "ko:")) %>%
+  left_join(ed_enzymes, by = c("KEGG_ko" = "KO"))
+
+cat("ED pathway genes found:\n")
+print(table(ed_pathway_genes$strain_id))
+cat("\n")
+
+# Count copies per strain
+ed_copies <- ed_pathway_genes %>%
+  group_by(strain_id, KEGG_ko, enzyme, pathway_type) %>%
+  summarise(copies = n(), .groups = 'drop') %>%
+  right_join(
+    expand.grid(
+      strain_id = unique(all_annotations$strain_id),
+      KEGG_ko = ed_enzymes$KO,
+      stringsAsFactors = FALSE
+    ),
+    by = c("strain_id", "KEGG_ko")
+  ) %>%
+  mutate(copies = ifelse(is.na(copies), 0, copies)) %>%
+  left_join(ed_enzymes %>% select(KO, enzyme, pathway_type), by = c("KEGG_ko" = "KO")) %>%
+  mutate(
+    enzyme = ifelse(is.na(enzyme.y), enzyme.x, enzyme.y),
+    pathway_type = ifelse(is.na(pathway_type.y), pathway_type.x, pathway_type.y)
+  ) %>%
+  select(strain_id, KEGG_ko, enzyme, pathway_type, copies)
+
+# Create summary by pathway type
+pathway_summary <- ed_copies %>%
+  filter(!is.na(pathway_type)) %>%
+  group_by(strain_id, pathway_type) %>%
+  summarise(
+    total_enzymes = sum(copies > 0),
+    total_copies = sum(copies),
+    .groups = 'drop'
+  )
+
+cat("ED Pathway Summary by Type:\n")
+print(pathway_summary)
+cat("\n")
+
+# Detailed breakdown
+cat("Detailed ED Enzyme Copy Numbers:\n")
+cat("=================================\n\n")
+
+for (strain in c("KBTZ03", "KBTZ05", "KBTZ06")) {
+  strain_label <- case_when(
+    strain == "KBTZ03" ~ "HS (KBTZ03)",
+    strain == "KBTZ05" ~ "HM (KBTZ05)",
+    strain == "KBTZ06" ~ "HA (KBTZ06)"
+  )
+  
+  cat(sprintf("%s:\n", strain_label))
+  cat(rep("-", 50), "\n", sep = "")
+  
+  strain_data <- ed_copies %>%
+    filter(strain_id == strain, !is.na(enzyme)) %>%
+    select(enzyme, pathway_type, copies) %>%
+    arrange(desc(copies))
+  
+  for (i in 1:nrow(strain_data)) {
+    cat(sprintf("  %-45s [%s]: %d\n", 
+                strain_data$enzyme[i], 
+                strain_data$pathway_type[i], 
+                strain_data$copies[i]))
+  }
+  cat("\n")
+}
+
+# Check for complete pathways
+cat("PATHWAY COMPLETENESS CHECK:\n")
+cat("===========================\n\n")
+
+for (strain in c("KBTZ03", "KBTZ05", "KBTZ06")) {
+  strain_label <- case_when(
+    strain == "KBTZ03" ~ "HS (KBTZ03)",
+    strain == "KBTZ05" ~ "HM (KBTZ05)",
+    strain == "KBTZ06" ~ "HA (KBTZ06)"
+  )
+  
+  cat(sprintf("%s:\n", strain_label))
+  
+  # Classical phosphorylated ED pathway
+  has_g6pdh <- any(ed_copies$strain_id == strain & ed_copies$KEGG_ko == "K00036" & ed_copies$copies > 0)
+  has_6pgd_dehydratase <- any(ed_copies$strain_id == strain & ed_copies$KEGG_ko == "K01690" & ed_copies$copies > 0)
+  has_kdpg_aldolase <- any(ed_copies$strain_id == strain & ed_copies$KEGG_ko == "K01625" & ed_copies$copies > 0)
+  
+  phosphorylated_complete <- has_g6pdh & has_6pgd_dehydratase & has_kdpg_aldolase
+  
+  cat(sprintf("  Phosphorylated ED: %s\n", ifelse(phosphorylated_complete, "COMPLETE ✓", "INCOMPLETE ✗")))
+  cat(sprintf("    - G6P DH: %s\n", ifelse(has_g6pdh, "✓", "✗")))
+  cat(sprintf("    - 6PG dehydratase: %s\n", ifelse(has_6pgd_dehydratase, "✓", "✗")))
+  cat(sprintf("    - KDPG aldolase: %s\n", ifelse(has_kdpg_aldolase, "✓", "✗")))
+  
+  # Non-phosphorylated (archaea) ED pathway
+  has_glc_dh <- any(ed_copies$strain_id == strain & ed_copies$KEGG_ko == "K00034" & ed_copies$copies > 0)
+  has_gluconate_dehydratase <- any(ed_copies$strain_id == strain & ed_copies$KEGG_ko == "K01684" & ed_copies$copies > 0)
+  has_kdg_aldolase <- any(ed_copies$strain_id == strain & ed_copies$KEGG_ko == "K16370" & ed_copies$copies > 0)
+  
+  nonphosphorylated_complete <- has_glc_dh & has_gluconate_dehydratase & has_kdg_aldolase
+  
+  cat(sprintf("  Non-phosphorylated ED (archaea): %s\n", ifelse(nonphosphorylated_complete, "COMPLETE ✓", "INCOMPLETE ✗")))
+  cat(sprintf("    - Glucose DH: %s\n", ifelse(has_glc_dh, "✓", "✗")))
+  cat(sprintf("    - Gluconate dehydratase: %s\n", ifelse(has_gluconate_dehydratase, "✓", "✗")))
+  cat(sprintf("    - KDG aldolase: %s\n", ifelse(has_kdg_aldolase, "✓", "✗")))
+  
+  cat("\n")
+}
+
+# Compare with glycerol pathway
+cat("\n")
+cat("COMPARING GLUCOSE (ED) vs GLYCEROL METABOLISM:\n")
+cat("==============================================\n\n")
+
+glycerol_summary <- all_annotations %>%
+  filter(grepl("ko00561", KEGG_Pathway) | 
+           grepl("glycerol", Description, ignore.case = TRUE) |
+           grepl("2.7.1.30|1.1.1.6|1.1.5.3|2.7.1.29", EC)) %>%
+  group_by(strain_id) %>%
+  summarise(glycerol_genes = n(), .groups = 'drop')
+
+ed_summary <- ed_pathway_genes %>%
+  group_by(strain_id) %>%
+  summarise(ed_genes = n(), .groups = 'drop')
+
+comparison <- full_join(glycerol_summary, ed_summary, by = "strain_id") %>%
+  mutate(
+    glycerol_genes = ifelse(is.na(glycerol_genes), 0, glycerol_genes),
+    ed_genes = ifelse(is.na(ed_genes), 0, ed_genes),
+    ratio = glycerol_genes / (ed_genes + 1)
+  )
+
+for (i in 1:nrow(comparison)) {
+  strain_label <- case_when(
+    comparison$strain_id[i] == "KBTZ03" ~ "HS",
+    comparison$strain_id[i] == "KBTZ05" ~ "HM",
+    comparison$strain_id[i] == "KBTZ06" ~ "HA"
+  )
+  
+  cat(sprintf("%s (%s):\n", strain_label, comparison$strain_id[i]))
+  cat(sprintf("  Glycerol genes: %d\n", comparison$glycerol_genes[i]))
+  cat(sprintf("  ED pathway genes: %d\n", comparison$ed_genes[i]))
+  cat(sprintf("  Glycerol:ED ratio: %.2f\n", comparison$ratio[i]))
+  cat("\n")
+}
+
+# Save results
+write.csv(ed_copies, 
+          file.path(project_root, "results/tables/ED_pathway_enzymes.csv"),
+          row.names = FALSE)
+
+write.csv(ed_pathway_genes %>% select(strain_id, X.query, KEGG_ko, EC, Description, enzyme, pathway_type),
+          file.path(project_root, "results/tables/ED_pathway_genes_detailed.csv"),
+          row.names = FALSE)
+
+write.csv(comparison,
+          file.path(project_root, "results/tables/glycerol_vs_ED_comparison.csv"),
+          row.names = FALSE)
+
+cat("\n")
+cat("Files created:\n")
+cat("- results/tables/ED_pathway_enzymes.csv\n")
+cat("- results/tables/ED_pathway_genes_detailed.csv\n")
+cat("- results/tables/glycerol_vs_ED_comparison.csv\n")
+cat("\n")
+
+cat("=========================================\n")
+cat("ED PATHWAY ANALYSIS COMPLETE\n")
+cat("=========================================\n")

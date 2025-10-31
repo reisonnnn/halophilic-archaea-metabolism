@@ -1,0 +1,166 @@
+"strain_id","pathway_name","gene_count"
+"ha","Glycolysis/Gluconeogenesis",48
+"ha","TCA cycle",26
+"ha","Pentose phosphate",21
+"ha","Pentose/glucuronate",11
+"ha","Fructose/mannose",15
+"ha","Galactose",16
+"ha","Fatty acid biosynthesis",8
+"ha","Fatty acid degradation",30
+"ha","Oxidative phosphorylation",50
+"ha","Photosynthesis",2
+"ha","Purine metabolism",61
+"ha","Pyrimidine metabolism",47
+"ha","Alanine/aspartate/glutamate",32
+"ha","Glycine/serine/threonine",36
+"ha","Cysteine/methionine",27
+"ha","Valine/leucine/isoleucine biosyn",34
+"ha","Valine/leucine/isoleucine degrad",16
+"ha","Lysine biosynthesis",15
+"ha","Arginine/proline",26
+"ha","Histidine",20
+"ha","Tyrosine",14
+"ha","Phenylalanine",19
+"ha","Tryptophan",17
+"ha","Phosphonate/phosphinate",27
+"ha","Taurine/hypotaurine",15
+"ha","beta-Alanine",3
+"ha","Glutathione",2
+"ha","Selenocompound",10
+"ha","Cyanoamino acid",4
+"ha","Glutamate",3
+"ha","Starch/sucrose",13
+"ha","Amino sugar/nucleotide sugar",26
+"ha","Glycerol",7
+"ha","Inositol phosphate",2
+"ha","Glycerolipid",11
+"ha","Pyruvate",49
+"ha","Glyoxylate/dicarboxylate",51
+"ha","Propanoate",39
+"ha","Butanoate",31
+"ha","C5-Branched dibasic",16
+"ha","1,2-Dichloroethane",16
+"ha","Naphthalene",40
+"ha","Methane",11
+"ha","Carbon fixation",42
+"ha","Thiamine",9
+"ha","Riboflavin",8
+"ha","Vitamin B6",6
+"ha","Pantothenate/CoA",17
+"ha","Biotin",18
+"ha","Lipoic acid",10
+"ha","Porphyrin/chlorophyll",2
+"ha","Ubiquinone/terpenoid",22
+"ha","Nicotinate/nicotinamide",19
+"ha","Nitrogen",19
+"ha","Sulfur",11
+"hm","Glycolysis/Gluconeogenesis",30
+"hm","TCA cycle",22
+"hm","Pentose phosphate",19
+"hm","Pentose/glucuronate",5
+"hm","Fructose/mannose",10
+"hm","Galactose",13
+"hm","Fatty acid biosynthesis",8
+"hm","Fatty acid degradation",14
+"hm","Oxidative phosphorylation",42
+"hm","Photosynthesis",1
+"hm","Purine metabolism",53
+"hm","Pyrimidine metabolism",43
+"hm","Alanine/aspartate/glutamate",29
+"hm","Glycine/serine/threonine",32
+"hm","Cysteine/methionine",24
+"hm","Valine/leucine/isoleucine biosyn",20
+"hm","Valine/leucine/isoleucine degrad",15
+"hm","Lysine biosynthesis",15
+"hm","Arginine/proline",18
+"hm","Histidine",12
+"hm","Tyrosine",10
+"hm","Phenylalanine",11
+"hm","Tryptophan",6
+"hm","Phosphonate/phosphinate",25
+"hm","Taurine/hypotaurine",9
+"hm","beta-Alanine",3
+"hm","Glutathione",2
+"hm","Selenocompound",7
+"hm","Cyanoamino acid",5
+"hm","Glutamate",5
+"hm","Starch/sucrose",10
+"hm","Amino sugar/nucleotide sugar",23
+"hm","Glycerol",4
+"hm","Inositol phosphate",5
+"hm","Glycerolipid",13
+"hm","Pyruvate",31
+"hm","Glyoxylate/dicarboxylate",39
+"hm","Propanoate",25
+"hm","Butanoate",24
+"hm","C5-Branched dibasic",15
+"hm","1,2-Dichloroethane",11
+"hm","Naphthalene",28
+"hm","Methane",12
+"hm","Carbon fixation",29
+"hm","Thiamine",9
+"hm","Riboflavin",8
+"hm","Vitamin B6",7
+"hm","Pantothenate/CoA",14
+"hm","Biotin",15
+"hm","Lipoic acid",9
+"hm","Porphyrin/chlorophyll",2
+"hm","Ubiquinone/terpenoid",23
+"hm","Nicotinate/nicotinamide",14
+"hm","Nitrogen",10
+"hm","Sulfur",12
+"hs","Glycolysis/Gluconeogenesis",31
+"hs","TCA cycle",22
+"hs","Pentose phosphate",15
+"hs","Pentose/glucuronate",3
+"hs","Fructose/mannose",7
+"hs","Galactose",5
+"hs","Fatty acid biosynthesis",5
+"hs","Fatty acid degradation",14
+"hs","Oxidative phosphorylation",36
+"hs","Photosynthesis",1
+"hs","Purine metabolism",57
+"hs","Pyrimidine metabolism",47
+"hs","Alanine/aspartate/glutamate",24
+"hs","Glycine/serine/threonine",29
+"hs","Cysteine/methionine",23
+"hs","Valine/leucine/isoleucine biosyn",18
+"hs","Valine/leucine/isoleucine degrad",3
+"hs","Lysine biosynthesis",4
+"hs","Arginine/proline",12
+"hs","Histidine",16
+"hs","Tyrosine",8
+"hs","Phenylalanine",8
+"hs","Tryptophan",9
+"hs","Phosphonate/phosphinate",24
+"hs","Taurine/hypotaurine",7
+"hs","beta-Alanine",2
+"hs","Glutathione",1
+"hs","Selenocompound",6
+"hs","Cyanoamino acid",2
+"hs","Glutamate",2
+"hs","Starch/sucrose",3
+"hs","Amino sugar/nucleotide sugar",13
+"hs","Glycerol",5
+"hs","Inositol phosphate",2
+"hs","Glycerolipid",14
+"hs","Pyruvate",32
+"hs","Glyoxylate/dicarboxylate",28
+"hs","Propanoate",23
+"hs","Butanoate",15
+"hs","C5-Branched dibasic",5
+"hs","1,2-Dichloroethane",8
+"hs","Naphthalene",23
+"hs","Methane",9
+"hs","Carbon fixation",27
+"hs","Thiamine",7
+"hs","Riboflavin",8
+"hs","Vitamin B6",5
+"hs","Pantothenate/CoA",13
+"hs","Biotin",9
+"hs","Lipoic acid",3
+"hs","Porphyrin/chlorophyll",2
+"hs","Ubiquinone/terpenoid",19
+"hs","Nicotinate/nicotinamide",14
+"hs","Nitrogen",6
+"hs","Sulfur",9

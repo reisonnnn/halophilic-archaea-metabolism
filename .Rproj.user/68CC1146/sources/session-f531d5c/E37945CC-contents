@@ -1,0 +1,374 @@
+library(tidyverse)
+library(VennDiagram)
+library(ggplot2)
+library(RColorBrewer)
+
+project_root <- getwd()
+
+cat("=========================================\n")
+cat("COMPARATIVE STRAIN ANALYSIS (FIXED)\n")
+cat("=========================================\n\n")
+
+all_annotations <- read.csv(
+  file.path(project_root, "data/processed/metabolic_pathways/all_eggnog_annotations.csv"),
+  stringsAsFactors = FALSE
+)
+
+cat("1. ANNOTATION COVERAGE\n")
+cat("----------------------\n\n")
+
+annotation_stats <- all_annotations %>%
+  group_by(strain_id) %>%
+  summarise(
+    total_proteins = n(),
+    annotated = sum(!is.na(Description) & Description != "" & Description != "-"),
+    with_kegg_pathway = sum(!is.na(KEGG_Pathway) & KEGG_Pathway != "" & KEGG_Pathway != "-"),
+    with_ko = sum(!is.na(KEGG_ko) & KEGG_ko != "" & KEGG_ko != "-"),
+    with_cog = sum(!is.na(COG_category) & COG_category != "" & COG_category != "-"),
+    unannotated = sum(is.na(Description) | Description == "" | Description == "-")
+  ) %>%
+  mutate(
+    pct_annotated = round(annotated / total_proteins * 100, 1),
+    pct_with_pathway = round(with_kegg_pathway / total_proteins * 100, 1),
+    pct_with_ko = round(with_ko / total_proteins * 100, 1)
+  )
+
+cat("Annotation Statistics:\n")
+print(annotation_stats)
+cat("\n")
+
+write.csv(annotation_stats, 
+          file.path(project_root, "results/tables/annotation_coverage.csv"),
+          row.names = FALSE)
+
+p1 <- annotation_stats %>%
+  select(strain_id, annotated, unannotated) %>%
+  pivot_longer(cols = c(annotated, unannotated), 
+               names_to = "status", values_to = "count") %>%
+  ggplot(aes(x = strain_id, y = count, fill = status)) +
+  geom_col(position = "stack") +
+  geom_text(aes(label = count), position = position_stack(vjust = 0.5), 
+            color = "white", fontface = "bold") +
+  scale_fill_manual(values = c("annotated" = "#2E7D32", "unannotated" = "#D32F2F"),
+                    labels = c("Annotated", "Unannotated")) +
+  labs(title = "Annotation Coverage by Strain",
+       subtitle = paste0("KBTZ03: ", annotation_stats$pct_annotated[1], "% | ",
+                         "KBTZ05: ", annotation_stats$pct_annotated[2], "% | ",
+                         "KBTZ06: ", annotation_stats$pct_annotated[3], "%"),
+       x = "Strain", y = "Number of Proteins", fill = "Status") +
+  theme_minimal(base_size = 14) +
+  theme(plot.title = element_text(face = "bold", hjust = 0.5),
+        plot.subtitle = element_text(hjust = 0.5))
+
+ggsave(file.path(project_root, "results/figures/annotation_coverage.png"),
+       p1, width = 10, height = 6, dpi = 300)
+
+cat("✓ Annotation coverage plot saved\n\n")
+
+cat("2. ORTHOLOG OVERLAP (Venn Diagram)\n")
+cat("----------------------------------\n\n")
+
+kbtz03_orthologs <- all_annotations %>%
+  filter(strain_id == "KBTZ03", 
+         !is.na(eggNOG_OGs) & eggNOG_OGs != "" & eggNOG_OGs != "-") %>%
+  pull(eggNOG_OGs) %>%
+  unique()
+
+kbtz05_orthologs <- all_annotations %>%
+  filter(strain_id == "KBTZ05",
+         !is.na(eggNOG_OGs) & eggNOG_OGs != "" & eggNOG_OGs != "-") %>%
+  pull(eggNOG_OGs) %>%
+  unique()
+
+kbtz06_orthologs <- all_annotations %>%
+  filter(strain_id == "KBTZ06",
+         !is.na(eggNOG_OGs) & eggNOG_OGs != "" & eggNOG_OGs != "-") %>%
+  pull(eggNOG_OGs) %>%
+  unique()
+
+cat("Unique orthologs per strain:\n")
+cat(sprintf("KBTZ03 (Halobacterium): %d\n", length(kbtz03_orthologs)))
+cat(sprintf("KBTZ05 (Halomicrobium): %d\n", length(kbtz05_orthologs)))
+cat(sprintf("KBTZ06 (Haloarcula): %d\n", length(kbtz06_orthologs)))
+cat("\n")
+
+venn_colors <- c("#FF6B6B", "#95E1D3", "#A8E6CF")
+
+png(file.path(project_root, "results/figures/venn_ortholog_overlap.png"),
+    width = 3000, height = 3000, res = 300)
+
+venn.plot <- venn.diagram(
+  x = list(
+    HS = kbtz03_orthologs,
+    HM = kbtz05_orthologs,
+    HA = kbtz06_orthologs
+  ),
+  category.names = c("HS (KBTZ03)", "HM (KBTZ05)", "HA (KBTZ06)"),
+  filename = NULL,
+  output = TRUE,
+  lwd = 2,
+  lty = 'solid',
+  fill = venn_colors,
+  alpha = 0.5,
+  cex = 2,
+  fontface = "bold",
+  fontfamily = "sans",
+  cat.cex = 1.8,
+  cat.fontface = "bold",
+  cat.default.pos = "outer",
+  cat.pos = c(-27, 27, 135),
+  cat.dist = c(0.055, 0.055, 0.085),
+  main = "Metabolic Gene Overlaps",
+  main.cex = 2.5,
+  main.fontface = "bold",
+  main.pos = c(0.5, 1.05)
+)
+
+grid.draw(venn.plot)
+dev.off()
+
+cat("✓ Venn diagram saved\n\n")
+
+overlap_stats <- list(
+  HS_only = length(setdiff(setdiff(kbtz03_orthologs, kbtz05_orthologs), kbtz06_orthologs)),
+  HM_only = length(setdiff(setdiff(kbtz05_orthologs, kbtz03_orthologs), kbtz06_orthologs)),
+  HA_only = length(setdiff(setdiff(kbtz06_orthologs, kbtz03_orthologs), kbtz05_orthologs)),
+  HS_HM = length(setdiff(intersect(kbtz03_orthologs, kbtz05_orthologs), kbtz06_orthologs)),
+  HS_HA = length(setdiff(intersect(kbtz03_orthologs, kbtz06_orthologs), kbtz05_orthologs)),
+  HM_HA = length(setdiff(intersect(kbtz05_orthologs, kbtz06_orthologs), kbtz03_orthologs)),
+  All_three = length(Reduce(intersect, list(kbtz03_orthologs, kbtz05_orthologs, kbtz06_orthologs)))
+)
+
+cat("Overlap Statistics:\n")
+cat(sprintf("Core (all 3 strains): %d genes\n", overlap_stats$All_three))
+cat(sprintf("KBTZ03 unique: %d genes\n", overlap_stats$HS_only))
+cat(sprintf("KBTZ05 unique: %d genes\n", overlap_stats$HM_only))
+cat(sprintf("KBTZ06 unique: %d genes\n", overlap_stats$HA_only))
+cat(sprintf("KBTZ03-KBTZ05 shared: %d genes\n", overlap_stats$HS_HM))
+cat(sprintf("KBTZ03-KBTZ06 shared: %d genes\n", overlap_stats$HS_HA))
+cat(sprintf("KBTZ05-KBTZ06 shared: %d genes\n", overlap_stats$HM_HA))
+cat("\n")
+
+cat("3. GLYCEROL vs GLUCOSE METABOLISM\n")
+cat("---------------------------------\n\n")
+
+glycerol_metabolism <- all_annotations %>%
+  filter(grepl("ko00561", KEGG_Pathway, ignore.case = TRUE)) %>%
+  select(strain_id, X.query, KEGG_ko, KEGG_Pathway, EC, Description)
+
+cat("Glycerol metabolism genes by strain:\n")
+print(table(glycerol_metabolism$strain_id))
+cat("\n")
+
+glucose_metabolism <- all_annotations %>%
+  filter(grepl("ko00010", KEGG_Pathway, ignore.case = TRUE)) %>%
+  select(strain_id, X.query, KEGG_ko, KEGG_Pathway, EC, Description)
+
+cat("Glucose/Glycolysis metabolism genes by strain:\n")
+print(table(glucose_metabolism$strain_id))
+cat("\n")
+
+metabolism_comparison <- data.frame(
+  strain_id = c("KBTZ03", "KBTZ05", "KBTZ06"),
+  glycerol_genes = c(
+    sum(glycerol_metabolism$strain_id == "KBTZ03"),
+    sum(glycerol_metabolism$strain_id == "KBTZ05"),
+    sum(glycerol_metabolism$strain_id == "KBTZ06")
+  ),
+  glucose_genes = c(
+    sum(glucose_metabolism$strain_id == "KBTZ03"),
+    sum(glucose_metabolism$strain_id == "KBTZ05"),
+    sum(glucose_metabolism$strain_id == "KBTZ06")
+  )
+) %>%
+  mutate(
+    gly_glu_ratio = round(glycerol_genes / glucose_genes, 2)
+  )
+
+cat("Glycerol vs Glucose gene comparison:\n")
+print(metabolism_comparison)
+cat("\n")
+
+p2 <- metabolism_comparison %>%
+  pivot_longer(cols = c(glycerol_genes, glucose_genes),
+               names_to = "pathway", values_to = "count") %>%
+  ggplot(aes(x = strain_id, y = count, fill = pathway)) +
+  geom_col(position = "dodge") +
+  geom_text(aes(label = count), position = position_dodge(width = 0.9),
+            vjust = -0.5, fontface = "bold") +
+  scale_fill_manual(values = c("glycerol_genes" = "#FF6B6B", 
+                               "glucose_genes" = "#4ECDC4"),
+                    labels = c("Glucose/Glycolysis", "Glycerol")) +
+  labs(title = "Glycerol vs Glucose Metabolism Genes",
+       subtitle = "Comparison across three halophilic archaea strains",
+       x = "Strain", y = "Number of Genes", fill = "Pathway") +
+  theme_minimal(base_size = 14) +
+  theme(plot.title = element_text(face = "bold", hjust = 0.5),
+        plot.subtitle = element_text(hjust = 0.5))
+
+ggsave(file.path(project_root, "results/figures/glycerol_glucose_comparison.png"),
+       p2, width = 10, height = 6, dpi = 300)
+
+cat("✓ Metabolism comparison plot saved\n\n")
+
+write.csv(glycerol_metabolism,
+          file.path(project_root, "results/tables/glycerol_metabolism_detailed.csv"),
+          row.names = FALSE)
+
+write.csv(glucose_metabolism,
+          file.path(project_root, "results/tables/glucose_metabolism_detailed.csv"),
+          row.names = FALSE)
+
+cat("4. KEY ENZYME ANALYSIS\n")
+cat("--------------------\n\n")
+
+glycerol_enzymes <- all_annotations %>%
+  filter(
+    grepl("glycerol", Description, ignore.case = TRUE) |
+      grepl("2.7.1.30", EC) |
+      grepl("1.1.1.6", EC) |
+      grepl("2.7.1.29", EC)
+  ) %>%
+  select(strain_id, X.query, KEGG_ko, EC, Description) %>%
+  arrange(strain_id, Description)
+
+cat("Glycerol-related enzymes found:\n")
+if (nrow(glycerol_enzymes) > 0) {
+  print(table(glycerol_enzymes$strain_id))
+  cat("\nExample enzymes:\n")
+  print(head(glycerol_enzymes, 10))
+} else {
+  cat("No specific glycerol enzymes found by EC number\n")
+}
+cat("\n")
+
+write.csv(glycerol_enzymes,
+          file.path(project_root, "results/tables/glycerol_enzymes_all.csv"),
+          row.names = FALSE)
+
+cat("5. TRANSPORTER SEARCH (EXPANDED)\n")
+cat("--------------------------------\n\n")
+
+sugar_transporters <- all_annotations %>%
+  filter(
+    grepl("transport", Description, ignore.case = TRUE) &
+      (grepl("sugar|glucose|hexose", Description, ignore.case = TRUE))
+  ) %>%
+  mutate(transporter_type = "Sugar/Glucose") %>%
+  select(strain_id, X.query, KEGG_ko, COG_category, Description, transporter_type)
+
+glycerol_transporters_strict <- all_annotations %>%
+  filter(
+    grepl("transport|channel|permease|facilitator|uptake", Description, ignore.case = TRUE) &
+      grepl("glycerol", Description, ignore.case = TRUE)
+  ) %>%
+  mutate(transporter_type = "Glycerol (strict match)") %>%
+  select(strain_id, X.query, KEGG_ko, COG_category, Description, transporter_type)
+
+aquaglyceroporins <- all_annotations %>%
+  filter(
+    grepl("aquaporin|aquaglyceroporin|glpf|MIP|major intrinsic protein", Description, ignore.case = TRUE) |
+      grepl("K02440", KEGG_ko)
+  ) %>%
+  mutate(transporter_type = "Aquaglyceroporin/Channel") %>%
+  select(strain_id, X.query, KEGG_ko, COG_category, Description, transporter_type)
+
+glycerol_kinase_region <- all_annotations %>%
+  filter(
+    grepl("2.7.1.30", EC) |
+      (grepl("glycerol", Description, ignore.case = TRUE) & 
+         grepl("kinase|metabolism|utilization|uptake", Description, ignore.case = TRUE))
+  ) %>%
+  mutate(transporter_type = "Glycerol metabolism (may indicate uptake)") %>%
+  select(strain_id, X.query, KEGG_ko, COG_category, Description, transporter_type)
+
+all_transporters <- bind_rows(
+  sugar_transporters,
+  glycerol_transporters_strict,
+  aquaglyceroporins,
+  glycerol_kinase_region
+) %>%
+  distinct(strain_id, X.query, .keep_all = TRUE) %>%
+  arrange(strain_id, transporter_type, Description)
+
+cat("FULL TRANSPORTER BREAKDOWN:\n")
+cat("===========================\n\n")
+cat("Sugar/Glucose transporters:\n")
+print(table(sugar_transporters$strain_id))
+cat("\n")
+cat("Glycerol transporters (strict match):\n")
+if(nrow(glycerol_transporters_strict) > 0) {
+  print(table(glycerol_transporters_strict$strain_id))
+  print(glycerol_transporters_strict)
+} else {
+  cat("  NONE FOUND\n")
+}
+cat("\n")
+cat("Aquaglyceroporins/Channels:\n")
+if(nrow(aquaglyceroporins) > 0) {
+  print(table(aquaglyceroporins$strain_id))
+  print(aquaglyceroporins)
+} else {
+  cat("  NONE FOUND\n")
+}
+cat("\n")
+cat("Glycerol metabolism genes (potential uptake indicators):\n")
+print(table(glycerol_kinase_region$strain_id))
+cat("\n")
+
+write.csv(all_transporters,
+          file.path(project_root, "results/tables/transporter_genes_FULL.csv"),
+          row.names = FALSE)
+
+write.csv(sugar_transporters,
+          file.path(project_root, "results/tables/sugar_transporters_only.csv"),
+          row.names = FALSE)
+
+if(nrow(glycerol_transporters_strict) > 0) {
+  write.csv(glycerol_transporters_strict,
+            file.path(project_root, "results/tables/glycerol_transporters_strict.csv"),
+            row.names = FALSE)
+}
+
+if(nrow(aquaglyceroporins) > 0) {
+  write.csv(aquaglyceroporins,
+            file.path(project_root, "results/tables/aquaglyceroporins.csv"),
+            row.names = FALSE)
+}
+
+transporter_summary <- all_transporters %>%
+  group_by(strain_id, transporter_type) %>%
+  summarise(count = n(), .groups = 'drop')
+
+cat("Summary table:\n")
+print(transporter_summary %>% 
+        pivot_wider(names_from = transporter_type, values_from = count, values_fill = 0))
+cat("\n")
+
+cat("=========================================\n")
+cat("ANALYSIS COMPLETE\n")
+cat("=========================================\n\n")
+
+cat("Files saved:\n")
+cat("- results/figures/annotation_coverage.png\n")
+cat("- results/figures/venn_ortholog_overlap.png\n")
+cat("- results/figures/glycerol_glucose_comparison.png\n")
+cat("- results/tables/annotation_coverage.csv\n")
+cat("- results/tables/glycerol_metabolism_detailed.csv\n")
+cat("- results/tables/glucose_metabolism_detailed.csv\n")
+cat("- results/tables/glycerol_enzymes_all.csv\n")
+cat("- results/tables/transporter_genes_FULL.csv\n")
+cat("- results/tables/sugar_transporters_only.csv\n")
+if(nrow(glycerol_transporters_strict) > 0) cat("- results/tables/glycerol_transporters_strict.csv\n")
+if(nrow(aquaglyceroporins) > 0) cat("- results/tables/aquaglyceroporins.csv\n")
+cat("\n")
+
+cat("Key Findings:\n")
+cat("1. Annotation coverage ranges from", min(annotation_stats$pct_annotated), 
+    "% to", max(annotation_stats$pct_annotated), "%\n")
+cat("2. Core ortholog group (all 3 strains):", overlap_stats$All_three, "genes\n")
+cat("3. Glycerol metabolism genes:", sum(metabolism_comparison$glycerol_genes), "total\n")
+cat("4. Glucose metabolism genes:", sum(metabolism_comparison$glucose_genes), "total\n")
+cat("5. Sugar transporters found:", nrow(sugar_transporters), "total\n")
+cat("6. Glycerol-specific transporters:", nrow(glycerol_transporters_strict), "total\n")
+cat("7. Aquaglyceroporins found:", nrow(aquaglyceroporins), "total\n\n")

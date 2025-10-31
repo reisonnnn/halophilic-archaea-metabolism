@@ -1,0 +1,259 @@
+"KO","Enzyme","Step","Type","Present","Strain","Pathway","Note"
+"K00844","HK - Hexokinase","1","Classical_EMP",FALSE,"hs","Classical EMP",NA
+"K01810","GPI - Glucose-6-P isomerase","2","Classical_EMP",TRUE,"hs","Classical EMP",NA
+"K00850","PFK - Phosphofructokinase","3","Classical_EMP",FALSE,"hs","Classical EMP",NA
+"K01623","FBA class I","4","Classical_EMP",FALSE,"hs","Classical EMP",NA
+"K01624","FBA class II","4","Classical_EMP",FALSE,"hs","Classical EMP",NA
+"K00134","GAPDH (NAD+)","6","Classical_EMP",FALSE,"hs","Classical EMP",NA
+"K00150","GAPDH (NADP+)","6","Classical_EMP",TRUE,"hs","Classical EMP",NA
+"K00927","PGK - Phosphoglycerate kinase","7","Classical_EMP",TRUE,"hs","Classical EMP",NA
+"K01834","PGAM","8","Classical_EMP",FALSE,"hs","Classical EMP",NA
+"K15633","ENO","9","Classical_EMP",TRUE,"hs","Classical EMP",NA
+"K15634","ENO (alternative)","9","Classical_EMP",FALSE,"hs","Classical EMP",NA
+"K00873","PK - Pyruvate kinase","10","Classical_EMP",TRUE,"hs","Classical EMP",NA
+"K12406","PK (alternative)","10","Classical_EMP",FALSE,"hs","Classical EMP",NA
+"K00844","HK - Hexokinase","1","Classical_EMP",FALSE,"hm","Classical EMP",NA
+"K01810","GPI - Glucose-6-P isomerase","2","Classical_EMP",TRUE,"hm","Classical EMP",NA
+"K00850","PFK - Phosphofructokinase","3","Classical_EMP",FALSE,"hm","Classical EMP",NA
+"K01623","FBA class I","4","Classical_EMP",FALSE,"hm","Classical EMP",NA
+"K01624","FBA class II","4","Classical_EMP",FALSE,"hm","Classical EMP",NA
+"K00134","GAPDH (NAD+)","6","Classical_EMP",TRUE,"hm","Classical EMP",NA
+"K00150","GAPDH (NADP+)","6","Classical_EMP",TRUE,"hm","Classical EMP",NA
+"K00927","PGK - Phosphoglycerate kinase","7","Classical_EMP",TRUE,"hm","Classical EMP",NA
+"K01834","PGAM","8","Classical_EMP",FALSE,"hm","Classical EMP",NA
+"K15633","ENO","9","Classical_EMP",TRUE,"hm","Classical EMP",NA
+"K15634","ENO (alternative)","9","Classical_EMP",FALSE,"hm","Classical EMP",NA
+"K00873","PK - Pyruvate kinase","10","Classical_EMP",TRUE,"hm","Classical EMP",NA
+"K12406","PK (alternative)","10","Classical_EMP",FALSE,"hm","Classical EMP",NA
+"K00844","HK - Hexokinase","1","Classical_EMP",FALSE,"ha","Classical EMP",NA
+"K01810","GPI - Glucose-6-P isomerase","2","Classical_EMP",TRUE,"ha","Classical EMP",NA
+"K00850","PFK - Phosphofructokinase","3","Classical_EMP",FALSE,"ha","Classical EMP",NA
+"K01623","FBA class I","4","Classical_EMP",FALSE,"ha","Classical EMP",NA
+"K01624","FBA class II","4","Classical_EMP",FALSE,"ha","Classical EMP",NA
+"K00134","GAPDH (NAD+)","6","Classical_EMP",TRUE,"ha","Classical EMP",NA
+"K00150","GAPDH (NADP+)","6","Classical_EMP",TRUE,"ha","Classical EMP",NA
+"K00927","PGK - Phosphoglycerate kinase","7","Classical_EMP",TRUE,"ha","Classical EMP",NA
+"K01834","PGAM","8","Classical_EMP",FALSE,"ha","Classical EMP",NA
+"K15633","ENO","9","Classical_EMP",TRUE,"ha","Classical EMP",NA
+"K15634","ENO (alternative)","9","Classical_EMP",TRUE,"ha","Classical EMP",NA
+"K00873","PK - Pyruvate kinase","10","Classical_EMP",TRUE,"ha","Classical EMP",NA
+"K12406","PK (alternative)","10","Classical_EMP",FALSE,"ha","Classical EMP",NA
+"K00845","Glucokinase (archaeal)","1","Archaeal_EMP",TRUE,"hs","Archaeal EMP",NA
+"K01810","GPI","2","Archaeal_EMP",TRUE,"hs","Archaeal EMP",NA
+"K00918","ADP-dependent PFK (archaeal!)","3","Archaeal_EMP",FALSE,"hs","Archaeal EMP",NA
+"K01622","FBA (archaeal)","4","Archaeal_EMP",FALSE,"hs","Archaeal EMP",NA
+"K01623","FBA class I","4","Archaeal_EMP",FALSE,"hs","Archaeal EMP",NA
+"K01624","FBA class II","4","Archaeal_EMP",FALSE,"hs","Archaeal EMP",NA
+"K00134","GAPDH","6","Archaeal_EMP",FALSE,"hs","Archaeal EMP",NA
+"K10705","GAPOR (archaeal)","6","Archaeal_EMP",FALSE,"hs","Archaeal EMP",NA
+"K00927","PGK","7","Archaeal_EMP",TRUE,"hs","Archaeal EMP",NA
+"K01689","PGAM (archaeal 2,3-BPG dependent)","8","Archaeal_EMP",TRUE,"hs","Archaeal EMP",NA
+"K15633","ENO","9","Archaeal_EMP",TRUE,"hs","Archaeal EMP",NA
+"K15634","ENO (alternative)","9","Archaeal_EMP",FALSE,"hs","Archaeal EMP",NA
+"K00873","PK","10","Archaeal_EMP",TRUE,"hs","Archaeal EMP",NA
+"K12406","PK (alternative)","10","Archaeal_EMP",FALSE,"hs","Archaeal EMP",NA
+"K00845","Glucokinase (archaeal)","1","Archaeal_EMP",TRUE,"hm","Archaeal EMP",NA
+"K01810","GPI","2","Archaeal_EMP",TRUE,"hm","Archaeal EMP",NA
+"K00918","ADP-dependent PFK (archaeal!)","3","Archaeal_EMP",FALSE,"hm","Archaeal EMP",NA
+"K01622","FBA (archaeal)","4","Archaeal_EMP",FALSE,"hm","Archaeal EMP",NA
+"K01623","FBA class I","4","Archaeal_EMP",FALSE,"hm","Archaeal EMP",NA
+"K01624","FBA class II","4","Archaeal_EMP",FALSE,"hm","Archaeal EMP",NA
+"K00134","GAPDH","6","Archaeal_EMP",TRUE,"hm","Archaeal EMP",NA
+"K10705","GAPOR (archaeal)","6","Archaeal_EMP",FALSE,"hm","Archaeal EMP",NA
+"K00927","PGK","7","Archaeal_EMP",TRUE,"hm","Archaeal EMP",NA
+"K01689","PGAM (archaeal 2,3-BPG dependent)","8","Archaeal_EMP",TRUE,"hm","Archaeal EMP",NA
+"K15633","ENO","9","Archaeal_EMP",TRUE,"hm","Archaeal EMP",NA
+"K15634","ENO (alternative)","9","Archaeal_EMP",FALSE,"hm","Archaeal EMP",NA
+"K00873","PK","10","Archaeal_EMP",TRUE,"hm","Archaeal EMP",NA
+"K12406","PK (alternative)","10","Archaeal_EMP",FALSE,"hm","Archaeal EMP",NA
+"K00845","Glucokinase (archaeal)","1","Archaeal_EMP",TRUE,"ha","Archaeal EMP",NA
+"K01810","GPI","2","Archaeal_EMP",TRUE,"ha","Archaeal EMP",NA
+"K00918","ADP-dependent PFK (archaeal!)","3","Archaeal_EMP",FALSE,"ha","Archaeal EMP",NA
+"K01622","FBA (archaeal)","4","Archaeal_EMP",FALSE,"ha","Archaeal EMP",NA
+"K01623","FBA class I","4","Archaeal_EMP",FALSE,"ha","Archaeal EMP",NA
+"K01624","FBA class II","4","Archaeal_EMP",FALSE,"ha","Archaeal EMP",NA
+"K00134","GAPDH","6","Archaeal_EMP",TRUE,"ha","Archaeal EMP",NA
+"K10705","GAPOR (archaeal)","6","Archaeal_EMP",FALSE,"ha","Archaeal EMP",NA
+"K00927","PGK","7","Archaeal_EMP",TRUE,"ha","Archaeal EMP",NA
+"K01689","PGAM (archaeal 2,3-BPG dependent)","8","Archaeal_EMP",TRUE,"ha","Archaeal EMP",NA
+"K15633","ENO","9","Archaeal_EMP",TRUE,"ha","Archaeal EMP",NA
+"K15634","ENO (alternative)","9","Archaeal_EMP",TRUE,"ha","Archaeal EMP",NA
+"K00873","PK","10","Archaeal_EMP",TRUE,"ha","Archaeal EMP",NA
+"K12406","PK (alternative)","10","Archaeal_EMP",FALSE,"ha","Archaeal EMP",NA
+"K00844","Hexokinase","1","ED_pathway",FALSE,"hs","Entner-Doudoroff",NA
+"K00845","Glucokinase","1","ED_pathway",TRUE,"hs","Entner-Doudoroff",NA
+"K01810","GPI","2","ED_pathway",TRUE,"hs","Entner-Doudoroff",NA
+"K00036","G6P dehydrogenase","3","ED_pathway",FALSE,"hs","Entner-Doudoroff",NA
+"K01057","6-phosphogluconolactonase","4","ED_pathway",FALSE,"hs","Entner-Doudoroff",NA
+"K01625","KDG-6-P aldolase (ED key enzyme!)","5","ED_pathway",FALSE,"hs","Entner-Doudoroff",NA
+"K00134","GAPDH","6","ED_pathway",FALSE,"hs","Entner-Doudoroff",NA
+"K00150","GAPDH (NADP+)","6","ED_pathway",TRUE,"hs","Entner-Doudoroff",NA
+"K00927","PGK","7","ED_pathway",TRUE,"hs","Entner-Doudoroff",NA
+"K01834","PGAM","8","ED_pathway",FALSE,"hs","Entner-Doudoroff",NA
+"K15633","ENO","9","ED_pathway",TRUE,"hs","Entner-Doudoroff",NA
+"K00873","PK","10","ED_pathway",TRUE,"hs","Entner-Doudoroff",NA
+"K12406","PK (alternative)","10","ED_pathway",FALSE,"hs","Entner-Doudoroff",NA
+"K00844","Hexokinase","1","ED_pathway",FALSE,"hm","Entner-Doudoroff",NA
+"K00845","Glucokinase","1","ED_pathway",TRUE,"hm","Entner-Doudoroff",NA
+"K01810","GPI","2","ED_pathway",TRUE,"hm","Entner-Doudoroff",NA
+"K00036","G6P dehydrogenase","3","ED_pathway",FALSE,"hm","Entner-Doudoroff",NA
+"K01057","6-phosphogluconolactonase","4","ED_pathway",FALSE,"hm","Entner-Doudoroff",NA
+"K01625","KDG-6-P aldolase (ED key enzyme!)","5","ED_pathway",TRUE,"hm","Entner-Doudoroff",NA
+"K00134","GAPDH","6","ED_pathway",TRUE,"hm","Entner-Doudoroff",NA
+"K00150","GAPDH (NADP+)","6","ED_pathway",TRUE,"hm","Entner-Doudoroff",NA
+"K00927","PGK","7","ED_pathway",TRUE,"hm","Entner-Doudoroff",NA
+"K01834","PGAM","8","ED_pathway",FALSE,"hm","Entner-Doudoroff",NA
+"K15633","ENO","9","ED_pathway",TRUE,"hm","Entner-Doudoroff",NA
+"K00873","PK","10","ED_pathway",TRUE,"hm","Entner-Doudoroff",NA
+"K12406","PK (alternative)","10","ED_pathway",FALSE,"hm","Entner-Doudoroff",NA
+"K00844","Hexokinase","1","ED_pathway",FALSE,"ha","Entner-Doudoroff",NA
+"K00845","Glucokinase","1","ED_pathway",TRUE,"ha","Entner-Doudoroff",NA
+"K01810","GPI","2","ED_pathway",TRUE,"ha","Entner-Doudoroff",NA
+"K00036","G6P dehydrogenase","3","ED_pathway",FALSE,"ha","Entner-Doudoroff",NA
+"K01057","6-phosphogluconolactonase","4","ED_pathway",FALSE,"ha","Entner-Doudoroff",NA
+"K01625","KDG-6-P aldolase (ED key enzyme!)","5","ED_pathway",TRUE,"ha","Entner-Doudoroff",NA
+"K00134","GAPDH","6","ED_pathway",TRUE,"ha","Entner-Doudoroff",NA
+"K00150","GAPDH (NADP+)","6","ED_pathway",TRUE,"ha","Entner-Doudoroff",NA
+"K00927","PGK","7","ED_pathway",TRUE,"ha","Entner-Doudoroff",NA
+"K01834","PGAM","8","ED_pathway",FALSE,"ha","Entner-Doudoroff",NA
+"K15633","ENO","9","ED_pathway",TRUE,"ha","Entner-Doudoroff",NA
+"K00873","PK","10","ED_pathway",TRUE,"ha","Entner-Doudoroff",NA
+"K12406","PK (alternative)","10","ED_pathway",FALSE,"ha","Entner-Doudoroff",NA
+"K00036","G6P dehydrogenase","1","Semi_ED",FALSE,"hs","Semi-phosphorylated ED",NA
+"K01057","6-phosphogluconolactonase","2","Semi_ED",FALSE,"hs","Semi-phosphorylated ED",NA
+"K01690","KDG aldolase (non-phosphorylated!)","3","Semi_ED",FALSE,"hs","Semi-phosphorylated ED",NA
+"K00865","KDGK - KDG kinase","4","Semi_ED",FALSE,"hs","Semi-phosphorylated ED",NA
+"K00134","GAPDH","5","Semi_ED",FALSE,"hs","Semi-phosphorylated ED",NA
+"K00927","PGK","6","Semi_ED",TRUE,"hs","Semi-phosphorylated ED",NA
+"K01834","PGAM","7","Semi_ED",FALSE,"hs","Semi-phosphorylated ED",NA
+"K15633","ENO","8","Semi_ED",TRUE,"hs","Semi-phosphorylated ED",NA
+"K00873","PK","9","Semi_ED",TRUE,"hs","Semi-phosphorylated ED",NA
+"K12406","PK (alternative)","9","Semi_ED",FALSE,"hs","Semi-phosphorylated ED",NA
+"K00036","G6P dehydrogenase","1","Semi_ED",FALSE,"hm","Semi-phosphorylated ED",NA
+"K01057","6-phosphogluconolactonase","2","Semi_ED",FALSE,"hm","Semi-phosphorylated ED",NA
+"K01690","KDG aldolase (non-phosphorylated!)","3","Semi_ED",FALSE,"hm","Semi-phosphorylated ED",NA
+"K00865","KDGK - KDG kinase","4","Semi_ED",FALSE,"hm","Semi-phosphorylated ED",NA
+"K00134","GAPDH","5","Semi_ED",TRUE,"hm","Semi-phosphorylated ED",NA
+"K00927","PGK","6","Semi_ED",TRUE,"hm","Semi-phosphorylated ED",NA
+"K01834","PGAM","7","Semi_ED",FALSE,"hm","Semi-phosphorylated ED",NA
+"K15633","ENO","8","Semi_ED",TRUE,"hm","Semi-phosphorylated ED",NA
+"K00873","PK","9","Semi_ED",TRUE,"hm","Semi-phosphorylated ED",NA
+"K12406","PK (alternative)","9","Semi_ED",FALSE,"hm","Semi-phosphorylated ED",NA
+"K00036","G6P dehydrogenase","1","Semi_ED",FALSE,"ha","Semi-phosphorylated ED",NA
+"K01057","6-phosphogluconolactonase","2","Semi_ED",FALSE,"ha","Semi-phosphorylated ED",NA
+"K01690","KDG aldolase (non-phosphorylated!)","3","Semi_ED",FALSE,"ha","Semi-phosphorylated ED",NA
+"K00865","KDGK - KDG kinase","4","Semi_ED",FALSE,"ha","Semi-phosphorylated ED",NA
+"K00134","GAPDH","5","Semi_ED",TRUE,"ha","Semi-phosphorylated ED",NA
+"K00927","PGK","6","Semi_ED",TRUE,"ha","Semi-phosphorylated ED",NA
+"K01834","PGAM","7","Semi_ED",FALSE,"ha","Semi-phosphorylated ED",NA
+"K15633","ENO","8","Semi_ED",TRUE,"ha","Semi-phosphorylated ED",NA
+"K00873","PK","9","Semi_ED",TRUE,"ha","Semi-phosphorylated ED",NA
+"K12406","PK (alternative)","9","Semi_ED",FALSE,"ha","Semi-phosphorylated ED",NA
+"K00036","G6P dehydrogenase","1","Branched_ED",FALSE,"hs","Branched ED",NA
+"K01057","6-phosphogluconolactonase","2","Branched_ED",FALSE,"hs","Branched ED",NA
+"K00065","Gluconate dehydrogenase","3","Branched_ED",FALSE,"hs","Branched ED",NA
+"K01625","KDG-6-P aldolase","4","Branched_ED",FALSE,"hs","Branched ED",NA
+"K01690","KDG aldolase","5","Branched_ED",FALSE,"hs","Branched ED",NA
+"K00134","GAPDH","6","Branched_ED",FALSE,"hs","Branched ED",NA
+"K00927","PGK","7","Branched_ED",TRUE,"hs","Branched ED",NA
+"K01834","PGAM","8","Branched_ED",FALSE,"hs","Branched ED",NA
+"K15633","ENO","9","Branched_ED",TRUE,"hs","Branched ED",NA
+"K00873","PK","10","Branched_ED",TRUE,"hs","Branched ED",NA
+"K00036","G6P dehydrogenase","1","Branched_ED",FALSE,"hm","Branched ED",NA
+"K01057","6-phosphogluconolactonase","2","Branched_ED",FALSE,"hm","Branched ED",NA
+"K00065","Gluconate dehydrogenase","3","Branched_ED",FALSE,"hm","Branched ED",NA
+"K01625","KDG-6-P aldolase","4","Branched_ED",TRUE,"hm","Branched ED",NA
+"K01690","KDG aldolase","5","Branched_ED",FALSE,"hm","Branched ED",NA
+"K00134","GAPDH","6","Branched_ED",TRUE,"hm","Branched ED",NA
+"K00927","PGK","7","Branched_ED",TRUE,"hm","Branched ED",NA
+"K01834","PGAM","8","Branched_ED",FALSE,"hm","Branched ED",NA
+"K15633","ENO","9","Branched_ED",TRUE,"hm","Branched ED",NA
+"K00873","PK","10","Branched_ED",TRUE,"hm","Branched ED",NA
+"K00036","G6P dehydrogenase","1","Branched_ED",FALSE,"ha","Branched ED",NA
+"K01057","6-phosphogluconolactonase","2","Branched_ED",FALSE,"ha","Branched ED",NA
+"K00065","Gluconate dehydrogenase","3","Branched_ED",FALSE,"ha","Branched ED",NA
+"K01625","KDG-6-P aldolase","4","Branched_ED",TRUE,"ha","Branched ED",NA
+"K01690","KDG aldolase","5","Branched_ED",FALSE,"ha","Branched ED",NA
+"K00134","GAPDH","6","Branched_ED",TRUE,"ha","Branched ED",NA
+"K00927","PGK","7","Branched_ED",TRUE,"ha","Branched ED",NA
+"K01834","PGAM","8","Branched_ED",FALSE,"ha","Branched ED",NA
+"K15633","ENO","9","Branched_ED",TRUE,"ha","Branched ED",NA
+"K00873","PK","10","Branched_ED",TRUE,"ha","Branched ED",NA
+"K01596","PEP carboxykinase","1","Gluconeogenesis",FALSE,"hs","Gluconeogenesis",NA
+"K01610","PEP carboxylase","1","Gluconeogenesis",FALSE,"hs","Gluconeogenesis",NA
+"K01834","PGAM","2","Gluconeogenesis",FALSE,"hs","Gluconeogenesis",NA
+"K00927","PGK","3","Gluconeogenesis",TRUE,"hs","Gluconeogenesis",NA
+"K00134","GAPDH","4","Gluconeogenesis",FALSE,"hs","Gluconeogenesis",NA
+"K01624","FBA","5","Gluconeogenesis",FALSE,"hs","Gluconeogenesis",NA
+"K00850","PFK","6","Gluconeogenesis",FALSE,"hs","Gluconeogenesis",NA
+"K01810","GPI","7","Gluconeogenesis",TRUE,"hs","Gluconeogenesis",NA
+"K00844","Hexokinase","8","Gluconeogenesis",FALSE,"hs","Gluconeogenesis",NA
+"K01596","PEP carboxykinase","1","Gluconeogenesis",FALSE,"hm","Gluconeogenesis",NA
+"K01610","PEP carboxylase","1","Gluconeogenesis",FALSE,"hm","Gluconeogenesis",NA
+"K01834","PGAM","2","Gluconeogenesis",FALSE,"hm","Gluconeogenesis",NA
+"K00927","PGK","3","Gluconeogenesis",TRUE,"hm","Gluconeogenesis",NA
+"K00134","GAPDH","4","Gluconeogenesis",TRUE,"hm","Gluconeogenesis",NA
+"K01624","FBA","5","Gluconeogenesis",FALSE,"hm","Gluconeogenesis",NA
+"K00850","PFK","6","Gluconeogenesis",FALSE,"hm","Gluconeogenesis",NA
+"K01810","GPI","7","Gluconeogenesis",TRUE,"hm","Gluconeogenesis",NA
+"K00844","Hexokinase","8","Gluconeogenesis",FALSE,"hm","Gluconeogenesis",NA
+"K01596","PEP carboxykinase","1","Gluconeogenesis",FALSE,"ha","Gluconeogenesis",NA
+"K01610","PEP carboxylase","1","Gluconeogenesis",FALSE,"ha","Gluconeogenesis",NA
+"K01834","PGAM","2","Gluconeogenesis",FALSE,"ha","Gluconeogenesis",NA
+"K00927","PGK","3","Gluconeogenesis",TRUE,"ha","Gluconeogenesis",NA
+"K00134","GAPDH","4","Gluconeogenesis",TRUE,"ha","Gluconeogenesis",NA
+"K01624","FBA","5","Gluconeogenesis",FALSE,"ha","Gluconeogenesis",NA
+"K00850","PFK","6","Gluconeogenesis",FALSE,"ha","Gluconeogenesis",NA
+"K01810","GPI","7","Gluconeogenesis",TRUE,"ha","Gluconeogenesis",NA
+"K00844","Hexokinase","8","Gluconeogenesis",FALSE,"ha","Gluconeogenesis",NA
+"K00864","GlpK - Glycerol kinase (Glycerol -> Glycerol-3-P)","1","Glycerol_to_DHAP",TRUE,"hs","Glycerol metabolism","Entry point"
+"K00111","GlpD - G3P dehydrogenase NAD+ (G3P -> DHAP)","2","Glycerol_to_DHAP",TRUE,"hs","Glycerol metabolism","Feeds into glycolysis at DHAP!"
+"K00112","GlpD - G3P dehydrogenase (aerobic)","2","Glycerol_to_DHAP",TRUE,"hs","Glycerol metabolism","Feeds into glycolysis at DHAP!"
+"K00865","GlpD (alternative)","2","Glycerol_to_DHAP",FALSE,"hs","Glycerol metabolism","Feeds into glycolysis at DHAP!"
+"K00858","DHAK - Dihydroxyacetone kinase (DHA -> DHAP)","alt","Glycerol_to_DHAP",TRUE,"hs","Glycerol metabolism","Alternative entry"
+"K01803","TPI - Triose-phosphate isomerase (DHAP <-> G3P)","interchange","Glycerol_to_DHAP",TRUE,"hs","Glycerol metabolism","Connects DHAP and G3P (glycolysis step 5)"
+"K00864","GlpK - Glycerol kinase (Glycerol -> Glycerol-3-P)","1","Glycerol_to_DHAP",TRUE,"hm","Glycerol metabolism","Entry point"
+"K00111","GlpD - G3P dehydrogenase NAD+ (G3P -> DHAP)","2","Glycerol_to_DHAP",TRUE,"hm","Glycerol metabolism","Feeds into glycolysis at DHAP!"
+"K00112","GlpD - G3P dehydrogenase (aerobic)","2","Glycerol_to_DHAP",TRUE,"hm","Glycerol metabolism","Feeds into glycolysis at DHAP!"
+"K00865","GlpD (alternative)","2","Glycerol_to_DHAP",FALSE,"hm","Glycerol metabolism","Feeds into glycolysis at DHAP!"
+"K00858","DHAK - Dihydroxyacetone kinase (DHA -> DHAP)","alt","Glycerol_to_DHAP",TRUE,"hm","Glycerol metabolism","Alternative entry"
+"K01803","TPI - Triose-phosphate isomerase (DHAP <-> G3P)","interchange","Glycerol_to_DHAP",TRUE,"hm","Glycerol metabolism","Connects DHAP and G3P (glycolysis step 5)"
+"K00864","GlpK - Glycerol kinase (Glycerol -> Glycerol-3-P)","1","Glycerol_to_DHAP",TRUE,"ha","Glycerol metabolism","Entry point"
+"K00111","GlpD - G3P dehydrogenase NAD+ (G3P -> DHAP)","2","Glycerol_to_DHAP",TRUE,"ha","Glycerol metabolism","Feeds into glycolysis at DHAP!"
+"K00112","GlpD - G3P dehydrogenase (aerobic)","2","Glycerol_to_DHAP",TRUE,"ha","Glycerol metabolism","Feeds into glycolysis at DHAP!"
+"K00865","GlpD (alternative)","2","Glycerol_to_DHAP",FALSE,"ha","Glycerol metabolism","Feeds into glycolysis at DHAP!"
+"K00858","DHAK - Dihydroxyacetone kinase (DHA -> DHAP)","alt","Glycerol_to_DHAP",TRUE,"ha","Glycerol metabolism","Alternative entry"
+"K01803","TPI - Triose-phosphate isomerase (DHAP <-> G3P)","interchange","Glycerol_to_DHAP",TRUE,"ha","Glycerol metabolism","Connects DHAP and G3P (glycolysis step 5)"
+"K01803","TPI - Triose-phosphate isomerase","5","Lower_Glycolysis",TRUE,"hs","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K00134","GAPDH (NAD+)","6","Lower_Glycolysis",FALSE,"hs","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K00150","GAPDH (NADP+)","6","Lower_Glycolysis",TRUE,"hs","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K10705","GAPOR (archaeal)","6","Lower_Glycolysis",FALSE,"hs","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K00927","PGK","7","Lower_Glycolysis",TRUE,"hs","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K01834","PGAM","8","Lower_Glycolysis",FALSE,"hs","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K01689","PGAM (archaeal)","8","Lower_Glycolysis",TRUE,"hs","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K15633","ENO","9","Lower_Glycolysis",TRUE,"hs","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K15634","ENO (alternative)","9","Lower_Glycolysis",FALSE,"hs","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K00873","PK","10","Lower_Glycolysis",TRUE,"hs","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K12406","PK (alternative)","10","Lower_Glycolysis",FALSE,"hs","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K01803","TPI - Triose-phosphate isomerase","5","Lower_Glycolysis",TRUE,"hm","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K00134","GAPDH (NAD+)","6","Lower_Glycolysis",TRUE,"hm","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K00150","GAPDH (NADP+)","6","Lower_Glycolysis",TRUE,"hm","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K10705","GAPOR (archaeal)","6","Lower_Glycolysis",FALSE,"hm","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K00927","PGK","7","Lower_Glycolysis",TRUE,"hm","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K01834","PGAM","8","Lower_Glycolysis",FALSE,"hm","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K01689","PGAM (archaeal)","8","Lower_Glycolysis",TRUE,"hm","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K15633","ENO","9","Lower_Glycolysis",TRUE,"hm","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K15634","ENO (alternative)","9","Lower_Glycolysis",FALSE,"hm","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K00873","PK","10","Lower_Glycolysis",TRUE,"hm","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K12406","PK (alternative)","10","Lower_Glycolysis",FALSE,"hm","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K01803","TPI - Triose-phosphate isomerase","5","Lower_Glycolysis",TRUE,"ha","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K00134","GAPDH (NAD+)","6","Lower_Glycolysis",TRUE,"ha","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K00150","GAPDH (NADP+)","6","Lower_Glycolysis",TRUE,"ha","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K10705","GAPOR (archaeal)","6","Lower_Glycolysis",FALSE,"ha","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K00927","PGK","7","Lower_Glycolysis",TRUE,"ha","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K01834","PGAM","8","Lower_Glycolysis",FALSE,"ha","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K01689","PGAM (archaeal)","8","Lower_Glycolysis",TRUE,"ha","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K15633","ENO","9","Lower_Glycolysis",TRUE,"ha","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K15634","ENO (alternative)","9","Lower_Glycolysis",TRUE,"ha","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K00873","PK","10","Lower_Glycolysis",TRUE,"ha","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"
+"K12406","PK (alternative)","10","Lower_Glycolysis",FALSE,"ha","Lower glycolysis","Common pathway from DHAP/G3P to Pyruvate"

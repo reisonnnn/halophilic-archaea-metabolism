@@ -1,0 +1,10 @@
+"Metric","Value"
+"GhostKOALA unique KOs",889
+"eggNOG unique KOs",946
+"Total unique KOs (union)",1046
+"Overlapping KOs",789
+"Overlap percentage",75.43
+"GhostKOALA only KOs",100
+"eggNOG only KOs",157
+"GhostKOALA proteins annotated",1085
+"eggNOG proteins annotated",1190

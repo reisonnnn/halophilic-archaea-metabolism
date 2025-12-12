@@ -1,4 +1,0 @@
-"strain_id","total_proteins","annotated","with_kegg_pathway","with_ko","with_cog","unannotated","pct_annotated","pct_with_pathway","pct_with_ko","full_name","kbtz_id"
-"ha",3738,2921,1048,1659,2921,817,78.1,28,44.4,"Haloarcula sp.","KBTZ06"
-"hm",3050,2449,887,1414,2449,601,80.3,29.1,46.4,"Halomicrobium kobeituziens","KBTZ05"
-"hs",2109,1792,743,1152,1792,317,85,35.2,54.6,"Halobacterium salinarum","KBTZ01"

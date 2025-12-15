@@ -1,0 +1,134 @@
+"KO","name","definition"
+"K00053","ketol-acid reductoisomerase [EC:1.1.1.86]",NA
+"K00134","glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12]",NA
+"K00161","pyruvate dehydrogenase E1 component subunit alpha [EC:1.2.4.1]",NA
+"K00215","4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]",NA
+"K00265","glutamate synthase (NADPH) large chain [EC:1.4.1.13]",NA
+"K00287","dihydrofolate reductase [EC:1.5.1.3]",NA
+"K00313","electron transfer flavoprotein-quinone oxidoreductase [EC:1.5.5.-]",NA
+"K00320","5,10-methylenetetrahydromethanopterin reductase [EC:1.5.98.2]",NA
+"K00366","ferredoxin-nitrite reductase [EC:1.7.7.1]",NA
+"K00368","nitrite reductase (NO-forming) [EC:1.7.2.1]",NA
+"K00370","nitrate reductase / nitrite oxidoreductase, alpha subunit [EC:1.7.5.1 1.7.99.-]",NA
+"K00371","nitrate reductase / nitrite oxidoreductase, beta subunit [EC:1.7.5.1 1.7.99.-]",NA
+"K00652","8-amino-7-oxononanoate synthase [EC:2.3.1.47]",NA
+"K00661","maltose O-acetyltransferase [EC:2.3.1.79]",NA
+"K00666","fatty-acyl-CoA synthase [EC:6.2.1.-]",NA
+"K00674","2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]",NA
+"K00692","levansucrase [EC:2.4.1.10]",NA
+"K00788","thiamine-phosphate pyrophosphorylase [EC:2.5.1.3]",NA
+"K00882","1-phosphofructokinase [EC:2.7.1.56]",NA
+"K00937","polyphosphate kinase [EC:2.7.4.1]",NA
+"K01012","biotin synthase [EC:2.8.1.6]",NA
+"K01041","glutaryl-CoA transferase [EC:2.8.3.-]",NA
+"K01182","oligo-1,6-glucosidase [EC:3.2.1.10]",NA
+"K01193","beta-fructofuranosidase [EC:3.2.1.26]",NA
+"K01207","beta-N-acetylhexosaminidase [EC:3.2.1.52]",NA
+"K01434","penicillin G amidase [EC:3.5.1.11]",NA
+"K01438","acetylornithine deacetylase [EC:3.5.1.16]",NA
+"K01473","N-methylhydantoinase A [EC:3.5.2.14]",NA
+"K01474","N-methylhydantoinase B [EC:3.5.2.14]",NA
+"K01476","arginase [EC:3.5.3.1]",NA
+"K01512","acylphosphatase [EC:3.6.1.7]",NA
+"K01586","diaminopimelate decarboxylase [EC:4.1.1.20]",NA
+"K01625","2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2.14 4.1.3.42]",NA
+"K01649","2-isopropylmalate synthase [EC:2.3.3.13]",NA
+"K01652","acetolactate synthase I/II/III large subunit [EC:2.2.1.6]",NA
+"K01653","acetolactate synthase I/III small subunit [EC:2.2.1.6]",NA
+"K01684","galactonate dehydratase [EC:4.2.1.6]",NA
+"K01687","dihydroxy-acid dehydratase [EC:4.2.1.9]",NA
+"K01703","3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]",NA
+"K01704","3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]",NA
+"K01734","methylglyoxal synthase [EC:4.2.3.3]",NA
+"K01791","UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]",NA
+"K01935","dethiobiotin synthetase [EC:6.3.3.3]",NA
+"K01972","DNA ligase (NAD+) [EC:6.5.1.2]",NA
+"K01975","RNA 2',3'-cyclic 3'-phosphodiesterase [EC:3.1.4.58]",NA
+"K01995","branched-chain amino acid transport system ATP-binding protein",NA
+"K01996","branched-chain amino acid transport system ATP-binding protein",NA
+"K01997","branched-chain amino acid transport system permease protein",NA
+"K01999","branched-chain amino acid transport system substrate-binding protein",NA
+"K02019","molybdate transport system regulatory protein",NA
+"K02025","multiple sugar transport system permease protein",NA
+"K02026","multiple sugar transport system permease protein",NA
+"K02027","multiple sugar transport system substrate-binding protein",NA
+"K02028","polar amino acid transport system ATP-binding protein [EC:7.4.2.1]",NA
+"K02259","heme a synthase [EC:1.17.99.9]",NA
+"K02319","DNA polymerase, archaea type [EC:2.7.7.7]",NA
+"K02347","DNA polymerase (family X)",NA
+"K02472","UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase [EC:1.1.1.336]",NA
+"K02893","large subunit ribosomal protein L23Ae",NA
+"K03053","DNA-directed RNA polymerase subunit H [EC:2.7.7.6]",NA
+"K03055","DNA-directed RNA polymerase subunit K [EC:2.7.7.6]",NA
+"K03232","elongation factor 1-beta",NA
+"K03284","magnesium transporter",NA
+"K03320","ammonium transporter, Amt family",NA
+"K03322","manganese transport protein",NA
+"K03431","phosphoglucosamine mutase [EC:5.4.2.10]",NA
+"K03433","proteasome beta subunit [EC:3.4.25.1]",NA
+"K03436","DeoR family transcriptional regulator, fructose operon transcriptional repressor",NA
+"K03442","small conductance mechanosensitive channel",NA
+"K03626","nascent polypeptide-associated complex subunit alpha",NA
+"K03707","thiaminase (transcriptional activator TenA) [EC:3.5.99.2]",NA
+"K03821","poly[(R)-3-hydroxyalkanoate] polymerase subunit PhaC [EC:2.3.1.304]",NA
+"K03941","NADH dehydrogenase (ubiquinone) Fe-S protein 8 [EC:7.1.1.2]",NA
+"K03969","phage shock protein A",NA
+"K04095","cell filamentation protein, protein adenylyltransferase [EC:2.7.7.108]",NA
+"K04561","nitric oxide reductase subunit B [EC:1.7.2.5]",NA
+"K04771","serine protease Do [EC:3.4.21.107]",NA
+"K04798","prefoldin beta subunit",NA
+"K05308","gluconate/galactonate dehydratase [EC:4.2.1.140]",NA
+"K05349","beta-glucosidase [EC:3.2.1.21]",NA
+"K05520","deglycase [EC:3.5.1.124]",NA
+"K05826","alpha-aminoadipate/glutamate carrier protein LysW",NA
+"K05828","[amino group carrier protein]-L-2-aminoadipate/L-glutamate 6-kinase [EC:2.7.2.17 2.7.2.19]",NA
+"K05829","[amino group carrier protein]-6-phospho-L-2-aminoadipate/5-phospho-L-glutamate reductase [EC:1.2.1.103 1.2.1.106]",NA
+"K05831","[amino group carrier protein]-lysine/ornithine hydrolase [EC:3.5.1.130 3.5.1.132]",NA
+"K05966","triphosphoribosyl-dephospho-CoA synthase [EC:2.4.2.52]",NA
+"K06153","undecaprenyl-diphosphatase [EC:3.6.1.27]",NA
+"K06377","sporulation-control protein",NA
+"K06864","cysteine-dependent pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase [EC:4.4.1.37 4.4.1.45]",NA
+"K06875","programmed cell death protein 5",NA
+"K06898","pyridinium-3,5-biscarboxylic acid mononucleotide synthase [EC:2.5.1.143]",NA
+"K06911","quercetin 2,3-dioxygenase [EC:1.13.11.24]",NA
+"K06984","beta-ribofuranosylaminobenzene 5'-phosphate synthase [EC:2.4.2.54]",NA
+"K06999","phospholipase/carboxylesterase",NA
+"K07100","putative phosphoribosyl transferase",NA
+"K07113","UPF0716 protein FxsA",NA
+"K07124","uncharacterized protein",NA
+"K07218","nitrous oxidase accessory protein",NA
+"K07244","mgtE-like transporter",NA
+"K08679","UDP-glucuronate 4-epimerase [EC:5.1.3.6]",NA
+"K08970","nickel/cobalt transporter (NicO) family protein",NA
+"K09121","pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel chelatase [EC:4.99.1.12]",NA
+"K09122","uncharacterized protein",NA
+"K09726","uncharacterized protein",NA
+"K09735","GTP-dependent dephospho-CoA kinase [EC:2.7.1.237]",NA
+"K09739","dihydroneopterin aldolase [EC:4.1.2.25]",NA
+"K09744","uncharacterized protein",NA
+"K09822","uncharacterized protein",NA
+"K09966","uncharacterized protein",NA
+"K10236","trehalose/maltose transport system substrate-binding protein",NA
+"K10237","trehalose/maltose transport system permease protein",NA
+"K10238","trehalose/maltose transport system permease protein",NA
+"K10254","oleate hydratase [EC:4.2.1.53]",NA
+"K10907","aminotransferase [EC:2.6.1.-]",NA
+"K11529","glycerate 2-kinase [EC:2.7.1.165]",NA
+"K12410","NAD-dependent protein deacetylase/lipoamidase [EC:2.3.1.286 2.3.1.313]",NA
+"K13936","malonate transporter and related proteins",NA
+"K14393","cation/acetate symporter",NA
+"K15975","glyoxalase family protein",NA
+"K17218","sulfide:quinone oxidoreductase [EC:1.8.5.4]",NA
+"K17315","glucose/mannose transport system substrate-binding protein",NA
+"K17317","glucose/mannose transport system permease protein",NA
+"K19340","Cu-processing system ATP-binding protein",NA
+"K20074","PPM family protein phosphatase [EC:3.1.3.16]",NA
+"K21147","sulfur-carrier protein adenylyltransferase/sulfurtransferase [EC:2.7.7.80 2.7.7.- 2.8.1.11 2.8.1.-]",NA
+"K21430","aldose sugar dehydrogenase [EC:1.1.5.-]",NA
+"K22187","alpha-ketoglutaric semialdehyde dehydrogenase [EC:1.2.1.-]",NA
+"K22881","poly[(R)-3-hydroxyalkanoate] polymerase subunit PhaE",NA
+"K23107","1-deoxyxylulose-5-phosphate synthase [EC:1.1.-.-]",NA
+"K24180","malate permease and related proteins",NA
+"K25570","8-amino-7-oxononanoate carboxylating dehydrogenase [EC:2.6.1.121]",NA
+"K27475","ketohexokinase [EC:2.7.1.3]",NA
+"K28013","ornithine cyclodeaminase [EC:4.3.1.12]",NA

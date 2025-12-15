@@ -1,0 +1,756 @@
+"KO","name","definition"
+"K00003","homoserine dehydrogenase [EC:1.1.1.3]",NA
+"K00012","UDPglucose 6-dehydrogenase [EC:1.1.1.22]",NA
+"K00013","histidinol dehydrogenase [EC:1.1.1.23]",NA
+"K00014","shikimate dehydrogenase [EC:1.1.1.25]",NA
+"K00021","hydroxymethylglutaryl-CoA reductase (NADPH) [EC:1.1.1.34]",NA
+"K00029","malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]",NA
+"K00031","isocitrate dehydrogenase [EC:1.1.1.42]",NA
+"K00033","6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]",NA
+"K00058","D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399]",NA
+"K00059","3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]",NA
+"K00074","3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157]",NA
+"K00077","2-dehydropantoate 2-reductase [EC:1.1.1.169]",NA
+"K00088","IMP dehydrogenase [EC:1.1.1.205]",NA
+"K00096","glycerol-1-phosphate dehydrogenase [NAD(P)+] [EC:1.1.1.261]",NA
+"K00111","glycerol-3-phosphate dehydrogenase [EC:1.1.5.3]",NA
+"K00112","glycerol-3-phosphate dehydrogenase subunit B [EC:1.1.5.3]",NA
+"K00113","glycerol-3-phosphate dehydrogenase subunit C",NA
+"K00133","aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]",NA
+"K00135","succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]",NA
+"K00150","glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating) [EC:1.2.1.59]",NA
+"K00174","2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]",NA
+"K00175","2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:1.2.7.3 1.2.7.11]",NA
+"K00184","dimethyl sulfoxide reductase iron-sulfur subunit",NA
+"K00185","dimethyl sulfoxide reductase membrane subunit",NA
+"K00239","succinate dehydrogenase flavoprotein subunit [EC:1.3.5.1]",NA
+"K00240","succinate dehydrogenase iron-sulfur subunit [EC:1.3.5.1]",NA
+"K00241","succinate dehydrogenase cytochrome b subunit",NA
+"K00248","butyryl-CoA dehydrogenase [EC:1.3.8.1]",NA
+"K00252","glutaryl-CoA dehydrogenase [EC:1.3.8.6]",NA
+"K00254","dihydroorotate dehydrogenase [EC:1.3.5.2]",NA
+"K00261","glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]",NA
+"K00278","L-aspartate oxidase [EC:1.4.3.16]",NA
+"K00282","glycine cleavage system P protein (glycine dehydrogenase) subunit 1 [EC:1.4.4.2]",NA
+"K00283","glycine cleavage system P protein (glycine dehydrogenase) subunit 2 [EC:1.4.4.2]",NA
+"K00311","electron-transferring-flavoprotein dehydrogenase [EC:1.5.5.1]",NA
+"K00318","proline dehydrogenase [EC:1.5.5.2]",NA
+"K00337","NADH-quinone oxidoreductase subunit H [EC:7.1.1.2]",NA
+"K00340","NADH-quinone oxidoreductase subunit K [EC:7.1.1.2]",NA
+"K00341","NADH-quinone oxidoreductase subunit L [EC:7.1.1.2]",NA
+"K00342","NADH-quinone oxidoreductase subunit M [EC:7.1.1.2]",NA
+"K00343","NADH-quinone oxidoreductase subunit N [EC:7.1.1.2]",NA
+"K00382","dihydrolipoyl dehydrogenase [EC:1.8.1.4]",NA
+"K00384","thioredoxin reductase (NADPH) [EC:1.8.1.9]",NA
+"K00390","phosphoadenosine phosphosulfate reductase [EC:1.8.4.8 1.8.4.10]",NA
+"K00425","cytochrome bd ubiquinol oxidase subunit I [EC:7.1.1.7]",NA
+"K00426","cytochrome bd ubiquinol oxidase subunit II [EC:7.1.1.7]",NA
+"K00525","ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]",NA
+"K00549","5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]",NA
+"K00555","tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase [EC:2.1.1.215 2.1.1.216]",NA
+"K00567","methylated-DNA-[protein]-cysteine S-methyltransferase [EC:2.1.1.63]",NA
+"K00573","protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77]",NA
+"K00575","chemotaxis protein methyltransferase CheR [EC:2.1.1.80]",NA
+"K00600","glycine hydroxymethyltransferase [EC:2.1.2.1]",NA
+"K00602","phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]",NA
+"K00605","glycine cleavage system T protein (aminomethyltransferase) [EC:2.1.2.10]",NA
+"K00606","3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]",NA
+"K00609","aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]",NA
+"K00610","aspartate carbamoyltransferase regulatory subunit",NA
+"K00611","ornithine carbamoyltransferase [EC:2.1.3.3]",NA
+"K00626","acetyl-CoA C-acetyltransferase [EC:2.3.1.9]",NA
+"K00627","pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase) [EC:2.3.1.12]",NA
+"K00632","acetyl-CoA acyltransferase [EC:2.3.1.16]",NA
+"K00640","serine O-acetyltransferase [EC:2.3.1.30]",NA
+"K00641","homoserine O-acetyltransferase/O-succinyltransferase [EC:2.3.1.31 2.3.1.46]",NA
+"K00757","uridine phosphorylase [EC:2.4.2.3]",NA
+"K00759","adenine phosphoribosyltransferase [EC:2.4.2.7]",NA
+"K00761","uracil phosphoribosyltransferase [EC:2.4.2.9]",NA
+"K00762","orotate phosphoribosyltransferase [EC:2.4.2.10]",NA
+"K00763","nicotinate phosphoribosyltransferase [EC:6.3.4.21]",NA
+"K00764","amidophosphoribosyltransferase [EC:2.4.2.14]",NA
+"K00765","ATP phosphoribosyltransferase [EC:2.4.2.17]",NA
+"K00766","anthranilate phosphoribosyltransferase [EC:2.4.2.18]",NA
+"K00767","nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]",NA
+"K00784","ribonuclease Z [EC:3.1.26.11]",NA
+"K00789","S-adenosylmethionine synthetase [EC:2.5.1.6]",NA
+"K00793","riboflavin synthase [EC:2.5.1.9]",NA
+"K00794","6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]",NA
+"K00796","dihydropteroate synthase [EC:2.5.1.15]",NA
+"K00798","cob(I)alamin adenosyltransferase [EC:2.5.1.17]",NA
+"K00800","3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]",NA
+"K00801","farnesyl-diphosphate farnesyltransferase [EC:2.5.1.21]",NA
+"K00806","undecaprenyl diphosphate synthase [EC:2.5.1.31]",NA
+"K00809","deoxyhypusine synthase [EC:2.5.1.46]",NA
+"K00812","aspartate aminotransferase [EC:2.6.1.1]",NA
+"K00817","histidinol-phosphate aminotransferase [EC:2.6.1.9]",NA
+"K00820","glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16]",NA
+"K00823","4-aminobutyrate aminotransferase [EC:2.6.1.19]",NA
+"K00826","branched-chain amino acid aminotransferase [EC:2.6.1.42]",NA
+"K00836","diaminobutyrate-2-oxoglutarate transaminase [EC:2.6.1.76]",NA
+"K00858","NAD+ kinase [EC:2.7.1.23]",NA
+"K00864","glycerol kinase [EC:2.7.1.30]",NA
+"K00869","mevalonate kinase [EC:2.7.1.36]",NA
+"K00872","homoserine kinase [EC:2.7.1.39]",NA
+"K00873","pyruvate kinase [EC:2.7.1.40]",NA
+"K00874","2-dehydro-3-deoxygluconokinase [EC:2.7.1.45]",NA
+"K00891","shikimate kinase [EC:2.7.1.71]",NA
+"K00927","phosphoglycerate kinase [EC:2.7.2.3]",NA
+"K00928","aspartate kinase [EC:2.7.2.4]",NA
+"K00939","adenylate kinase [EC:2.7.4.3]",NA
+"K00940","nucleoside-diphosphate kinase [EC:2.7.4.6]",NA
+"K00941","hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7]",NA
+"K00943","dTMP kinase [EC:2.7.4.9]",NA
+"K00945","CMP/dCMP kinase [EC:2.7.4.25]",NA
+"K00946","thiamine-monophosphate kinase [EC:2.7.4.16]",NA
+"K00948","ribose-phosphate pyrophosphokinase [EC:2.7.6.1]",NA
+"K00952","nicotinamide-nucleotide adenylyltransferase [EC:2.7.7.1]",NA
+"K00973","glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]",NA
+"K01007","pyruvate, water dikinase [EC:2.7.9.2]",NA
+"K01011","thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]",NA
+"K01079","phosphoserine phosphatase [EC:3.1.3.3]",NA
+"K01091","phosphoglycolate phosphatase [EC:3.1.3.18]",NA
+"K01092","myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]",NA
+"K01126","glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]",NA
+"K01151","deoxyribonuclease IV [EC:3.1.21.2]",NA
+"K01170","tRNA-intron endonuclease, archaea type [EC:4.6.1.16]",NA
+"K01247","DNA-3-methyladenine glycosylase II [EC:3.2.2.21]",NA
+"K01251","adenosylhomocysteinase [EC:3.13.2.1]",NA
+"K01265","methionyl aminopeptidase [EC:3.4.11.18]",NA
+"K01299","carboxypeptidase Taq [EC:3.4.17.19]",NA
+"K01433","formyltetrahydrofolate deformylase [EC:3.5.1.10]",NA
+"K01465","dihydroorotase [EC:3.5.2.3]",NA
+"K01470","creatinine amidohydrolase [EC:3.5.2.10]",NA
+"K01480","agmatinase [EC:3.5.3.11]",NA
+"K01489","cytidine deaminase [EC:3.5.4.5]",NA
+"K01491","methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]",NA
+"K01494","dCTP deaminase [EC:3.5.4.13]",NA
+"K01496","phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19]",NA
+"K01499","methenyltetrahydromethanopterin cyclohydrolase [EC:3.5.4.27]",NA
+"K01507","inorganic pyrophosphatase [EC:3.6.1.1]",NA
+"K01515","ADP-ribose diphosphatase [EC:3.6.1.13 3.6.1.-]",NA
+"K01519","XTP/dITP diphosphohydrolase [EC:3.6.1.66]",NA
+"K01520","dUTP diphosphatase [EC:3.6.1.23]",NA
+"K01523","phosphoribosyl-ATP pyrophosphohydrolase [EC:3.6.1.31]",NA
+"K01534","Zn2+/Cd2+-exporting ATPase [EC:7.2.2.12 7.2.2.21]",NA
+"K01551","arsenite/tail-anchored protein-transporting ATPase [EC:7.3.2.7 7.3.-.-]",NA
+"K01588","5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]",NA
+"K01591","orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]",NA
+"K01595","phosphoenolpyruvate carboxylase [EC:4.1.1.31]",NA
+"K01609","indole-3-glycerol phosphate synthase [EC:4.1.1.48]",NA
+"K01619","deoxyribose-phosphate aldolase [EC:4.1.2.4]",NA
+"K01641","hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10]",NA
+"K01644","citrate lyase subunit beta / citryl-CoA lyase [EC:4.1.3.34]",NA
+"K01657","anthranilate synthase component I [EC:4.1.3.27]",NA
+"K01658","anthranilate synthase component II [EC:4.1.3.27]",NA
+"K01659","2-methylcitrate synthase [EC:2.3.3.5]",NA
+"K01661","naphthoate synthase [EC:4.1.3.36]",NA
+"K01669","deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]",NA
+"K01673","carbonic anhydrase [EC:4.2.1.1]",NA
+"K01679","fumarate hydratase, class II [EC:4.2.1.2]",NA
+"K01689","enolase 1/2/3 [EC:4.2.1.11]",NA
+"K01693","imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]",NA
+"K01695","tryptophan synthase alpha chain [EC:4.2.1.20]",NA
+"K01696","tryptophan synthase beta chain [EC:4.2.1.20]",NA
+"K01698","porphobilinogen synthase [EC:4.2.1.24]",NA
+"K01714","4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]",NA
+"K01719","uroporphyrinogen-III synthase [EC:4.2.1.75]",NA
+"K01724","4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]",NA
+"K01733","threonine synthase [EC:4.2.3.1]",NA
+"K01736","chorismate synthase [EC:4.2.3.5]",NA
+"K01737","6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]",NA
+"K01738","cysteine synthase [EC:2.5.1.47]",NA
+"K01740","O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49]",NA
+"K01749","hydroxymethylbilane synthase [EC:2.5.1.61]",NA
+"K01754","threonine dehydratase [EC:4.3.1.19]",NA
+"K01755","argininosuccinate lyase [EC:4.3.2.1]",NA
+"K01756","adenylosuccinate lyase [EC:4.3.2.2]",NA
+"K01759","lactoylglutathione lyase [EC:4.4.1.5]",NA
+"K01784","UDP-glucose 4-epimerase [EC:5.1.3.2]",NA
+"K01803","triosephosphate isomerase (TIM) [EC:5.3.1.1]",NA
+"K01807","ribose 5-phosphate isomerase A [EC:5.3.1.6]",NA
+"K01810","glucose-6-phosphate isomerase [EC:5.3.1.9]",NA
+"K01814","phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]",NA
+"K01817","phosphoribosylanthranilate isomerase [EC:5.3.1.24]",NA
+"K01823","isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2]",NA
+"K01845","glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]",NA
+"K01846","methylaspartate mutase sigma subunit [EC:5.4.99.1]",NA
+"K01848","methylmalonyl-CoA mutase, N-terminal domain [EC:5.4.99.2]",NA
+"K01849","methylmalonyl-CoA mutase, C-terminal domain [EC:5.4.99.2]",NA
+"K01866","tyrosyl-tRNA synthetase [EC:6.1.1.1]",NA
+"K01867","tryptophanyl-tRNA synthetase [EC:6.1.1.2]",NA
+"K01868","threonyl-tRNA synthetase [EC:6.1.1.3]",NA
+"K01869","leucyl-tRNA synthetase [EC:6.1.1.4]",NA
+"K01870","isoleucyl-tRNA synthetase [EC:6.1.1.5]",NA
+"K01872","alanyl-tRNA synthetase [EC:6.1.1.7]",NA
+"K01873","valyl-tRNA synthetase [EC:6.1.1.9]",NA
+"K01874","methionyl-tRNA synthetase [EC:6.1.1.10]",NA
+"K01875","seryl-tRNA synthetase [EC:6.1.1.11]",NA
+"K01880","glycyl-tRNA synthetase [EC:6.1.1.14]",NA
+"K01881","prolyl-tRNA synthetase [EC:6.1.1.15]",NA
+"K01883","cysteinyl-tRNA synthetase [EC:6.1.1.16]",NA
+"K01885","glutamyl-tRNA synthetase [EC:6.1.1.17]",NA
+"K01887","arginyl-tRNA synthetase [EC:6.1.1.19]",NA
+"K01889","phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]",NA
+"K01890","phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]",NA
+"K01892","histidyl-tRNA synthetase [EC:6.1.1.21]",NA
+"K01895","acetyl-CoA synthetase [EC:6.2.1.1]",NA
+"K01897","long-chain-fatty-acid---CoA ligase [EC:6.2.1.3]",NA
+"K01902","succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]",NA
+"K01903","succinyl-CoA synthetase beta subunit [EC:6.2.1.5]",NA
+"K01911","o-succinylbenzoate---CoA ligase [EC:6.2.1.26]",NA
+"K01915","glutamine synthetase [EC:6.3.1.2]",NA
+"K01916","NAD+ synthase [EC:6.3.1.5]",NA
+"K01923","phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]",NA
+"K01933","phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]",NA
+"K01934","5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]",NA
+"K01937","CTP synthase [EC:6.3.4.2]",NA
+"K01939","adenylosuccinate synthase [EC:6.3.4.4]",NA
+"K01940","argininosuccinate synthase [EC:6.3.4.5]",NA
+"K01945","phosphoribosylamine---glycine ligase [EC:6.3.4.13]",NA
+"K01951","GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]",NA
+"K01953","asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]",NA
+"K01955","carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]",NA
+"K01956","carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]",NA
+"K01990","ABC-2 type transport system ATP-binding protein",NA
+"K01992","ABC-2 type transport system permease protein",NA
+"K01998","branched-chain amino acid transport system permease protein",NA
+"K02003","putative ABC transport system ATP-binding protein",NA
+"K02004","putative ABC transport system permease protein",NA
+"K02006","cobalt/nickel transport system ATP-binding protein",NA
+"K02007","cobalt/nickel transport system permease protein",NA
+"K02010","iron(III) transport system ATP-binding protein [EC:7.2.2.7]",NA
+"K02011","iron(III) transport system permease protein",NA
+"K02012","iron(III) transport system substrate-binding protein",NA
+"K02015","iron complex transport system permease protein",NA
+"K02016","iron complex transport system substrate-binding protein",NA
+"K02031","peptide/nickel transport system ATP-binding protein",NA
+"K02032","peptide/nickel transport system ATP-binding protein",NA
+"K02033","peptide/nickel transport system permease protein",NA
+"K02034","peptide/nickel transport system permease protein",NA
+"K02035","peptide/nickel transport system substrate-binding protein",NA
+"K02036","phosphate transport system ATP-binding protein [EC:7.3.2.1]",NA
+"K02037","phosphate transport system permease protein",NA
+"K02038","phosphate transport system permease protein",NA
+"K02039","phosphate transport system protein",NA
+"K02040","phosphate transport system substrate-binding protein",NA
+"K02063","thiamine transport system permease protein",NA
+"K02064","thiamine transport system substrate-binding protein",NA
+"K02117","V/A-type H+/Na+-transporting ATPase subunit A [EC:7.1.2.2 7.2.2.1]",NA
+"K02118","V/A-type H+/Na+-transporting ATPase subunit B",NA
+"K02119","V/A-type H+/Na+-transporting ATPase subunit C",NA
+"K02120","V/A-type H+/Na+-transporting ATPase subunit D",NA
+"K02122","V/A-type H+/Na+-transporting ATPase subunit F",NA
+"K02123","V/A-type H+/Na+-transporting ATPase subunit I",NA
+"K02124","V/A-type H+/Na+-transporting ATPase subunit K",NA
+"K02189","cobalt-precorrin 5A hydrolase [EC:3.7.1.12]",NA
+"K02191","cobalt-precorrin-6B (C15)-methyltransferase [EC:2.1.1.196]",NA
+"K02201","pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]",NA
+"K02224","cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11]",NA
+"K02227","adenosylcobinamide-phosphate synthase [EC:6.3.1.10]",NA
+"K02230","cobaltochelatase CobN [EC:6.6.1.2]",NA
+"K02232","adenosylcobyric acid synthase [EC:6.3.5.10]",NA
+"K02233","adenosylcobinamide-GDP ribazoletransferase [EC:2.7.8.26]",NA
+"K02257","heme o synthase [EC:2.5.1.141]",NA
+"K02274","cytochrome c oxidase subunit I [EC:7.1.1.9]",NA
+"K02275","cytochrome c oxidase subunit II [EC:7.1.1.9]",NA
+"K02276","cytochrome c oxidase subunit III [EC:7.1.1.9]",NA
+"K02291","15-cis-phytoene synthase [EC:2.5.1.32]",NA
+"K02303","uroporphyrin-III C-methyltransferase [EC:2.1.1.107]",NA
+"K02316","DNA primase [EC:2.7.7.101]",NA
+"K02322","DNA polymerase II large subunit [EC:2.7.7.7]",NA
+"K02323","DNA polymerase II small subunit [EC:2.7.7.7]",NA
+"K02346","DNA polymerase IV [EC:2.7.7.7]",NA
+"K02427","23S rRNA (uridine2552-2'-O)-methyltransferase [EC:2.1.1.166]",NA
+"K02433","aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]",NA
+"K02434","aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]",NA
+"K02437","glycine cleavage system H protein",NA
+"K02469","DNA gyrase subunit A [EC:5.6.2.2]",NA
+"K02470","DNA gyrase subunit B [EC:5.6.2.2]",NA
+"K02492","glutamyl-tRNA reductase [EC:1.2.1.70]",NA
+"K02493","release factor glutamine methyltransferase [EC:2.1.1.297]",NA
+"K02500","imidazole glycerol-phosphate synthase subunit HisF [EC:4.3.2.10]",NA
+"K02501","imidazole glycerol-phosphate synthase subunit HisH [EC:4.3.2.10]",NA
+"K02503","histidine triad (HIT) family protein [EC:3.9.1.-]",NA
+"K02528","16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]",NA
+"K02548","1,4-dihydroxy-2-naphthoate polyprenyltransferase [EC:2.5.1.74]",NA
+"K02551","2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [EC:2.2.1.9]",NA
+"K02552","menaquinone-specific isochorismate synthase [EC:5.4.4.2]",NA
+"K02600","transcription termination/antitermination protein NusA",NA
+"K02626","arginine decarboxylase [EC:4.1.1.19]",NA
+"K02635","cytochrome b6",NA
+"K02639","ferredoxin",NA
+"K02683","DNA primase small subunit [EC:2.7.7.102]",NA
+"K02858","3,4-dihydroxy 2-butanone 4-phosphate synthase [EC:4.1.99.12]",NA
+"K02863","large subunit ribosomal protein L1",NA
+"K02864","large subunit ribosomal protein L10",NA
+"K02866","large subunit ribosomal protein L10e",NA
+"K02867","large subunit ribosomal protein L11",NA
+"K02869","large subunit ribosomal protein L12",NA
+"K02871","large subunit ribosomal protein L13",NA
+"K02874","large subunit ribosomal protein L14",NA
+"K02876","large subunit ribosomal protein L15",NA
+"K02877","large subunit ribosomal protein L15e",NA
+"K02881","large subunit ribosomal protein L18",NA
+"K02883","large subunit ribosomal protein L18e",NA
+"K02885","large subunit ribosomal protein L19e",NA
+"K02886","large subunit ribosomal protein L2",NA
+"K02890","large subunit ribosomal protein L22",NA
+"K02895","large subunit ribosomal protein L24",NA
+"K02896","large subunit ribosomal protein L24e",NA
+"K02904","large subunit ribosomal protein L29",NA
+"K02906","large subunit ribosomal protein L3",NA
+"K02907","large subunit ribosomal protein L30",NA
+"K02912","large subunit ribosomal protein L32e",NA
+"K02921","large subunit ribosomal protein L37Ae",NA
+"K02922","large subunit ribosomal protein L37e",NA
+"K02924","large subunit ribosomal protein L39e",NA
+"K02927","ubiquitin-large subunit ribosomal protein L40e",NA
+"K02929","large subunit ribosomal protein L44e",NA
+"K02930","large subunit ribosomal protein L4e",NA
+"K02931","large subunit ribosomal protein L5",NA
+"K02933","large subunit ribosomal protein L6",NA
+"K02936","large subunit ribosomal protein L7Ae",NA
+"K02946","small subunit ribosomal protein S10",NA
+"K02948","small subunit ribosomal protein S11",NA
+"K02950","small subunit ribosomal protein S12",NA
+"K02952","small subunit ribosomal protein S13",NA
+"K02961","small subunit ribosomal protein S17",NA
+"K02962","small subunit ribosomal protein S17e",NA
+"K02965","small subunit ribosomal protein S19",NA
+"K02966","small subunit ribosomal protein S19e",NA
+"K02967","small subunit ribosomal protein S2",NA
+"K02974","small subunit ribosomal protein S24e",NA
+"K02977","ubiquitin-small subunit ribosomal protein S27Ae",NA
+"K02978","small subunit ribosomal protein S27e",NA
+"K02979","small subunit ribosomal protein S28e",NA
+"K02982","small subunit ribosomal protein S3",NA
+"K02984","small subunit ribosomal protein S3Ae",NA
+"K02986","small subunit ribosomal protein S4",NA
+"K02987","small subunit ribosomal protein S4e",NA
+"K02988","small subunit ribosomal protein S5",NA
+"K02991","small subunit ribosomal protein S6e",NA
+"K02992","small subunit ribosomal protein S7",NA
+"K02994","small subunit ribosomal protein S8",NA
+"K02995","small subunit ribosomal protein S8e",NA
+"K02996","small subunit ribosomal protein S9",NA
+"K03041","DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]",NA
+"K03042","DNA-directed RNA polymerase subunit A"" [EC:2.7.7.6]",NA
+"K03044","DNA-directed RNA polymerase subunit B' [EC:2.7.7.6]",NA
+"K03045","DNA-directed RNA polymerase subunit B"" [EC:2.7.7.6]",NA
+"K03047","DNA-directed RNA polymerase subunit D [EC:2.7.7.6]",NA
+"K03049","DNA-directed RNA polymerase subunit E' [EC:2.7.7.6]",NA
+"K03057","transcription factor S",NA
+"K03059","DNA-directed RNA polymerase subunit P [EC:2.7.7.6]",NA
+"K03072","preprotein translocase subunit SecD",NA
+"K03074","preprotein translocase subunit SecF",NA
+"K03076","preprotein translocase subunit SecY",NA
+"K03106","signal recognition particle subunit SRP54 [EC:3.6.5.4]",NA
+"K03110","fused signal recognition particle receptor",NA
+"K03113","translation initiation factor 1",NA
+"K03118","sec-independent protein translocase protein TatC",NA
+"K03120","transcription initiation factor TFIID TATA-box-binding protein",NA
+"K03124","transcription initiation factor TFIIB",NA
+"K03136","transcription initiation factor TFIIE subunit alpha",NA
+"K03147","phosphomethylpyrimidine synthase [EC:4.1.99.17]",NA
+"K03151","tRNA uracil 4-sulfurtransferase [EC:2.8.1.4]",NA
+"K03166","DNA topoisomerase VI subunit A [EC:5.6.2.2]",NA
+"K03167","DNA topoisomerase VI subunit B [EC:5.6.2.2]",NA
+"K03168","DNA topoisomerase I [EC:5.6.2.1]",NA
+"K03177","tRNA pseudouridine55 synthase [EC:5.4.99.25]",NA
+"K03231","elongation factor 1-alpha",NA
+"K03234","elongation factor 2",NA
+"K03236","translation initiation factor 1A",NA
+"K03237","translation initiation factor 2 subunit 1",NA
+"K03238","translation initiation factor 2 subunit 2",NA
+"K03242","translation initiation factor 2 subunit 3",NA
+"K03243","translation initiation factor 5B",NA
+"K03263","translation initiation factor 5A",NA
+"K03264","translation initiation factor 6",NA
+"K03265","peptide chain release factor subunit 1",NA
+"K03294","basic amino acid/polyamine antiporter, APA family",NA
+"K03297","small multidrug resistance pump",NA
+"K03306","inorganic phosphate transporter, PiT family",NA
+"K03307","solute:Na+ symporter, SSS family",NA
+"K03308","neurotransmitter:Na+ symporter, NSS family",NA
+"K03330","glutamyl-tRNA(Gln) amidotransferase subunit E [EC:6.3.5.7]",NA
+"K03394","precorrin-2/cobalt-factor-2 C20-methyltransferase [EC:2.1.1.130 2.1.1.151]",NA
+"K03399","cobalt-precorrin-7 (C5)-methyltransferase [EC:2.1.1.289]",NA
+"K03404","magnesium chelatase subunit D [EC:6.6.1.1]",NA
+"K03406","methyl-accepting chemotaxis protein",NA
+"K03407","two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]",NA
+"K03408","purine-binding chemotaxis protein CheW",NA
+"K03410","chemotaxis protein CheC",NA
+"K03411","chemotaxis protein CheD [EC:3.5.1.44]",NA
+"K03412","two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]",NA
+"K03413","two-component system, chemotaxis family, chemotaxis protein CheY",NA
+"K03420","proteasome regulatory subunit",NA
+"K03432","proteasome alpha subunit [EC:3.4.25.1]",NA
+"K03470","ribonuclease HII [EC:3.1.26.4]",NA
+"K03496","chromosome partitioning protein",NA
+"K03498","trk/ktr system potassium uptake protein",NA
+"K03499","trk/ktr system potassium uptake protein",NA
+"K03517","quinolinate synthase [EC:2.5.1.72]",NA
+"K03521","electron transfer flavoprotein beta subunit",NA
+"K03522","electron transfer flavoprotein alpha subunit",NA
+"K03523","biotin transport system substrate-specific component",NA
+"K03524","BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]",NA
+"K03529","chromosome segregation protein",NA
+"K03531","cell division protein FtsZ",NA
+"K03537","ribonuclease P/MRP protein subunit POP5 [EC:3.1.26.5]",NA
+"K03539","ribonuclease P/MRP protein subunit RPP1 [EC:3.1.26.5]",NA
+"K03546","DNA repair protein SbcC/Rad50",NA
+"K03547","DNA repair protein SbcD/Mre11",NA
+"K03552","holliday junction resolvase [EC:3.1.21.10]",NA
+"K03555","DNA mismatch repair protein MutS",NA
+"K03564","thioredoxin-dependent peroxiredoxin [EC:1.11.1.24]",NA
+"K03572","DNA mismatch repair protein MutL",NA
+"K03575","A/G-specific adenine glycosylase [EC:3.2.2.31]",NA
+"K03593","ATP-binding protein involved in chromosome partitioning",NA
+"K03595","GTPase",NA
+"K03609","septum site-determining protein MinD",NA
+"K03627","putative transcription factor",NA
+"K03635","molybdopterin synthase catalytic subunit [EC:2.8.1.12]",NA
+"K03636","sulfur-carrier protein",NA
+"K03637","cyclic pyranopterin monophosphate synthase [EC:4.6.1.17]",NA
+"K03638","molybdopterin adenylyltransferase [EC:2.7.7.75]",NA
+"K03639","GTP 3',8-cyclase [EC:4.1.99.22]",NA
+"K03644","lipoyl synthase [EC:2.8.1.8]",NA
+"K03657","ATP-dependent DNA helicase UvrD/PcrA [EC:5.6.2.4]",NA
+"K03660","N-glycosylase/DNA lyase [EC:3.2.2.- 4.2.99.18]",NA
+"K03665","GTPase",NA
+"K03671","thioredoxin",NA
+"K03680","translation initiation factor eIF-2B subunit delta",NA
+"K03686","molecular chaperone DnaJ",NA
+"K03687","molecular chaperone GrpE",NA
+"K03699","magnesium and cobalt exporter, CNNM family",NA
+"K03701","excinuclease ABC subunit A",NA
+"K03702","excinuclease ABC subunit B",NA
+"K03703","excinuclease ABC subunit C",NA
+"K03704","cold shock protein",NA
+"K03709","DtxR family transcriptional regulator, Mn-dependent transcriptional regulator",NA
+"K03719","Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein",NA
+"K03724","ATP-dependent helicase Lhr and Lhr-like helicase [EC:5.6.2.6 5.6.2.4]",NA
+"K03725","putative ATP-dependent RNA helicase [EC:5.6.2.-]",NA
+"K03726","ATP-dependent DNA helicase [EC:5.6.2.4]",NA
+"K03741","arsenate reductase (thioredoxin) [EC:1.20.4.4]",NA
+"K03743","nicotinamide-nucleotide amidase [EC:3.5.1.42]",NA
+"K03750","molybdopterin molybdotransferase [EC:2.10.1.1]",NA
+"K03752","molybdenum cofactor guanylyltransferase [EC:2.7.7.77]",NA
+"K03767","peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]",NA
+"K03775","FKBP-type peptidyl-prolyl cis-trans isomerase SlyD [EC:5.2.1.8]",NA
+"K03782","catalase-peroxidase [EC:1.11.1.21]",NA
+"K03787","5'/3'-nucleotidase [EC:3.1.3.5 3.1.3.6]",NA
+"K03789","[ribosomal protein S18]-alanine N-acetyltransferase [EC:2.3.1.266]",NA
+"K03795","sirohydrochlorin cobaltochelatase [EC:4.99.1.3]",NA
+"K03799","heat shock protein HtpX [EC:3.4.24.-]",NA
+"K03800","lipoate---protein ligase [EC:6.3.1.20]",NA
+"K03841","fructose-1,6-bisphosphatase I [EC:3.1.3.11]",NA
+"K03885","NADH:quinone reductase (non-electrogenic) [EC:1.6.5.9]",NA
+"K03924","MoxR-like ATPase [EC:3.6.3.-]",NA
+"K04043","molecular chaperone DnaK",NA
+"K04047","starvation-inducible DNA-binding protein",NA
+"K04076","ATP-dependent Lon protease [EC:3.4.21.53]",NA
+"K04483","DNA repair protein RadA",NA
+"K04484","DNA repair protein RadB",NA
+"K04488","nitrogen fixation protein NifU and related proteins",NA
+"K04517","prephenate dehydrogenase [EC:1.3.1.12]",NA
+"K04518","prephenate dehydratase [EC:4.2.1.51]",NA
+"K04564","superoxide dismutase, Fe-Mn family [EC:1.15.1.1]",NA
+"K04566","lysyl-tRNA synthetase, class I [EC:6.1.1.6]",NA
+"K04642","halorhodopsin",NA
+"K04655","hydrogenase expression/formation protein HypE",NA
+"K04720","threonine-phosphate decarboxylase [EC:4.1.1.81]",NA
+"K04773","protease IV [EC:3.4.21.-]",NA
+"K04794","peptidyl-tRNA hydrolase, PTH2 family [EC:3.1.1.29]",NA
+"K04795","fibrillarin-like pre-rRNA processing protein",NA
+"K04799","flap endonuclease-1 [EC:3.1.-.-]",NA
+"K04800","replication factor C large subunit",NA
+"K04801","replication factor C small subunit",NA
+"K04802","proliferating cell nuclear antigen",NA
+"K04835","methylaspartate ammonia-lyase [EC:4.3.1.2]",NA
+"K05566","multicomponent Na+:H+ antiporter subunit B",NA
+"K05567","multicomponent Na+:H+ antiporter subunit C",NA
+"K05568","multicomponent Na+:H+ antiporter subunit D",NA
+"K05569","multicomponent Na+:H+ antiporter subunit E",NA
+"K05571","multicomponent Na+:H+ antiporter subunit G",NA
+"K05606","methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1]",NA
+"K05813","sn-glycerol 3-phosphate transport system substrate-binding protein",NA
+"K05814","sn-glycerol 3-phosphate transport system permease protein",NA
+"K05815","sn-glycerol 3-phosphate transport system permease protein",NA
+"K05844","ribosomal protein S6--L-glutamate ligase [EC:6.3.2.-]",NA
+"K05873","adenylate cyclase, class 2 [EC:4.6.1.1]",NA
+"K05896","segregation and condensation protein A",NA
+"K05934","precorrin-3B C17-methyltransferase / cobalt-factor III methyltransferase [EC:2.1.1.131 2.1.1.272]",NA
+"K05936","precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271]",NA
+"K05982","deoxyribonuclease V [EC:3.1.21.7]",NA
+"K06042","precorrin-8X/cobalt-precorrin-8 methylmutase [EC:5.4.99.61 5.4.99.60]",NA
+"K06048","glutamate---cysteine ligase / carboxylate-amine ligase [EC:6.3.2.2 6.3.-.-]",NA
+"K06147","ATP-binding cassette, subfamily B, bacterial",NA
+"K06167","phosphoribosyl 1,2-cyclic phosphate phosphodiesterase [EC:3.1.4.55]",NA
+"K06173","tRNA pseudouridine38-40 synthase [EC:5.4.99.12]",NA
+"K06174","ATP-binding cassette, sub-family E, member 1",NA
+"K06176","tRNA pseudouridine13 synthase [EC:5.4.99.27]",NA
+"K06196","cytochrome c-type biogenesis protein",NA
+"K06199","fluoride exporter",NA
+"K06215","pyridoxal 5'-phosphate synthase pdxS subunit [EC:4.3.3.6]",NA
+"K06222","2,5-diketo-D-gluconate reductase B [EC:1.1.1.346]",NA
+"K06415","stage V sporulation protein R",NA
+"K06865","ATPase",NA
+"K06869","uncharacterized protein",NA
+"K06873","uncharacterized protein",NA
+"K06876","(6-4)DNA photolyase [EC:4.1.99.13]",NA
+"K06877","DEAD/DEAH box helicase domain-containing protein",NA
+"K06885","uncharacterized protein",NA
+"K06888","uncharacterized protein",NA
+"K06920","7-cyano-7-deazaguanine synthase [EC:6.3.4.20]",NA
+"K06927","diphthine-ammonia ligase [EC:6.3.1.14]",NA
+"K06929","uncharacterized protein",NA
+"K06930","HTH-type transcriptional regulator, bacterioopsin transcriptional activator and related proteins",NA
+"K06932","tRNA(Ile2)-agmatinylcytidine synthase [EC:6.3.4.22]",NA
+"K06934","uncharacterized protein",NA
+"K06936","archaeosine synthase beta-subunit [EC:2.6.1.-]",NA
+"K06940","uncharacterized protein",NA
+"K06942","ribosome-binding ATPase",NA
+"K06943","nucleolar GTP-binding protein",NA
+"K06950","uncharacterized protein",NA
+"K06953","uncharacterized protein",NA
+"K06957","tRNA(Met) cytidine acetyltransferase [EC:2.3.1.193]",NA
+"K06961","ribosomal RNA assembly protein",NA
+"K06965","protein pelota",NA
+"K06974","archaemetzincin [EC:3.4.-.-]",NA
+"K06981","isopentenyl phosphate kinase [EC:2.7.4.26]",NA
+"K06982","pantoate kinase [EC:2.7.1.169]",NA
+"K06987","uncharacterized protein",NA
+"K06988","8-hydroxy-5-deazaflavin:NADPH oxidoreductase [EC:1.5.1.40]",NA
+"K07027","glycosyltransferase 2 family protein",NA
+"K07041","uncharacterized protein",NA
+"K07045","uncharacterized protein",NA
+"K07049","TatD-related deoxyribonuclease",NA
+"K07052","CAAX protease family protein",NA
+"K07053","3',5'-nucleoside bisphosphate phosphatase [EC:3.1.3.97]",NA
+"K07055","tRNA wybutosine-synthesizing protein 2 [EC:2.5.1.114]",NA
+"K07059","rhomboid family protease [EC:3.4.21.105]",NA
+"K07060","endoribonuclease Nob1 [EC:3.1.-.-]",NA
+"K07080","uncharacterized protein",NA
+"K07095","uncharacterized protein",NA
+"K07097","uncharacterized protein",NA
+"K07101","uncharacterized protein",NA
+"K07103","uncharacterized protein",NA
+"K07107","acyl-CoA thioester hydrolase [EC:3.1.2.-]",NA
+"K07112","uncharacterized protein",NA
+"K07129","uncharacterized protein",NA
+"K07140","MOSC domain-containing protein",NA
+"K07142","2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3]",NA
+"K07151","dolichyl-diphosphooligosaccharide---protein glycosyltransferase [EC:2.4.99.18]",NA
+"K07152","protein SCO1",NA
+"K07159","uncharacterized protein",NA
+"K07178","RIO kinase 1 [EC:2.7.11.1]",NA
+"K07179","RIO kinase 2 [EC:2.7.11.1]",NA
+"K07180","serine protein kinase",NA
+"K07219","putative molybdopterin biosynthesis protein",NA
+"K07238","zinc transporter, ZIP family",NA
+"K07254","tRNA (cytidine56-2'-O)-methyltransferase [EC:2.1.1.206]",NA
+"K07301","cation:H+ antiporter",NA
+"K07304","peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]",NA
+"K07305","peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12]",NA
+"K07306","anaerobic dimethyl sulfoxide reductase subunit A [EC:1.8.5.3]",NA
+"K07331","archaeal flagellar protein FlaH",NA
+"K07332","archaeal flagellar protein FlaI",NA
+"K07333","archaeal flagellar protein FlaJ",NA
+"K07335","basic membrane protein A and related proteins",NA
+"K07341","death on curing protein",NA
+"K07390","monothiol glutaredoxin",NA
+"K07393","glutathionyl-hydroquinone reductase [EC:1.8.5.7]",NA
+"K07442","tRNA (adenine57-N1/adenine58-N1)-methyltransferase catalytic subunit [EC:2.1.1.219 2.1.1.220]",NA
+"K07446","tRNA (guanine10-N2)-dimethyltransferase [EC:2.1.1.213]",NA
+"K07456","DNA mismatch repair protein MutS2",NA
+"K07461","putative endonuclease",NA
+"K07462","single-stranded-DNA-specific exonuclease [EC:3.1.-.-]",NA
+"K07463","archaea-specific RecJ-like exonuclease",NA
+"K07466","replication factor A1",NA
+"K07496","putative transposase",NA
+"K07502","uncharacterized protein",NA
+"K07503","endonuclease [EC:3.1.-.-]",NA
+"K07557","archaeosine synthase alpha-subunit [EC:2.6.1.97 2.6.1.-]",NA
+"K07558","tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72]",NA
+"K07561","2-(3-amino-3-carboxypropyl)histidine synthase [EC:2.5.1.108]",NA
+"K07562","60S ribosomal export protein NMD3",NA
+"K07566","L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]",NA
+"K07572","putative nucleotide binding protein",NA
+"K07577","putative mRNA 3-end processing factor",NA
+"K07579","putative methylase",NA
+"K07581","RNA-binding protein",NA
+"K07583","tRNA pseudouridine synthase 10 [EC:5.4.99.25]",NA
+"K07585","tRNA methyltransferase",NA
+"K07588","GTPase [EC:3.6.5.-]",NA
+"K07721","ArsR family transcriptional regulator",NA
+"K07722","CopG family transcriptional regulator, nickel-responsive regulator",NA
+"K07728","putative transcriptional regulator",NA
+"K07730","putative transcriptional regulator",NA
+"K07731","putative transcriptional regulator",NA
+"K07732","riboflavin kinase, archaea type [EC:2.7.1.161]",NA
+"K07739","elongator complex protein 3 (tRNA carboxymethyluridine synthase) [EC:2.3.1.311]",NA
+"K07743","transcriptional regulator",NA
+"K07744","transcriptional regulator",NA
+"K07991","archaeal preflagellin peptidase FlaK [EC:3.4.23.52]",NA
+"K08096","GTP cyclohydrolase IIa [EC:3.5.4.29]",NA
+"K08602","oligoendopeptidase F [EC:3.4.24.-]",NA
+"K08681","pyridoxal 5'-phosphate synthase pdxT subunit [EC:4.3.3.6]",NA
+"K08963","methylthioribose-1-phosphate isomerase [EC:5.3.1.23]",NA
+"K08971","putative membrane protein",NA
+"K08974","putative membrane protein",NA
+"K08975","putative membrane protein",NA
+"K08976","putative membrane protein",NA
+"K08977","bisanhydrobacterioruberin hydratase [EC:4.2.1.161]",NA
+"K08979","putative membrane protein",NA
+"K08981","putative membrane protein",NA
+"K08999","uncharacterized protein",NA
+"K09005","uncharacterized protein",NA
+"K09013","Fe-S cluster assembly ATP-binding protein",NA
+"K09014","Fe-S cluster assembly protein SufB",NA
+"K09022","2-iminobutanoate/2-iminopropanoate deaminase [EC:3.5.99.10]",NA
+"K09120","endonuclease dU",NA
+"K09136","ribosomal protein S12 methylthiotransferase accessory factor",NA
+"K09140","rRNA small subunit aminocarboxypropyltransferase [EC:2.5.1.157]",NA
+"K09142","methyltransferase [EC:2.1.1.-]",NA
+"K09150","uncharacterized protein",NA
+"K09156","taxis protein CheF",NA
+"K09163","uncharacterized protein",NA
+"K09164","uncharacterized protein",NA
+"K09166","uncharacterized protein",NA
+"K09167","uncharacterized protein",NA
+"K09190","uncharacterized protein",NA
+"K09228","KRAB domain-containing zinc finger protein",NA
+"K09482","glutamyl-tRNA(Gln) amidotransferase subunit D [EC:6.3.5.7]",NA
+"K09716","D-aminoacyl-tRNA deacylase [EC:3.1.1.96]",NA
+"K09722","4-phosphopantoate---beta-alanine ligase [EC:6.3.2.36]",NA
+"K09723","DNA replication factor GINS",NA
+"K09728","uncharacterized protein",NA
+"K09730","uncharacterized protein",NA
+"K09731","uncharacterized protein",NA
+"K09738","uncharacterized protein",NA
+"K09743","uncharacterized protein",NA
+"K09746","uncharacterized protein",NA
+"K09759","nondiscriminating aspartyl-tRNA synthetase [EC:6.1.1.23]",NA
+"K09763","uncharacterized protein",NA
+"K09786","uncharacterized protein",NA
+"K09792","uncharacterized protein",NA
+"K09815","zinc transport system substrate-binding protein",NA
+"K09816","zinc transport system permease protein",NA
+"K09817","zinc transport system ATP-binding protein [EC:7.2.2.20]",NA
+"K09903","uridylate kinase [EC:2.7.4.22]",NA
+"K10026","7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]",NA
+"K10112","multiple sugar transport system ATP-binding protein [EC:7.5.2.-]",NA
+"K10716","voltage-gated potassium channel",NA
+"K10725","archaeal cell division control protein 6",NA
+"K10726","replicative DNA helicase Mcm [EC:5.6.2.3]",NA
+"K10742","DNA replication ATP-dependent helicase/nuclease Dna2 [EC:5.6.2.3 3.1.-.-]",NA
+"K10747","DNA ligase 1 [EC:6.5.1.1 6.5.1.6 6.5.1.7]",NA
+"K10773","endonuclease III [EC:3.2.2.- 4.2.99.18]",NA
+"K10843","DNA excision repair protein ERCC-3 [EC:5.6.2.4]",NA
+"K10844","DNA excision repair protein ERCC-2 [EC:5.6.2.3]",NA
+"K11176","IMP cyclohydrolase [EC:3.5.4.10]",NA
+"K11212","LPPG:FO 2-phospho-L-lactate transferase [EC:2.7.8.28]",NA
+"K11263","acetyl-CoA/propionyl-CoA/long-chain acyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.4.1.- 6.3.4.14]",NA
+"K11645","fructose-bisphosphate aldolase, class I [EC:4.1.2.13]",NA
+"K11646","3-dehydroquinate synthase II [EC:1.4.1.24]",NA
+"K11717","cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]",NA
+"K11781","5-amino-6-(D-ribitylamino)uracil---L-tyrosine 4-hydroxyphenyl transferase [EC:2.5.1.147]",NA
+"K12234","coenzyme F420-0:L-glutamate ligase / coenzyme F420-1:gamma-L-glutamate ligase [EC:6.3.2.31 6.3.2.34]",NA
+"K12573","ribonuclease R [EC:3.1.13.1]",NA
+"K12574","ribonuclease J [EC:3.1.-.-]",NA
+"K12940","aminobenzoyl-glutamate utilization protein A",NA
+"K12960","5-methylthioadenosine/S-adenosylhomocysteine deaminase [EC:3.5.4.31 3.5.4.28]",NA
+"K13038","phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase [EC:4.1.1.36 6.3.2.5]",NA
+"K13051","L-asparaginase / beta-aspartyl-peptidase [EC:3.5.1.1 3.4.19.5]",NA
+"K13280","signal peptidase I [EC:3.4.21.89]",NA
+"K13378","NADH-quinone oxidoreductase subunit C/D [EC:7.1.1.2]",NA
+"K13525","transitional endoplasmic reticulum ATPase",NA
+"K13677","1,2-diacylglycerol-3-alpha-glucose alpha-1,2-glucosyltransferase [EC:2.4.1.208]",NA
+"K13787","geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29]",NA
+"K13993","HSP20 family protein",NA
+"K14415","tRNA-splicing ligase RtcB (3'-phosphate/5'-hydroxy nucleic acid ligase) [EC:6.5.1.8]",NA
+"K14564","nucleolar protein 56",NA
+"K14574","ribosome maturation protein SDO1",NA
+"K14654","2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase [EC:1.1.1.302]",NA
+"K14656","FAD synthetase [EC:2.7.7.2]",NA
+"K14941","2-phospho-L-lactate/phosphoenolpyruvate guanylyltransferase [EC:2.7.7.68 2.7.7.105]",NA
+"K15016","enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.35]",NA
+"K15172","transcription elongation factor SPT5",NA
+"K15396","tRNA (cytidine32/uridine32-2'-O)-methyltransferase [EC:2.1.1.200]",NA
+"K15429","tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]",NA
+"K15449","tRNA wybutosine-synthesizing protein 1 [EC:4.1.3.44]",NA
+"K15495","molybdate/tungstate transport system substrate-binding protein",NA
+"K15633","2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]",NA
+"K15778","phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2]",NA
+"K15865","threonylcarbamoyladenosine tRNA methylthiotransferase [EC:2.8.4.5]",NA
+"K15888","tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific] [EC:2.5.1.89]",NA
+"K15904","bifunctional N6-L-threonylcarbamoyladenine synthase / protein kinase Bud32 [EC:2.3.1.234 2.7.11.1]",NA
+"K16306","fructose-bisphosphate aldolase / 2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase [EC:4.1.2.13 2.2.1.10]",NA
+"K16317","tRNA (pseudouridine54-N1)-methyltransferase [EC:2.1.1.257]",NA
+"K16869","octanoyl-[GcvH]:protein N-octanoyltransferase [EC:2.3.1.204]",NA
+"K17488","GTP cyclohydrolase IV [EC:3.5.4.39]",NA
+"K17686","P-type Cu+ transporter [EC:7.2.2.8]",NA
+"K17830","digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]",NA
+"K17884","archaetidylinositol phosphate synthase [EC:2.7.8.39]",NA
+"K17942","phosphomevalonate decarboxylase [EC:4.1.1.99]",NA
+"K18208","renalase [EC:1.6.3.5]",NA
+"K18532","adenylate kinase [EC:2.7.4.3]",NA
+"K18672","diadenylate cyclase [EC:2.7.7.85]",NA
+"K18779","7-cyano-7-deazaguanine tRNA-ribosyltransferase [EC:2.4.2.48]",NA
+"K18882","DNA primase large subunit",NA
+"K18933","tyrosine decarboxylase / aspartate 1-decarboxylase [EC:4.1.1.25 4.1.1.11]",NA
+"K18981","uronate dehydrogenase [EC:1.1.1.203]",NA
+"K19221","cob(I)alamin adenosyltransferase [EC:2.5.1.17]",NA
+"K19268","methylaspartate mutase epsilon subunit [EC:5.4.99.1]",NA
+"K19664","CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase [EC:2.7.7.67]",NA
+"K19689","aminopeptidase [EC:3.4.11.-]",NA
+"K19710","ATP adenylyltransferase [EC:2.7.7.53]",NA
+"K19802","L-Ala-D/L-Glu epimerase / N-acetyl-D-glutamate racemase [EC:5.1.1.20 5.1.1.25]",NA
+"K20215","diphthine synthase [EC:2.1.1.98]",NA
+"K20611","1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase [EC:1.3.99.37]",NA
+"K20616","lycopene elongase/hydratase (dihydrobisanhydrobacterioruberin-forming) [EC:2.5.1.150]",NA
+"K21306","dolichyl-phosphooligosaccharide-protein glycotransferase [EC:2.4.99.21]",NA
+"K21817","beta-carotene 15,15'-dioxygenase [EC:1.13.11.63]",NA
+"K21827","IclR family transcriptional regulator, arginine deiminase pathway regulator",NA
+"K21929","uracil-DNA glycosylase [EC:3.2.2.27]",NA
+"K22205","S-adenosyl-L-methionine hydrolase (adenosine-forming) [EC:3.13.2.3]",NA
+"K22206","XRE family transcriptional regulator, thiamine biosynthesis regulator",NA
+"K22221","HEAT repeat-containing taxis protein",NA
+"K22222","tubulin-like protein CetZ",NA
+"K22223","phosphoglycolate phosphatase [EC:3.1.3.18]",NA
+"K22225","siroheme decarboxylase [EC:4.1.1.111]",NA
+"K22226","Fe-coproporphyrin III synthase",NA
+"K22227","AdoMet-dependent heme synthase [EC:1.3.98.6]",NA
+"K22447","archaeal chaperonin",NA
+"K22469","ribonuclease FAU-1 [EC:3.1.26.-]",NA
+"K22585","DNA repair protein NreA",NA
+"K22699","sulfide-dependent adenosine diphosphate thiazole synthase [EC:2.4.2.59]",NA
+"K22969","glucose 1-dehydrogenase [EC:1.1.1.47]",NA
+"K23144","UDP-N-acetylglucosamine diphosphorylase / glucose-1-phosphate thymidylyltransferase / UDP-N-acetylgalactosamine diphosphorylase / glucosamine-1-phosphate N-acetyltransferase / galactosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.7.7.24 2.7.7.83 2.3.1.157 2.3.1.276]",NA
+"K23188","iron-siderophore transport system ATP-binding protein [EC:7.2.2.17 7.2.2.-]",NA
+"K23265","phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase [EC:6.3.5.3 3.5.1.2]",NA
+"K23269","phosphoribosylformylglycinamidine synthase subunit PurL [EC:6.3.5.3]",NA
+"K23349","putative dimethyl sulfoxide reductase chaperone",NA
+"K23356","HTH-type transcriptional regulator, sugar sensing transcriptional regulator",NA
+"K23535","general nucleoside transport system permease protein",NA
+"K23536","general nucleoside transport system permease protein",NA
+"K23537","general nucleoside transport system ATP-binding protein",NA
+"K23997","ADP-dependent NAD(P)H-hydrate dehydratase / NAD(P)H-hydrate epimerase [EC:4.2.1.136 5.1.99.6]",NA
+"K24129","glutaredoxin-dependent peroxiredoxin [EC:1.11.1.25]",NA
+"K24131","protease PrsW [EC:3.4.-.-]",NA
+"K24447","archaeosortase A [EC:3.4.22.-]",NA
+"K24450","DNA-binding protein",NA
+"K24451","modification methylase",NA
+"K25026","glucokinase [EC:2.7.1.2]",NA
+"K25034","cobalamin transport system substrate-binding protein",NA
+"K26208","alpha-D-ribose-1-phosphate 5-kinase (ATP) [EC:2.7.1.239]",NA
+"K26272","D-glutamate N-acetyltransferase [EC:2.3.1.312]",NA
+"K26599","HTH-type transcriptional regulator, activator of D-glucose/D-fructose catabolism",NA
+"K26937","MATE family, multidrug efflux pump",NA
+"K27802","aconitate hydratase A / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]",NA
+"K28366","rhomboid family protease [EC:3.4.21.105]",NA
+"K28485","intramembrane aspartyl peptidase",NA
+"K28565","archaeal glyceryl transferase [EC:2.5.1.-]",NA
+"K28566","archaeal glyceryl transferase [EC:2.5.1.-]",NA

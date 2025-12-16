@@ -1,68 +1,68 @@
-"KO","name","definition"
-"K00067","dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]",NA
-"K00102","D-lactate dehydrogenase (cytochrome) [EC:1.1.2.4]",NA
-"K00140","malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]",NA
-"K00147","glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]",NA
-"K00167","2-oxoisovalerate dehydrogenase E1 component subunit beta [EC:1.2.4.4]",NA
-"K00219","2,4-dienoyl-CoA reductase (NADPH2) [EC:1.3.1.34]",NA
-"K00286","pyrroline-5-carboxylate reductase [EC:1.5.1.2]",NA
-"K00560","thymidylate synthase [EC:2.1.1.45]",NA
-"K00587","protein-S-isoprenylcysteine O-methyltransferase [EC:2.1.1.100]",NA
-"K00681","gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]",NA
-"K00797","spermidine synthase [EC:2.5.1.16]",NA
-"K00931","glutamate 5-kinase [EC:2.7.2.11]",NA
-"K00995","CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]",NA
-"K01191","alpha-mannosidase [EC:3.2.1.24]",NA
-"K01192","beta-mannosidase [EC:3.2.1.25]",NA
-"K01206","alpha-L-fucosidase [EC:3.2.1.51]",NA
-"K01262","Xaa-Pro aminopeptidase [EC:3.4.11.9]",NA
-"K01495","GTP cyclohydrolase IA [EC:3.5.4.16]",NA
-"K01601","ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39]",NA
-"K01727","hyaluronate lyase [EC:4.2.2.1]",NA
-"K02018","molybdate transport system permease protein",NA
-"K02510","4-hydroxy-2-oxoheptanedioate aldolase [EC:4.1.2.52]",NA
-"K02956","small subunit ribosomal protein S15",NA
-"K03056","DNA-directed RNA polymerase subunit L [EC:2.7.7.6]",NA
-"K03335","inosose dehydratase [EC:4.2.1.44]",NA
-"K03527","4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]",NA
-"K03661","V-type H+-transporting ATPase 21kDa proteolipid subunit",NA
-"K03890","quinol---cytochrome c reductase iron-sulfur subunit [EC:7.1.1.8]",NA
-"K03933","chitin-binding protein",NA
-"K03940","NADH dehydrogenase (ubiquinone) Fe-S protein 7 [EC:7.1.1.2]",NA
-"K04093","chorismate mutase [EC:5.4.99.5]",NA
-"K04748","nitric oxide reductase NorQ protein",NA
-"K05275","pyridoxine 4-dehydrogenase [EC:1.1.1.65]",NA
-"K05770","translocator protein",NA
-"K05802","potassium-dependent mechanosensitive channel",NA
-"K05830","[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase [EC:2.6.1.118 2.6.1.124]",NA
-"K06223","DNA adenine methylase [EC:2.1.1.72]",NA
-"K06919","putative DNA primase/helicase",NA
-"K07005","uncharacterized protein",NA
-"K07090","uncharacterized protein",NA
-"K07404","6-phosphogluconolactonase [EC:3.1.1.31]",NA
-"K07445","putative DNA methylase",NA
-"K07668","two-component system, OmpR family, response regulator VicR",NA
-"K07767","katanin p60 ATPase-containing subunit A1 [EC:5.6.1.1]",NA
-"K07776","two-component system, OmpR family, response regulator RegX3",NA
-"K08003","matrix metalloproteinase-25 (membrane-inserted) [EC:3.4.24.-]",NA
-"K08711","ATP-binding cassette, subfamily G (WHITE), member 2, PDR",NA
-"K09823","Fur family transcriptional regulator, zinc uptake regulator",NA
-"K10009","L-cystine transport system permease protein",NA
-"K11593","eukaryotic translation initiation factor 2C",NA
-"K11741","quaternary ammonium compound-resistance protein SugE",NA
-"K12111","evolved beta-galactosidase subunit alpha [EC:3.2.1.23]",NA
-"K12132","eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]",NA
-"K12372","dipeptide transport system ATP-binding protein",NA
-"K12373","hexosaminidase [EC:3.2.1.52]",NA
-"K13628","iron-sulfur cluster assembly protein",NA
-"K13891","glutathione transport system permease protein",NA
-"K15510","coenzyme F420-dependent glucose-6-phosphate dehydrogenase [EC:1.1.98.2]",NA
-"K15736","(S)-2-hydroxyglutarate dehydrogenase [EC:1.1.5.13]",NA
-"K15866","2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase [EC:5.3.3.18]",NA
-"K16898","ATP-dependent helicase/nuclease subunit A [EC:5.6.2.4 3.1.-.-]",NA
-"K18121","glyoxylate/succinic semialdehyde reductase [EC:1.1.1.79 1.1.1.-]",NA
-"K18581","unsaturated chondroitin disaccharide hydrolase [EC:3.2.1.180]",NA
-"K19333","IclR family transcriptional regulator, KDG regulon repressor",NA
-"K25656","cryptochrome",NA
-"K26978","zinc finger protein 526/574",NA
-"K28138","alcohol-forming fatty acyl-CoA reductase [EC:1.2.1.84]",NA
+"KO","name","definition","category"
+"K00067","dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]",NA,"HM unique"
+"K00102","D-lactate dehydrogenase (cytochrome) [EC:1.1.2.4]",NA,"HM unique"
+"K00140","malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]",NA,"HM unique"
+"K00147","glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]",NA,"HM unique"
+"K00167","2-oxoisovalerate dehydrogenase E1 component subunit beta [EC:1.2.4.4]",NA,"HM unique"
+"K00219","2,4-dienoyl-CoA reductase (NADPH2) [EC:1.3.1.34]",NA,"HM unique"
+"K00286","pyrroline-5-carboxylate reductase [EC:1.5.1.2]",NA,"HM unique"
+"K00560","thymidylate synthase [EC:2.1.1.45]",NA,"HM unique"
+"K00587","protein-S-isoprenylcysteine O-methyltransferase [EC:2.1.1.100]",NA,"HM unique"
+"K00681","gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]",NA,"HM unique"
+"K00797","spermidine synthase [EC:2.5.1.16]",NA,"HM unique"
+"K00931","glutamate 5-kinase [EC:2.7.2.11]",NA,"HM unique"
+"K00995","CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]",NA,"HM unique"
+"K01191","alpha-mannosidase [EC:3.2.1.24]",NA,"HM unique"
+"K01192","beta-mannosidase [EC:3.2.1.25]",NA,"HM unique"
+"K01206","alpha-L-fucosidase [EC:3.2.1.51]",NA,"HM unique"
+"K01262","Xaa-Pro aminopeptidase [EC:3.4.11.9]",NA,"HM unique"
+"K01495","GTP cyclohydrolase IA [EC:3.5.4.16]",NA,"HM unique"
+"K01601","ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39]",NA,"HM unique"
+"K01727","hyaluronate lyase [EC:4.2.2.1]",NA,"HM unique"
+"K02018","molybdate transport system permease protein",NA,"HM unique"
+"K02510","4-hydroxy-2-oxoheptanedioate aldolase [EC:4.1.2.52]",NA,"HM unique"
+"K02956","small subunit ribosomal protein S15",NA,"HM unique"
+"K03056","DNA-directed RNA polymerase subunit L [EC:2.7.7.6]",NA,"HM unique"
+"K03335","inosose dehydratase [EC:4.2.1.44]",NA,"HM unique"
+"K03527","4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]",NA,"HM unique"
+"K03661","V-type H+-transporting ATPase 21kDa proteolipid subunit",NA,"HM unique"
+"K03890","quinol---cytochrome c reductase iron-sulfur subunit [EC:7.1.1.8]",NA,"HM unique"
+"K03933","chitin-binding protein",NA,"HM unique"
+"K03940","NADH dehydrogenase (ubiquinone) Fe-S protein 7 [EC:7.1.1.2]",NA,"HM unique"
+"K04093","chorismate mutase [EC:5.4.99.5]",NA,"HM unique"
+"K04748","nitric oxide reductase NorQ protein",NA,"HM unique"
+"K05275","pyridoxine 4-dehydrogenase [EC:1.1.1.65]",NA,"HM unique"
+"K05770","translocator protein",NA,"HM unique"
+"K05802","potassium-dependent mechanosensitive channel",NA,"HM unique"
+"K05830","[amino-group carrier protein]-gamma-(L-lysyl/L-ornithyl)-L-glutamate aminotransferase [EC:2.6.1.118 2.6.1.124]",NA,"HM unique"
+"K06223","DNA adenine methylase [EC:2.1.1.72]",NA,"HM unique"
+"K06919","putative DNA primase/helicase",NA,"HM unique"
+"K07005","uncharacterized protein",NA,"HM unique"
+"K07090","uncharacterized protein",NA,"HM unique"
+"K07404","6-phosphogluconolactonase [EC:3.1.1.31]",NA,"HM unique"
+"K07445","putative DNA methylase",NA,"HM unique"
+"K07668","two-component system, OmpR family, response regulator VicR",NA,"HM unique"
+"K07767","katanin p60 ATPase-containing subunit A1 [EC:5.6.1.1]",NA,"HM unique"
+"K07776","two-component system, OmpR family, response regulator RegX3",NA,"HM unique"
+"K08003","matrix metalloproteinase-25 (membrane-inserted) [EC:3.4.24.-]",NA,"HM unique"
+"K08711","ATP-binding cassette, subfamily G (WHITE), member 2, PDR",NA,"HM unique"
+"K09823","Fur family transcriptional regulator, zinc uptake regulator",NA,"HM unique"
+"K10009","L-cystine transport system permease protein",NA,"HM unique"
+"K11593","eukaryotic translation initiation factor 2C",NA,"HM unique"
+"K11741","quaternary ammonium compound-resistance protein SugE",NA,"HM unique"
+"K12111","evolved beta-galactosidase subunit alpha [EC:3.2.1.23]",NA,"HM unique"
+"K12132","eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]",NA,"HM unique"
+"K12372","dipeptide transport system ATP-binding protein",NA,"HM unique"
+"K12373","hexosaminidase [EC:3.2.1.52]",NA,"HM unique"
+"K13628","iron-sulfur cluster assembly protein",NA,"HM unique"
+"K13891","glutathione transport system permease protein",NA,"HM unique"
+"K15510","coenzyme F420-dependent glucose-6-phosphate dehydrogenase [EC:1.1.98.2]",NA,"HM unique"
+"K15736","(S)-2-hydroxyglutarate dehydrogenase [EC:1.1.5.13]",NA,"HM unique"
+"K15866","2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase [EC:5.3.3.18]",NA,"HM unique"
+"K16898","ATP-dependent helicase/nuclease subunit A [EC:5.6.2.4 3.1.-.-]",NA,"HM unique"
+"K18121","glyoxylate/succinic semialdehyde reductase [EC:1.1.1.79 1.1.1.-]",NA,"HM unique"
+"K18581","unsaturated chondroitin disaccharide hydrolase [EC:3.2.1.180]",NA,"HM unique"
+"K19333","IclR family transcriptional regulator, KDG regulon repressor",NA,"HM unique"
+"K25656","cryptochrome",NA,"HM unique"
+"K26978","zinc finger protein 526/574",NA,"HM unique"
+"K28138","alcohol-forming fatty acyl-CoA reductase [EC:1.2.1.84]",NA,"HM unique"

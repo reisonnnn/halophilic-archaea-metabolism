@@ -1,0 +1,16 @@
+"Pathway","Strain","Completeness"
+"Classical glycolysis","HS",70
+"Classical glycolysis","HM",70
+"Classical glycolysis","HA",70
+"Archaeal glycolysis","HS",70
+"Archaeal glycolysis","HM",70
+"Archaeal glycolysis","HA",70
+"Entner-Doudoroff","HS",70
+"Entner-Doudoroff","HM",80
+"Entner-Doudoroff","HA",80
+"Gluconeogenesis","HS",50
+"Gluconeogenesis","HM",50
+"Gluconeogenesis","HA",50
+"Glycerol metabolism","HS",100
+"Glycerol metabolism","HM",100
+"Glycerol metabolism","HA",100

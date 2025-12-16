@@ -1,130 +1,130 @@
-"KO","name","definition"
-"K00001","alcohol dehydrogenase [EC:1.1.1.1]",NA
-"K00008","L-iditol 2-dehydrogenase [EC:1.1.1.14]",NA
-"K00019","3-hydroxybutyrate dehydrogenase [EC:1.1.1.30]",NA
-"K00123","formate dehydrogenase major subunit [EC:1.17.1.9]",NA
-"K00124","formate dehydrogenase iron-sulfur subunit",NA
-"K00249","acyl-CoA dehydrogenase [EC:1.3.8.7]",NA
-"K00297","methylenetetrahydrofolate reductase (NADH) [EC:1.5.1.54]",NA
-"K00309","dimethylglycine oxidase [EC:1.5.3.10]",NA
-"K00335","NADH-quinone oxidoreductase subunit F [EC:7.1.1.2]",NA
-"K00339","NADH-quinone oxidoreductase subunit J [EC:7.1.1.2]",NA
-"K00372","assimilatory nitrate reductase catalytic subunit [EC:1.7.99.-]",NA
-"K00376","nitrous-oxide reductase [EC:1.7.2.4]",NA
-"K00662","aminoglycoside 3-N-acetyltransferase [EC:2.3.1.81]",NA
-"K00697","trehalose 6-phosphate synthase [EC:2.4.1.15 2.4.1.347]",NA
-"K00705","4-alpha-glucanotransferase [EC:2.4.1.25]",NA
-"K00782","L-lactate dehydrogenase complex protein LldG",NA
-"K00830","alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]",NA
-"K00848","rhamnulokinase [EC:2.7.1.5]",NA
-"K01008","selenide, water dikinase [EC:2.7.9.3]",NA
-"K01176","alpha-amylase [EC:3.2.1.1]",NA
-"K01178","glucoamylase [EC:3.2.1.3]",NA
-"K01187","alpha-glucosidase [EC:3.2.1.20]",NA
-"K01428","urease subunit alpha [EC:3.5.1.5]",NA
-"K01429","urease subunit beta [EC:3.5.1.5]",NA
-"K01430","urease subunit gamma [EC:3.5.1.5]",NA
-"K01439","succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]",NA
-"K01464","dihydropyrimidinase [EC:3.5.2.2]",NA
-"K01501","nitrilase [EC:3.5.5.1]",NA
-"K01537","P-type Ca2+ transporter type 2C [EC:7.2.2.10]",NA
-"K01552","energy-coupling factor transport system ATP-binding protein [EC:7.-.-.-]",NA
-"K01560","2-haloacid dehalogenase [EC:3.8.1.2]",NA
-"K01628","L-fuculose-phosphate aldolase [EC:4.1.2.17]",NA
-"K01777","proline racemase [EC:5.1.1.4]",NA
-"K01912","phenylacetate-CoA ligase [EC:6.2.1.30]",NA
-"K01938","formate--tetrahydrofolate ligase [EC:6.3.4.3]",NA
-"K02008","cobalt/nickel transport system permease protein",NA
-"K02029","polar amino acid transport system permease protein",NA
-"K02030","polar amino acid transport system substrate-binding protein",NA
-"K02168","choline/glycine/proline betaine transport protein",NA
-"K02575","MFS transporter, NNP family, nitrate/nitrite transporter",NA
-"K02609","ring-1,2-phenylacetyl-CoA epoxidase subunit PaaA [EC:1.14.13.149]",NA
-"K02611","ring-1,2-phenylacetyl-CoA epoxidase subunit PaaC [EC:1.14.13.149]",NA
-"K02614","acyl-CoA thioesterase [EC:3.1.2.-]",NA
-"K02770","fructose PTS system EIIBC or EIIC component [EC:2.7.1.202]",NA
-"K02784","phosphocarrier protein HPr",NA
-"K03187","urease accessory protein",NA
-"K03188","urease accessory protein",NA
-"K03189","urease accessory protein",NA
-"K03190","urease accessory protein",NA
-"K03303","lactate permease",NA
-"K03328","polysaccharide transporter, PST family",NA
-"K03423","bis-gamma-glutamylcystine reductase [EC:1.8.1.13]",NA
-"K03453","bile acid:Na+ symporter, BASS family",NA
-"K03518","aerobic carbon-monoxide dehydrogenase small subunit [EC:1.2.5.3]",NA
-"K03553","recombination protein RecA",NA
-"K03658","DNA helicase IV [EC:5.6.2.4]",NA
-"K03738","aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5]",NA
-"K03926","periplasmic divalent cation tolerance protein",NA
-"K04486","histidinol-phosphatase (PHP family) [EC:3.1.3.15]",NA
-"K04719","5,6-dimethylbenzimidazole synthase [EC:1.13.11.79]",NA
-"K04751","nitrogen regulatory protein P-II 1",NA
-"K05772","tungstate transport system substrate-binding protein",NA
-"K05773","tungstate transport system permease protein",NA
-"K06015","N-acyl-D-amino-acid deacylase [EC:3.5.1.81]",NA
-"K06016","beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase [EC:3.5.1.6 3.5.1.87]",NA
-"K06118","UDP-sulfoquinovose synthase [EC:3.13.1.1]",NA
-"K06162","alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [EC:3.6.1.63]",NA
-"K06200","carbon starvation protein",NA
-"K06639","cell division cycle 14 [EC:3.1.3.16 3.1.3.48]",NA
-"K06878","tRNA-binding protein",NA
-"K06998","trans-2,3-dihydro-3-hydroxyanthranilate isomerase [EC:5.3.3.17]",NA
-"K07001","NTE family protein",NA
-"K07058","membrane protein",NA
-"K07069","uncharacterized protein",NA
-"K07089","uncharacterized protein",NA
-"K07104","catechol 2,3-dioxygenase [EC:1.13.11.2]",NA
-"K07158","uncharacterized protein",NA
-"K07228","K+:H+ antiporter subunit KhtT",NA
-"K07249","retinal dehydrogenase [EC:1.2.1.36]",NA
-"K07322","regulator of cell morphogenesis and NO signaling",NA
-"K07378","neuroligin",NA
-"K07402","xanthine dehydrogenase accessory factor",NA
-"K07454","putative restriction endonuclease",NA
-"K07559","putative RNA 2'-phosphotransferase [EC:2.7.1.-]",NA
-"K08482","circadian clock protein KaiC",NA
-"K08483","phosphoenolpyruvate-protein phosphotransferase (PTS system enzyme I) [EC:2.7.3.9]",NA
-"K09119","KEOPS complex subunit Cgi121",NA
-"K09714","HTH-type transcriptional regulator, fmd operon transcriptional regulator",NA
-"K09732","uncharacterized protein",NA
-"K09736","uncharacterized protein",NA
-"K10227","polyol transport system substrate-binding protein",NA
-"K10252","beta,beta-carotene 9',10'-dioxygenase [EC:1.13.11.71]",NA
-"K11000","callose synthase [EC:2.4.1.-]",NA
-"K11085","ATP-binding cassette, subfamily B, bacterial MsbA [EC:7.5.2.6]",NA
-"K11959","urea transport system substrate-binding protein",NA
-"K11960","urea transport system permease protein",NA
-"K11961","urea transport system permease protein",NA
-"K11962","urea transport system ATP-binding protein",NA
-"K11963","urea transport system ATP-binding protein",NA
-"K12369","dipeptide transport system permease protein",NA
-"K13010","perosamine synthetase [EC:2.6.1.102]",NA
-"K13110","pre-mRNA-splicing factor MFAP1/SPP381",NA
-"K13641","IclR family transcriptional regulator, acetate operon repressor",NA
-"K14259","2-dehydro-3-deoxy-D-arabinonate dehydratase [EC:4.2.1.141]",NA
-"K14611","solute carrier family 23 (nucleobase transporter), member 1",NA
-"K15171","transcription elongation factor SPT4",NA
-"K15342","CRISP-associated protein Cas1",NA
-"K15772","arabinogalactan oligomer / maltooligosaccharide transport system permease protein",NA
-"K16785","energy-coupling factor transport system permease protein",NA
-"K17285","methanethiol oxidase [EC:1.8.3.4]",NA
-"K17316","glucose/mannose transport system permease protein",NA
-"K17865","3-hydroxybutyryl-CoA dehydratase [EC:4.2.1.55]",NA
-"K18382","NAD+-dependent secondary alcohol dehydrogenase Adh1 [EC:1.1.1.-]",NA
-"K18663","activating signal cointegrator complex subunit 3 [EC:5.6.2.4]",NA
-"K18929","L-lactate dehydrogenase complex protein LldF",NA
-"K19281","beta-methylmalyl-CoA/(S)-malyl-CoA lyase [EC:4.1.3.24]",NA
-"K19282","bifunctional (S)-malyl-CoA lyase/thioesterase [EC:4.1.3.24 3.1.2.30]",NA
-"K19342","copper chaperone NosL",NA
-"K21990","formate-nitrite transporter family protein",NA
-"K22502","lycopene beta-cyclase [EC:5.5.1.19]",NA
-"K22844","glucosyl-dolichyl phosphate glucuronosyltransferase [EC:2.4.1.356]",NA
-"K23252","dolichol phosphate-mannose mannosyltransferase [EC:2.4.1.-]",NA
-"K23398","activating signal cointegrator 1",NA
-"K23518","O-acetyl-ADP-ribose deacetylase [EC:3.1.1.106]",NA
-"K24998","dehydro coenzyme F420 reductase / coenzyme F420-0:L-glutamate ligase / coenzyme F420-1:gamma-L-glutamate ligase [EC:1.3.8.17 6.3.2.31 6.3.2.34]",NA
-"K25316","amino-acid racemase [EC:5.1.1.10]",NA
-"K26605","branched chain amino acid efflux pump",NA
-"K26732","K+:H+ antiporter subunit KhtU",NA
-"K27923","IclR family transcriptional regulator, msc operon activator",NA
+"KO","name","definition","category"
+"K00001","alcohol dehydrogenase [EC:1.1.1.1]",NA,"HA unique"
+"K00008","L-iditol 2-dehydrogenase [EC:1.1.1.14]",NA,"HA unique"
+"K00019","3-hydroxybutyrate dehydrogenase [EC:1.1.1.30]",NA,"HA unique"
+"K00123","formate dehydrogenase major subunit [EC:1.17.1.9]",NA,"HA unique"
+"K00124","formate dehydrogenase iron-sulfur subunit",NA,"HA unique"
+"K00249","acyl-CoA dehydrogenase [EC:1.3.8.7]",NA,"HA unique"
+"K00297","methylenetetrahydrofolate reductase (NADH) [EC:1.5.1.54]",NA,"HA unique"
+"K00309","dimethylglycine oxidase [EC:1.5.3.10]",NA,"HA unique"
+"K00335","NADH-quinone oxidoreductase subunit F [EC:7.1.1.2]",NA,"HA unique"
+"K00339","NADH-quinone oxidoreductase subunit J [EC:7.1.1.2]",NA,"HA unique"
+"K00372","assimilatory nitrate reductase catalytic subunit [EC:1.7.99.-]",NA,"HA unique"
+"K00376","nitrous-oxide reductase [EC:1.7.2.4]",NA,"HA unique"
+"K00662","aminoglycoside 3-N-acetyltransferase [EC:2.3.1.81]",NA,"HA unique"
+"K00697","trehalose 6-phosphate synthase [EC:2.4.1.15 2.4.1.347]",NA,"HA unique"
+"K00705","4-alpha-glucanotransferase [EC:2.4.1.25]",NA,"HA unique"
+"K00782","L-lactate dehydrogenase complex protein LldG",NA,"HA unique"
+"K00830","alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]",NA,"HA unique"
+"K00848","rhamnulokinase [EC:2.7.1.5]",NA,"HA unique"
+"K01008","selenide, water dikinase [EC:2.7.9.3]",NA,"HA unique"
+"K01176","alpha-amylase [EC:3.2.1.1]",NA,"HA unique"
+"K01178","glucoamylase [EC:3.2.1.3]",NA,"HA unique"
+"K01187","alpha-glucosidase [EC:3.2.1.20]",NA,"HA unique"
+"K01428","urease subunit alpha [EC:3.5.1.5]",NA,"HA unique"
+"K01429","urease subunit beta [EC:3.5.1.5]",NA,"HA unique"
+"K01430","urease subunit gamma [EC:3.5.1.5]",NA,"HA unique"
+"K01439","succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]",NA,"HA unique"
+"K01464","dihydropyrimidinase [EC:3.5.2.2]",NA,"HA unique"
+"K01501","nitrilase [EC:3.5.5.1]",NA,"HA unique"
+"K01537","P-type Ca2+ transporter type 2C [EC:7.2.2.10]",NA,"HA unique"
+"K01552","energy-coupling factor transport system ATP-binding protein [EC:7.-.-.-]",NA,"HA unique"
+"K01560","2-haloacid dehalogenase [EC:3.8.1.2]",NA,"HA unique"
+"K01628","L-fuculose-phosphate aldolase [EC:4.1.2.17]",NA,"HA unique"
+"K01777","proline racemase [EC:5.1.1.4]",NA,"HA unique"
+"K01912","phenylacetate-CoA ligase [EC:6.2.1.30]",NA,"HA unique"
+"K01938","formate--tetrahydrofolate ligase [EC:6.3.4.3]",NA,"HA unique"
+"K02008","cobalt/nickel transport system permease protein",NA,"HA unique"
+"K02029","polar amino acid transport system permease protein",NA,"HA unique"
+"K02030","polar amino acid transport system substrate-binding protein",NA,"HA unique"
+"K02168","choline/glycine/proline betaine transport protein",NA,"HA unique"
+"K02575","MFS transporter, NNP family, nitrate/nitrite transporter",NA,"HA unique"
+"K02609","ring-1,2-phenylacetyl-CoA epoxidase subunit PaaA [EC:1.14.13.149]",NA,"HA unique"
+"K02611","ring-1,2-phenylacetyl-CoA epoxidase subunit PaaC [EC:1.14.13.149]",NA,"HA unique"
+"K02614","acyl-CoA thioesterase [EC:3.1.2.-]",NA,"HA unique"
+"K02770","fructose PTS system EIIBC or EIIC component [EC:2.7.1.202]",NA,"HA unique"
+"K02784","phosphocarrier protein HPr",NA,"HA unique"
+"K03187","urease accessory protein",NA,"HA unique"
+"K03188","urease accessory protein",NA,"HA unique"
+"K03189","urease accessory protein",NA,"HA unique"
+"K03190","urease accessory protein",NA,"HA unique"
+"K03303","lactate permease",NA,"HA unique"
+"K03328","polysaccharide transporter, PST family",NA,"HA unique"
+"K03423","bis-gamma-glutamylcystine reductase [EC:1.8.1.13]",NA,"HA unique"
+"K03453","bile acid:Na+ symporter, BASS family",NA,"HA unique"
+"K03518","aerobic carbon-monoxide dehydrogenase small subunit [EC:1.2.5.3]",NA,"HA unique"
+"K03553","recombination protein RecA",NA,"HA unique"
+"K03658","DNA helicase IV [EC:5.6.2.4]",NA,"HA unique"
+"K03738","aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5]",NA,"HA unique"
+"K03926","periplasmic divalent cation tolerance protein",NA,"HA unique"
+"K04486","histidinol-phosphatase (PHP family) [EC:3.1.3.15]",NA,"HA unique"
+"K04719","5,6-dimethylbenzimidazole synthase [EC:1.13.11.79]",NA,"HA unique"
+"K04751","nitrogen regulatory protein P-II 1",NA,"HA unique"
+"K05772","tungstate transport system substrate-binding protein",NA,"HA unique"
+"K05773","tungstate transport system permease protein",NA,"HA unique"
+"K06015","N-acyl-D-amino-acid deacylase [EC:3.5.1.81]",NA,"HA unique"
+"K06016","beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase [EC:3.5.1.6 3.5.1.87]",NA,"HA unique"
+"K06118","UDP-sulfoquinovose synthase [EC:3.13.1.1]",NA,"HA unique"
+"K06162","alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [EC:3.6.1.63]",NA,"HA unique"
+"K06200","carbon starvation protein",NA,"HA unique"
+"K06639","cell division cycle 14 [EC:3.1.3.16 3.1.3.48]",NA,"HA unique"
+"K06878","tRNA-binding protein",NA,"HA unique"
+"K06998","trans-2,3-dihydro-3-hydroxyanthranilate isomerase [EC:5.3.3.17]",NA,"HA unique"
+"K07001","NTE family protein",NA,"HA unique"
+"K07058","membrane protein",NA,"HA unique"
+"K07069","uncharacterized protein",NA,"HA unique"
+"K07089","uncharacterized protein",NA,"HA unique"
+"K07104","catechol 2,3-dioxygenase [EC:1.13.11.2]",NA,"HA unique"
+"K07158","uncharacterized protein",NA,"HA unique"
+"K07228","K+:H+ antiporter subunit KhtT",NA,"HA unique"
+"K07249","retinal dehydrogenase [EC:1.2.1.36]",NA,"HA unique"
+"K07322","regulator of cell morphogenesis and NO signaling",NA,"HA unique"
+"K07378","neuroligin",NA,"HA unique"
+"K07402","xanthine dehydrogenase accessory factor",NA,"HA unique"
+"K07454","putative restriction endonuclease",NA,"HA unique"
+"K07559","putative RNA 2'-phosphotransferase [EC:2.7.1.-]",NA,"HA unique"
+"K08482","circadian clock protein KaiC",NA,"HA unique"
+"K08483","phosphoenolpyruvate-protein phosphotransferase (PTS system enzyme I) [EC:2.7.3.9]",NA,"HA unique"
+"K09119","KEOPS complex subunit Cgi121",NA,"HA unique"
+"K09714","HTH-type transcriptional regulator, fmd operon transcriptional regulator",NA,"HA unique"
+"K09732","uncharacterized protein",NA,"HA unique"
+"K09736","uncharacterized protein",NA,"HA unique"
+"K10227","polyol transport system substrate-binding protein",NA,"HA unique"
+"K10252","beta,beta-carotene 9',10'-dioxygenase [EC:1.13.11.71]",NA,"HA unique"
+"K11000","callose synthase [EC:2.4.1.-]",NA,"HA unique"
+"K11085","ATP-binding cassette, subfamily B, bacterial MsbA [EC:7.5.2.6]",NA,"HA unique"
+"K11959","urea transport system substrate-binding protein",NA,"HA unique"
+"K11960","urea transport system permease protein",NA,"HA unique"
+"K11961","urea transport system permease protein",NA,"HA unique"
+"K11962","urea transport system ATP-binding protein",NA,"HA unique"
+"K11963","urea transport system ATP-binding protein",NA,"HA unique"
+"K12369","dipeptide transport system permease protein",NA,"HA unique"
+"K13010","perosamine synthetase [EC:2.6.1.102]",NA,"HA unique"
+"K13110","pre-mRNA-splicing factor MFAP1/SPP381",NA,"HA unique"
+"K13641","IclR family transcriptional regulator, acetate operon repressor",NA,"HA unique"
+"K14259","2-dehydro-3-deoxy-D-arabinonate dehydratase [EC:4.2.1.141]",NA,"HA unique"
+"K14611","solute carrier family 23 (nucleobase transporter), member 1",NA,"HA unique"
+"K15171","transcription elongation factor SPT4",NA,"HA unique"
+"K15342","CRISP-associated protein Cas1",NA,"HA unique"
+"K15772","arabinogalactan oligomer / maltooligosaccharide transport system permease protein",NA,"HA unique"
+"K16785","energy-coupling factor transport system permease protein",NA,"HA unique"
+"K17285","methanethiol oxidase [EC:1.8.3.4]",NA,"HA unique"
+"K17316","glucose/mannose transport system permease protein",NA,"HA unique"
+"K17865","3-hydroxybutyryl-CoA dehydratase [EC:4.2.1.55]",NA,"HA unique"
+"K18382","NAD+-dependent secondary alcohol dehydrogenase Adh1 [EC:1.1.1.-]",NA,"HA unique"
+"K18663","activating signal cointegrator complex subunit 3 [EC:5.6.2.4]",NA,"HA unique"
+"K18929","L-lactate dehydrogenase complex protein LldF",NA,"HA unique"
+"K19281","beta-methylmalyl-CoA/(S)-malyl-CoA lyase [EC:4.1.3.24]",NA,"HA unique"
+"K19282","bifunctional (S)-malyl-CoA lyase/thioesterase [EC:4.1.3.24 3.1.2.30]",NA,"HA unique"
+"K19342","copper chaperone NosL",NA,"HA unique"
+"K21990","formate-nitrite transporter family protein",NA,"HA unique"
+"K22502","lycopene beta-cyclase [EC:5.5.1.19]",NA,"HA unique"
+"K22844","glucosyl-dolichyl phosphate glucuronosyltransferase [EC:2.4.1.356]",NA,"HA unique"
+"K23252","dolichol phosphate-mannose mannosyltransferase [EC:2.4.1.-]",NA,"HA unique"
+"K23398","activating signal cointegrator 1",NA,"HA unique"
+"K23518","O-acetyl-ADP-ribose deacetylase [EC:3.1.1.106]",NA,"HA unique"
+"K24998","dehydro coenzyme F420 reductase / coenzyme F420-0:L-glutamate ligase / coenzyme F420-1:gamma-L-glutamate ligase [EC:1.3.8.17 6.3.2.31 6.3.2.34]",NA,"HA unique"
+"K25316","amino-acid racemase [EC:5.1.1.10]",NA,"HA unique"
+"K26605","branched chain amino acid efflux pump",NA,"HA unique"
+"K26732","K+:H+ antiporter subunit KhtU",NA,"HA unique"
+"K27923","IclR family transcriptional regulator, msc operon activator",NA,"HA unique"

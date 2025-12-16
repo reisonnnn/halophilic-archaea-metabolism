@@ -90,55 +90,74 @@ cat(sprintf("  HM unique: %d\n", length(hm_unique)))
 cat(sprintf("  HA unique: %d\n", length(ha_unique)))
 
 # ==============================================================================
-# 4. FETCH KEGG DESCRIPTIONS
+# 4. FETCH KEGG DESCRIPTIONS (WITH CACHING)
 # ==============================================================================
 
-cat("\nFetching KEGG descriptions...\n")
+dir.create("results/tables", recursive = TRUE, showWarnings = FALSE)
+dir.create("results/figures", recursive = TRUE, showWarnings = FALSE)
 
+cache_file <- "results/tables/kegg_ko_descriptions_cache.csv"
 all_kos <- unique(c(hs_kos, hm_kos, ha_kos))
-cat(sprintf("Total unique KOs: %d\n", length(all_kos)))
 
-fetch_kegg_description <- function(ko_id) {
-  url <- paste0("https://rest.kegg.jp/get/", ko_id)
+if (file.exists(cache_file)) {
+  cat("\nLoading cached KEGG descriptions...\n")
+  kegg_info <- read.csv(cache_file, stringsAsFactors = FALSE)
   
-  tryCatch({
-    response <- readLines(url, warn = FALSE)
-    name_line <- grep("^NAME", response, value = TRUE)
-    def_line <- grep("^DEFINITION", response, value = TRUE)
-    
-    name <- ifelse(length(name_line) > 0, gsub("^NAME\\s+", "", name_line[1]), NA)
-    definition <- ifelse(length(def_line) > 0, gsub("^DEFINITION\\s+", "", def_line[1]), NA)
-    
-    return(data.frame(KO = ko_id, name = name, definition = definition,
-                      stringsAsFactors = FALSE))
-  }, error = function(e) {
-    return(data.frame(KO = ko_id, name = NA, definition = NA, stringsAsFactors = FALSE))
-  })
-}
-
-kegg_info <- data.frame()
-batch_size <- 50
-
-for (i in seq(1, length(all_kos), by = batch_size)) {
-  batch_end <- min(i + batch_size - 1, length(all_kos))
-  cat(sprintf("  Processing %d - %d of %d...\n", i, batch_end, length(all_kos)))
+  # Check for new KOs not in cache
+  missing_kos <- setdiff(all_kos, kegg_info$KO)
   
-  for (ko in all_kos[i:batch_end]) {
-    kegg_info <- bind_rows(kegg_info, fetch_kegg_description(ko))
-    Sys.sleep(0.1)
+  if (length(missing_kos) > 0) {
+    cat(sprintf("  Fetching %d new KOs not in cache...\n", length(missing_kos)))
+  } else {
+    cat(sprintf("  Cache complete: %d KOs loaded\n", nrow(kegg_info)))
   }
+} else {
+  cat("\nNo cache found. Fetching KEGG descriptions (this only happens once)...\n")
+  missing_kos <- all_kos
+  kegg_info <- data.frame()
 }
 
-cat(sprintf("\nFetched %d/%d descriptions\n", sum(!is.na(kegg_info$definition)), length(all_kos)))
+# Fetch missing KOs
+if (length(missing_kos) > 0) {
+  cat(sprintf("Total to fetch: %d\n", length(missing_kos)))
+  
+  fetch_kegg_description <- function(ko_id) {
+    url <- paste0("https://rest.kegg.jp/get/", ko_id)
+    tryCatch({
+      response <- readLines(url, warn = FALSE)
+      name_line <- grep("^NAME", response, value = TRUE)
+      def_line <- grep("^DEFINITION", response, value = TRUE)
+      name <- ifelse(length(name_line) > 0, gsub("^NAME\\s+", "", name_line[1]), NA)
+      definition <- ifelse(length(def_line) > 0, gsub("^DEFINITION\\s+", "", def_line[1]), NA)
+      return(data.frame(KO = ko_id, name = name, definition = definition, stringsAsFactors = FALSE))
+    }, error = function(e) {
+      return(data.frame(KO = ko_id, name = NA, definition = NA, stringsAsFactors = FALSE))
+    })
+  }
+  
+  new_info <- data.frame()
+  batch_size <- 50
+  
+  for (i in seq(1, length(missing_kos), by = batch_size)) {
+    batch_end <- min(i + batch_size - 1, length(missing_kos))
+    cat(sprintf("  Processing %d - %d of %d...\n", i, batch_end, length(missing_kos)))
+    
+    for (ko in missing_kos[i:batch_end]) {
+      new_info <- bind_rows(new_info, fetch_kegg_description(ko))
+      Sys.sleep(0.1)
+    }
+  }
+  
+  kegg_info <- bind_rows(kegg_info, new_info)
+  write.csv(kegg_info, cache_file, row.names = FALSE)
+  cat(sprintf("✓ Cache updated: %d KOs saved to %s\n", nrow(kegg_info), cache_file))
+}
 
 # ==============================================================================
 # 5. CREATE OUTPUT TABLES
 # ==============================================================================
 
 cat("\nCreating output tables...\n")
-
-dir.create("results/tables", recursive = TRUE, showWarnings = FALSE)
-dir.create("results/figures", recursive = TRUE, showWarnings = FALSE)
 
 create_annotated_table <- function(ko_list, category_name) {
   if (length(ko_list) == 0) {
@@ -257,7 +276,8 @@ cat("=========================================\n\n")
 cat("Tables:\n")
 cat("  results/tables/ghostkoala_core_all_three.csv\n")
 cat("  results/tables/ghostkoala_shared_*.csv\n")
-cat("  results/tables/ghostkoala_unique_*.csv\n\n")
+cat("  results/tables/ghostkoala_unique_*.csv\n")
+cat("  results/tables/kegg_ko_descriptions_cache.csv (reused on next run)\n\n")
 
 cat("Figures:\n")
 cat("  results/figures/ghostkoala_venn_KO.png\n")

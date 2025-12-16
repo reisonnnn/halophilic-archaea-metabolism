@@ -1,0 +1,25 @@
+"Pathway","Strain","Completeness","Present","Total"
+"Glycolysis (Classical)","HS",50,5,10
+"Glycolysis (Classical)","HM",60,6,10
+"Glycolysis (Classical)","HA",60,6,10
+"Glycolysis (Archaeal)","HS",60,6,10
+"Glycolysis (Archaeal)","HM",70,7,10
+"Glycolysis (Archaeal)","HA",70,7,10
+"Entner-Doudoroff","HS",40,4,10
+"Entner-Doudoroff","HM",60,6,10
+"Entner-Doudoroff","HA",60,6,10
+"Gluconeogenesis","HS",25,2,8
+"Gluconeogenesis","HM",37.5,3,8
+"Gluconeogenesis","HA",37.5,3,8
+"Glycerol metabolism","HS",75,6,8
+"Glycerol metabolism","HM",87.5,7,8
+"Glycerol metabolism","HA",87.5,7,8
+"BCAA biosynthesis","HS",40,2,5
+"BCAA biosynthesis","HM",100,5,5
+"BCAA biosynthesis","HA",100,5,5
+"Aromatic AA biosynthesis","HS",40,2,5
+"Aromatic AA biosynthesis","HM",40,2,5
+"Aromatic AA biosynthesis","HA",40,2,5
+"Histidine biosynthesis","HS",83.3333333333333,5,6
+"Histidine biosynthesis","HM",83.3333333333333,5,6
+"Histidine biosynthesis","HA",83.3333333333333,5,6

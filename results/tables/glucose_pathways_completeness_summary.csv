@@ -1,0 +1,31 @@
+Pathway,Strain,Completeness
+"Classical EMP
+(Standard Glycolysis)",HS,56
+"Classical EMP
+(Standard Glycolysis)",HM,56
+"Classical EMP
+(Standard Glycolysis)",HA,56
+"Archaeal Modified EMP
+(ADP-dependent)",HS,56
+"Archaeal Modified EMP
+(ADP-dependent)",HM,67
+"Archaeal Modified EMP
+(ADP-dependent)",HA,67
+"Entner-Doudoroff
+(Semi-phosphorylative)",HS,50
+"Entner-Doudoroff
+(Semi-phosphorylative)",HM,60
+"Entner-Doudoroff
+(Semi-phosphorylative)",HA,60
+"Lower Glycolysis
+(GAP → Pyruvate)",HS,100
+"Lower Glycolysis
+(GAP → Pyruvate)",HM,100
+"Lower Glycolysis
+(GAP → Pyruvate)",HA,100
+"Glycerol Metabolism
+(Glycerol → DHAP)",HS,100
+"Glycerol Metabolism
+(Glycerol → DHAP)",HM,100
+"Glycerol Metabolism
+(Glycerol → DHAP)",HA,100

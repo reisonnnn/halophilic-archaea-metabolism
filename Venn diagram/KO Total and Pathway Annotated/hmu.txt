@@ -1,0 +1,121 @@
+map01100	Metabolic pathways
+map01110	Biosynthesis of secondary metabolites
+map01120	Microbial metabolism in diverse environments
+map01200	Carbon metabolism
+map01210	2-Oxocarboxylic acid metabolism
+map01212	Fatty acid metabolism
+map01230	Biosynthesis of amino acids
+map01232	Nucleotide metabolism
+map01250	Biosynthesis of nucleotide sugars
+map01240	Biosynthesis of cofactors
+map01220	Degradation of aromatic compounds
+map01310	Nitrogen cycle
+map01320	Sulfur cycle
+map00010	Glycolysis / Gluconeogenesis
+map00020	Citrate cycle (TCA cycle)
+map00030	Pentose phosphate pathway
+map00040	Pentose and glucuronate interconversions
+map00051	Fructose and mannose metabolism
+map00052	Galactose metabolism
+map00053	Ascorbate and aldarate metabolism
+map00500	Starch and sucrose metabolism
+map00620	Pyruvate metabolism
+map00630	Glyoxylate and dicarboxylate metabolism
+map00640	Propanoate metabolism
+map00650	Butanoate metabolism
+map00660	C5-Branched dibasic acid metabolism
+map00562	Inositol phosphate metabolism
+map00190	Oxidative phosphorylation
+map00710	Carbon fixation by Calvin cycle
+map00720	Other carbon fixation pathways
+map00680	Methane metabolism
+map00910	Nitrogen metabolism
+map00920	Sulfur metabolism
+map00061	Fatty acid biosynthesis
+map00071	Fatty acid degradation
+map00100	Steroid biosynthesis
+map00561	Glycerolipid metabolism
+map00564	Glycerophospholipid metabolism
+map00600	Sphingolipid metabolism
+map00592	alpha-Linolenic acid metabolism
+map00230	Purine metabolism
+map00240	Pyrimidine metabolism
+map00250	"Alanine, aspartate and glutamate metabolism"
+map00260	"Glycine, serine and threonine metabolism"
+map00270	Cysteine and methionine metabolism
+map00280	"Valine, leucine and isoleucine degradation"
+map00290	"Valine, leucine and isoleucine biosynthesis"
+map00300	Lysine biosynthesis
+map00310	Lysine degradation
+map00220	Arginine biosynthesis
+map00330	Arginine and proline metabolism
+map00340	Histidine metabolism
+map00350	Tyrosine metabolism
+map00360	Phenylalanine metabolism
+map00380	Tryptophan metabolism
+map00400	"Phenylalanine, tyrosine and tryptophan biosynthesis"
+map00410	beta-Alanine metabolism
+map00430	Taurine and hypotaurine metabolism
+map00450	Selenocompound metabolism
+map00460	Cyanoamino acid metabolism
+map00470	D-Amino acid metabolism
+map00480	Glutathione metabolism
+map00520	Amino sugar and nucleotide sugar metabolism
+map00541	Biosynthesis of various nucleotide sugars
+map00511	Other glycan degradation
+map00552	Teichoic acid biosynthesis
+map00543	Exopolysaccharide biosynthesis
+map00730	Thiamine metabolism
+map00740	Riboflavin metabolism
+map00750	Vitamin B6 metabolism
+map00760	Nicotinate and nicotinamide metabolism
+map00770	Pantothenate and CoA biosynthesis
+map00780	Biotin metabolism
+map00785	Lipoic acid metabolism
+map00790	Folate biosynthesis
+map00670	One carbon pool by folate
+map00860	Porphyrin metabolism
+map00130	Ubiquinone and other terpenoid-quinone biosynthesis
+map00900	Terpenoid backbone biosynthesis
+map00909	Sesquiterpenoid and triterpenoid biosynthesis
+map00906	Carotenoid biosynthesis
+map00907	"Pinene, camphor and geraniol degradation"
+map00523	Polyketide sugar unit biosynthesis
+map00332	Carbapenem biosynthesis
+map00261	Monobactam biosynthesis
+map00521	Streptomycin biosynthesis
+map00525	Acarbose and validamycin biosynthesis
+map00401	Novobiocin biosynthesis
+map00975	Biosynthesis of various siderophores
+map00999	Biosynthesis of various plant secondary metabolites
+map00362	Benzoate degradation
+map00625	Chloroalkane and chloroalkene degradation
+map00984	Steroid degradation
+map03020	RNA polymerase
+map03022	Basal transcription factors
+map03010	Ribosome
+map00970	Aminoacyl-tRNA biosynthesis
+map03013	Nucleocytoplasmic transport
+map03015	mRNA surveillance pathway
+map03008	Ribosome biogenesis in eukaryotes
+map03060	Protein export
+map04141	Protein processing in endoplasmic reticulum
+map04122	Sulfur relay system
+map03050	Proteasome
+map03018	RNA degradation
+map03030	DNA replication
+map03410	Base excision repair
+map03420	Nucleotide excision repair
+map03430	Mismatch repair
+map03440	Homologous recombination
+map03250	Viral life cycle
+map02010	ABC transporters
+map03070	Bacterial secretion system
+map02020	Two-component system
+map04146	Peroxisome
+map02024	Quorum sensing
+map02030	Bacterial chemotaxis
+map04981	Folate transport and metabolism
+map04980	Cobalamin transport and metabolism
+map01501	beta-Lactam resistance
+map01503	Cationic antimicrobial peptide (CAMP) resistance

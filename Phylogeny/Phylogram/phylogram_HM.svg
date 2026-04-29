@@ -1,0 +1,3759 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1861.25"
+   height="950"
+   overflow="hidden"
+   version="1.1"
+   font-family="Open Sans"
+   id="svg235"
+   sodipodi:docname="phylogram_HM.svg"
+   inkscape:export-filename="phylogram_HM.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview235"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.88499996"
+     inkscape:cx="996.04524"
+     inkscape:cy="568.92658"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg235" />
+  <defs
+     id="defs1">
+    <marker
+       id="markerBoxplot"
+       markerWidth="1"
+       markerHeight="10"
+       refX="1"
+       refY="5">
+      <line
+         x1="0"
+         x2="0"
+         y1="0"
+         y2="10"
+         stroke="#000000"
+         stroke-width="2px"
+         id="line1" />
+    </marker>
+  </defs>
+  <rect
+     class="canvas"
+     width="100%"
+     height="100%"
+     fill="#ffffff"
+     id="rect1"
+     x="0.09407863"
+     y="-1.5798172" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 424.01132,673.80225 v 0 0"
+     id="path1" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text35"
+     x="424.01132"
+     y="673.80225" />
+  <text
+     class="supportValue"
+     dx="-2"
+     text-anchor="end"
+     fill="#0000ff"
+     dy="10"
+     font-size="15px"
+     id="text36"
+     x="424.01132"
+     y="673.80225" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text37"
+     x="424.01132"
+     y="673.80225" />
+  <text
+     class="supportValue"
+     dx="-2"
+     text-anchor="end"
+     fill="#0000ff"
+     dy="10"
+     font-size="15px"
+     id="text38"
+     x="437.01132"
+     y="548.80225" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text39"
+     x="437.01132"
+     y="548.80225" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text41"
+     x="464.01132"
+     y="427.80225" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text43"
+     x="587.01129"
+     y="362.80225" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text45"
+     x="596.01129"
+     y="337.80225" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text73"
+     x="490.01132"
+     y="492.80225" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text83"
+     x="500.01132"
+     y="563.80225" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text85"
+     x="540.01129"
+     y="506.80225" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text95"
+     x="580.01129"
+     y="558.80225" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text97"
+     x="732.01129"
+     y="529.80225" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text99"
+     x="780.01129"
+     y="504.80225" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text145"
+     x="576.01129"
+     y="670.80225" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text164"
+     x="448.01132"
+     y="797.80225" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text166"
+     x="518.01129"
+     y="737.80225" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text185"
+     x="472.01132"
+     y="858.80225" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text187"
+     x="493.01132"
+     y="829.80225" />
+  <text
+     class="name"
+     dx="7"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text189"
+     x="577.01129"
+     y="804.80225" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 437.57064,643.29377 v -125 h 13"
+     id="path2" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 437.57064,643.29377 v 124 h 24"
+     id="path3" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 450.57064,518.29377 v -121 h 27"
+     id="path4" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 450.57064,518.29377 v 122 h 139"
+     id="path5" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 477.57064,397.29377 v -65 h 123"
+     id="path6" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 477.57064,397.29377 v 65 h 26"
+     id="path7" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 600.57064,332.29377 v -25 h 9"
+     id="path8" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 600.57064,332.29377 v 25 h 18"
+     id="path9" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 609.57064,307.29377 v -17 h 10"
+     id="path10" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 609.57064,307.29377 v 17 0"
+     id="path11" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 503.57064,462.29377 v -72 h 89"
+     id="path12" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 503.57064,462.29377 v 71 h 10"
+     id="path13" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 513.57064,533.29377 v -57 h 40"
+     id="path14" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 513.57064,533.29377 v 57 h 140"
+     id="path15" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 553.57064,476.29377 v -52 h 125"
+     id="path16" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 553.57064,476.29377 v 52 h 40"
+     id="path17" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 593.57064,528.29377 v -29 h 152"
+     id="path18" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 593.57064,528.29377 v 29 h 232"
+     id="path19" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 745.57064,499.29377 v -25 h 48"
+     id="path20" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 745.57064,499.29377 v 25 h 89"
+     id="path21" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 793.57064,474.29377 v -17 h 30"
+     id="path22" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 793.57064,474.29377 v 16 h 24"
+     id="path23" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 589.57064,640.29377 v -16 h 7"
+     id="path24" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 589.57064,640.29377 v 17 h 26"
+     id="path25" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 461.57064,767.29377 v -60 h 70"
+     id="path26" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 461.57064,767.29377 v 61 h 24"
+     id="path27" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 531.57064,707.29377 v -17 h 97"
+     id="path28" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 531.57064,707.29377 v 17 h 303"
+     id="path29" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 485.57064,828.29377 v -29 h 21"
+     id="path30" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 485.57064,828.29377 v 29 h 100"
+     id="path31" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 506.57064,799.29377 v -25 h 84"
+     id="path32" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 506.57064,799.29377 v 25 h 83"
+     id="path33" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 590.57064,774.29377 v -17 0"
+     id="path34" />
+  <path
+     class="link"
+     fill="none"
+     stroke="#000000"
+     d="m 590.57064,774.29377 v 16 h 54"
+     id="path35" />
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="430.57065"
+     y="636.29376"
+     style="opacity:0"
+     id="rect35" />
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="430.57065"
+     y="636.29376"
+     style="opacity:0"
+     id="rect36" />
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="443.57065"
+     y="511.29376"
+     style="opacity:0"
+     id="rect37" />
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="470.57065"
+     y="390.29376"
+     style="opacity:0"
+     id="rect39" />
+  <text
+     class="supportValue"
+     dx="-2"
+     text-anchor="end"
+     fill="#0000ff"
+     dy="10"
+     font-size="15px"
+     id="text40"
+     x="474.5311"
+     y="402.94348">95</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="593.57062"
+     y="325.29376"
+     style="opacity:0"
+     id="rect41" />
+  <text
+     class="supportValue"
+     dx="-2"
+     text-anchor="end"
+     fill="#0000ff"
+     dy="10"
+     font-size="15px"
+     id="text42"
+     x="595.53107"
+     y="337.94348">100</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="602.57062"
+     y="300.29376"
+     style="opacity:0"
+     id="rect43" />
+  <text
+     class="supportValue"
+     dx="-2"
+     text-anchor="end"
+     fill="#0000ff"
+     dy="10"
+     font-size="15px"
+     id="text44"
+     x="600.53107"
+     y="312.94348">82</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="612.57062"
+     y="283.29376"
+     style="opacity:0"
+     id="rect45" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,286.90394)"
+     id="g46">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#4292c6"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect46"
+       x="0"
+       y="0">
+      <title
+         id="title45">Percent G+C: 65.95</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,286.90394)"
+     id="g47">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#fff5f0"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect47"
+       x="0"
+       y="0">
+      <title
+         id="title46">delta statistics: 0.24</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,286.90394)"
+     id="g50">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="11"
+       transform="translate(50,-10)"
+       id="rect48"
+       x="0"
+       y="0">
+      <title
+         id="title47">Genome size (in bp): 3256764</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="12"
+       transform="translate(75,-10)"
+       id="rect49"
+       x="0"
+       y="0">
+      <title
+         id="title48">Protein count: 3305</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="19"
+       transform="translate(100,-10)"
+       id="rect50"
+       x="0"
+       y="0">
+      <title
+         id="title49">SSU length (in bp): 1473</title>
+    </rect>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 619.57064,290.29377 h 215"
+     id="path52" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#c58741;stroke:#c58741"
+     visibility="visible"
+     id="rect52"
+     x="1152.8081"
+     y="276.90393">
+    <title
+       id="title52">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#c78980;stroke:#c78980"
+     visibility="visible"
+     id="rect53"
+     x="1192.8081"
+     y="276.90393">
+    <title
+       id="title53">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text53"
+     x="841.03955"
+     y="297.07343"><tspan
+       style="font-weight:bold"
+       id="tspan1">Halomicrobium sp. HM KBTZ05</tspan></text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="602.57062"
+     y="317.29376"
+     style="opacity:0"
+     id="rect54" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,320.90394)"
+     id="g55">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#6baed6"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect55"
+       x="0"
+       y="0">
+      <title
+         id="title54">Percent G+C: 65.63</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,320.90394)"
+     id="g56">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#fff5f0"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect56"
+       x="0"
+       y="0">
+      <title
+         id="title55">delta statistics: 0.233</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,320.90394)"
+     id="g59">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="11"
+       transform="translate(50,-10)"
+       id="rect57"
+       x="0"
+       y="0">
+      <title
+         id="title56">Genome size (in bp): 3110487</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="12"
+       transform="translate(75,-10)"
+       id="rect58"
+       x="0"
+       y="0">
+      <title
+         id="title57">Protein count: 3173</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="19"
+       transform="translate(100,-10)"
+       id="rect59"
+       x="0"
+       y="0">
+      <title
+         id="title58">SSU length (in bp): 1473</title>
+    </rect>
+  </g>
+  <g
+     class="graph binary gid589623032050257"
+     visibility="visible"
+     transform="translate(1233.4016,320.90394)"
+     id="g60">
+    <path
+       class="binary hover-visible gid589623032050257"
+       style="fill:none;stroke:none"
+       d="m -10.733126,-3.5777088 h 7.1554172 v -7.1554172 h 7.1554176 v 7.1554172 H 10.733126 V 3.5777088 H 3.5777088 V 10.733126 H -3.5777088 V 3.5777088 h -7.1554172 z"
+       transform="translate(135)"
+       id="path59">
+      <title
+         id="title59">User strain?: -1</title>
+    </path>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 609.57064,324.29377 h 225"
+     id="path61" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#6d7fc4;stroke:#6d7fc4"
+     visibility="visible"
+     id="rect61"
+     x="1152.8081"
+     y="310.90393">
+    <title
+       id="title61">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#75adbe;stroke:#75adbe"
+     visibility="visible"
+     id="rect62"
+     x="1192.8081"
+     y="310.90393">
+    <title
+       id="title62">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     dx="230"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text62"
+     x="609.57062"
+     y="324.29376">Halomicrobium mukohataei DSM 12286</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="611.57062"
+     y="350.29376"
+     style="opacity:0"
+     id="rect63" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,353.90394)"
+     id="g64">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#6baed6"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect64"
+       x="0"
+       y="0">
+      <title
+         id="title63">Percent G+C: 65.03</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,353.90394)"
+     id="g65">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#fff5f0"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect65"
+       x="0"
+       y="0">
+      <title
+         id="title64">delta statistics: 0.238</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,353.90394)"
+     id="g68">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="13"
+       transform="translate(50,-10)"
+       id="rect66"
+       x="0"
+       y="0">
+      <title
+         id="title65">Genome size (in bp): 3605828</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="14"
+       transform="translate(75,-10)"
+       id="rect67"
+       x="0"
+       y="0">
+      <title
+         id="title66">Protein count: 3680</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="19"
+       transform="translate(100,-10)"
+       id="rect68"
+       x="0"
+       y="0">
+      <title
+         id="title67">SSU length (in bp): 1473</title>
+    </rect>
+  </g>
+  <g
+     class="graph binary gid589623032050257"
+     visibility="visible"
+     transform="translate(1233.4016,353.90394)"
+     id="g69">
+    <path
+       class="binary hover-visible gid589623032050257"
+       style="fill:none;stroke:none"
+       d="m -10.733126,-3.5777088 h 7.1554172 v -7.1554172 h 7.1554176 v 7.1554172 H 10.733126 V 3.5777088 H 3.5777088 V 10.733126 H -3.5777088 V 3.5777088 h -7.1554172 z"
+       transform="translate(135)"
+       id="path68">
+      <title
+         id="title68">User strain?: -1</title>
+    </path>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 618.57064,357.29377 h 216"
+     id="path70" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#6d7fc4;stroke:#6d7fc4"
+     visibility="visible"
+     id="rect70"
+     x="1152.8081"
+     y="343.90393">
+    <title
+       id="title70">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#5e9742;stroke:#5e9742"
+     visibility="visible"
+     id="rect71"
+     x="1192.8081"
+     y="343.90393">
+    <title
+       id="title71">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     dx="221"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text71"
+     x="618.57062"
+     y="357.29376">Halomicrobium katesii DSM 19301</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="496.57065"
+     y="455.29376"
+     style="opacity:0"
+     id="rect72" />
+  <text
+     class="supportValue"
+     dx="-2"
+     text-anchor="end"
+     fill="#0000ff"
+     dy="10"
+     font-size="15px"
+     id="text72"
+     x="498.5311"
+     y="467.94348">84</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="585.57062"
+     y="383.29376"
+     style="opacity:0"
+     id="rect73" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,386.90394)"
+     id="g74">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#08519c"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect74"
+       x="0"
+       y="0">
+      <title
+         id="title73">Percent G+C: 68.13</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,386.90394)"
+     id="g75">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#ef3b2c"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect75"
+       x="0"
+       y="0">
+      <title
+         id="title74">delta statistics: 0.334</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,386.90394)"
+     id="g78">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="13"
+       transform="translate(50,-10)"
+       id="rect76"
+       x="0"
+       y="0">
+      <title
+         id="title75">Genome size (in bp): 3789806</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="15"
+       transform="translate(75,-10)"
+       id="rect77"
+       x="0"
+       y="0">
+      <title
+         id="title76">Protein count: 3969</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="19"
+       transform="translate(100,-10)"
+       id="rect78"
+       x="0"
+       y="0">
+      <title
+         id="title77">SSU length (in bp): 1470</title>
+    </rect>
+  </g>
+  <g
+     class="graph binary gid589623032050257"
+     visibility="visible"
+     transform="translate(1233.4016,386.90394)"
+     id="g79">
+    <path
+       class="binary hover-visible gid589623032050257"
+       style="fill:none;stroke:none"
+       d="m -10.733126,-3.5777088 h 7.1554172 v -7.1554172 h 7.1554176 v 7.1554172 H 10.733126 V 3.5777088 H 3.5777088 V 10.733126 H -3.5777088 V 3.5777088 h -7.1554172 z"
+       transform="translate(135)"
+       id="path78">
+      <title
+         id="title78">User strain?: -1</title>
+    </path>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 592.57064,390.29377 h 242"
+     id="path80" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#ca53bd;stroke:#ca53bd"
+     visibility="visible"
+     id="rect80"
+     x="1152.8081"
+     y="376.90393">
+    <title
+       id="title80">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#73d6ac;stroke:#73d6ac"
+     visibility="visible"
+     id="rect81"
+     x="1192.8081"
+     y="376.90393">
+    <title
+       id="title81">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     dx="247"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text81"
+     x="592.57062"
+     y="390.29376">Haloarcula litorea GDY20</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="506.57065"
+     y="526.29376"
+     style="opacity:0"
+     id="rect82" />
+  <text
+     class="supportValue"
+     dx="-2"
+     text-anchor="end"
+     fill="#0000ff"
+     dy="10"
+     font-size="15px"
+     id="text82"
+     x="508.5311"
+     y="538.94348">63</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="546.57062"
+     y="469.29376"
+     style="opacity:0"
+     id="rect83" />
+  <text
+     class="supportValue"
+     dx="-2"
+     text-anchor="end"
+     fill="#0000ff"
+     dy="10"
+     font-size="15px"
+     id="text84"
+     x="548.53107"
+     y="481.94348">94</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="671.57062"
+     y="417.29376"
+     style="opacity:0"
+     id="rect85" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,420.90394)"
+     id="g86">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#08306b"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect86"
+       x="0"
+       y="0">
+      <title
+         id="title85">Percent G+C: 69.48</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,420.90394)"
+     id="g87">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#fc9272"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect87"
+       x="0"
+       y="0">
+      <title
+         id="title86">delta statistics: 0.302</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,420.90394)"
+     id="g90">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="15"
+       transform="translate(50,-10)"
+       id="rect88"
+       x="0"
+       y="0">
+      <title
+         id="title87">Genome size (in bp): 4240699</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="16"
+       transform="translate(75,-10)"
+       id="rect89"
+       x="0"
+       y="0">
+      <title
+         id="title88">Protein count: 4133</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="19"
+       transform="translate(100,-10)"
+       id="rect90"
+       x="0"
+       y="0">
+      <title
+         id="title89">SSU length (in bp): 1471</title>
+    </rect>
+  </g>
+  <g
+     class="graph binary gid589623032050257"
+     visibility="visible"
+     transform="translate(1233.4016,420.90394)"
+     id="g91">
+    <path
+       class="binary hover-visible gid589623032050257"
+       style="fill:none;stroke:none"
+       d="m -10.733126,-3.5777088 h 7.1554172 v -7.1554172 h 7.1554176 v 7.1554172 H 10.733126 V 3.5777088 H 3.5777088 V 10.733126 H -3.5777088 V 3.5777088 h -7.1554172 z"
+       transform="translate(135)"
+       id="path90">
+      <title
+         id="title90">User strain?: -1</title>
+    </path>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 678.57064,424.29377 h 156"
+     id="path92" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#78b5c2;stroke:#78b5c2"
+     visibility="visible"
+     id="rect92"
+     x="1152.8081"
+     y="410.90393">
+    <title
+       id="title92">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#c89dc8;stroke:#c89dc8"
+     visibility="visible"
+     id="rect93"
+     x="1192.8081"
+     y="410.90393">
+    <title
+       id="title93">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     dx="161"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text93"
+     x="678.57062"
+     y="424.29376">Halosimplex marinum XH63</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="586.57062"
+     y="521.29376"
+     style="opacity:0"
+     id="rect94" />
+  <text
+     class="supportValue"
+     dx="-2"
+     text-anchor="end"
+     fill="#0000ff"
+     dy="10"
+     font-size="15px"
+     id="text94"
+     x="588.53107"
+     y="533.94348">74</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="738.57062"
+     y="492.29376"
+     style="opacity:0"
+     id="rect95" />
+  <text
+     class="supportValue"
+     dx="-2"
+     text-anchor="end"
+     fill="#0000ff"
+     dy="10"
+     font-size="15px"
+     id="text96"
+     x="740.53107"
+     y="504.94348">100</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="786.57062"
+     y="467.29376"
+     style="opacity:0"
+     id="rect97" />
+  <text
+     class="supportValue"
+     dx="-2"
+     text-anchor="end"
+     fill="#0000ff"
+     dy="10"
+     font-size="15px"
+     id="text98"
+     x="788.53107"
+     y="479.94348">100</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="816.57062"
+     y="450.29376"
+     style="opacity:0"
+     id="rect99" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,453.90394)"
+     id="g100">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#2171b5"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect100"
+       x="0"
+       y="0">
+      <title
+         id="title99">Percent G+C: 67.11</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,453.90394)"
+     id="g101">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#fee0d2"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect101"
+       x="0"
+       y="0">
+      <title
+         id="title100">delta statistics: 0.261</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,453.90394)"
+     id="g104">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="20"
+       transform="translate(50,-10)"
+       id="rect102"
+       x="0"
+       y="0">
+      <title
+         id="title101">Genome size (in bp): 5453552</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="20"
+       transform="translate(75,-10)"
+       id="rect103"
+       x="0"
+       y="0">
+      <title
+         id="title102">Protein count: 5118</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="20"
+       transform="translate(100,-10)"
+       id="rect104"
+       x="0"
+       y="0">
+      <title
+         id="title103">SSU length (in bp): 1475</title>
+    </rect>
+  </g>
+  <g
+     class="graph binary gid589623032050257"
+     visibility="visible"
+     transform="translate(1233.4016,453.90394)"
+     id="g105">
+    <path
+       class="binary hover-visible gid589623032050257"
+       style="fill:none;stroke:none"
+       d="m -10.733126,-3.5777088 h 7.1554172 v -7.1554172 h 7.1554176 v 7.1554172 H 10.733126 V 3.5777088 H 3.5777088 V 10.733126 H -3.5777088 V 3.5777088 h -7.1554172 z"
+       transform="translate(135)"
+       id="path104">
+      <title
+         id="title104">User strain?: -1</title>
+    </path>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 823.57064,457.29377 h 11"
+     id="path106" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#ca96b7;stroke:#ca96b7"
+     visibility="visible"
+     id="rect106"
+     x="1152.8081"
+     y="443.90393">
+    <title
+       id="title106">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#cfcf49;stroke:#cfcf49"
+     visibility="visible"
+     id="rect107"
+     x="1192.8081"
+     y="443.90393">
+    <title
+       id="title107">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     dx="16"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text107"
+     x="823.57062"
+     y="457.29376">Halosimplex amylolyticum DYHT-AS-1T</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="810.57062"
+     y="483.29376"
+     style="opacity:0"
+     id="rect108" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,486.90394)"
+     id="g109">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#2171b5"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect109"
+       x="0"
+       y="0">
+      <title
+         id="title108">Percent G+C: 67.27</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,486.90394)"
+     id="g110">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#fcbba1"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect110"
+       x="0"
+       y="0">
+      <title
+         id="title109">delta statistics: 0.268</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,486.90394)"
+     id="g113">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="17"
+       transform="translate(50,-10)"
+       id="rect111"
+       x="0"
+       y="0">
+      <title
+         id="title110">Genome size (in bp): 4849144</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="17"
+       transform="translate(75,-10)"
+       id="rect112"
+       x="0"
+       y="0">
+      <title
+         id="title111">Protein count: 4558</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="20"
+       transform="translate(100,-10)"
+       id="rect113"
+       x="0"
+       y="0">
+      <title
+         id="title112">SSU length (in bp): 1475</title>
+    </rect>
+  </g>
+  <g
+     class="graph binary gid589623032050257"
+     visibility="visible"
+     transform="translate(1233.4016,486.90394)"
+     id="g114">
+    <path
+       class="binary hover-visible gid589623032050257"
+       style="fill:none;stroke:none"
+       d="m -10.733126,-3.5777088 h 7.1554172 v -7.1554172 h 7.1554176 v 7.1554172 H 10.733126 V 3.5777088 H 3.5777088 V 10.733126 H -3.5777088 V 3.5777088 h -7.1554172 z"
+       transform="translate(135)"
+       id="path113">
+      <title
+         id="title113">User strain?: -1</title>
+    </path>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 817.57064,490.29377 h 17"
+     id="path115" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#4b623d;stroke:#4b623d"
+     visibility="visible"
+     id="rect115"
+     x="1152.8081"
+     y="476.90393">
+    <title
+       id="title115">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#7b332e;stroke:#7b332e"
+     visibility="visible"
+     id="rect116"
+     x="1192.8081"
+     y="476.90393">
+    <title
+       id="title116">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     dx="22"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text116"
+     x="817.57062"
+     y="490.29376">Halosimplex rarum TS25</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="827.57062"
+     y="517.29376"
+     style="opacity:0"
+     id="rect117" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,520.90394)"
+     id="g118">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#4292c6"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect118"
+       x="0"
+       y="0">
+      <title
+         id="title117">Percent G+C: 66.52</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,520.90394)"
+     id="g119">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#fff5f0"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect119"
+       x="0"
+       y="0">
+      <title
+         id="title118">delta statistics: 0.236</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,520.90394)"
+     id="g122">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="18"
+       transform="translate(50,-10)"
+       id="rect120"
+       x="0"
+       y="0">
+      <title
+         id="title119">Genome size (in bp): 5163082</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="19"
+       transform="translate(75,-10)"
+       id="rect121"
+       x="0"
+       y="0">
+      <title
+         id="title120">Protein count: 5044</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="20"
+       transform="translate(100,-10)"
+       id="rect122"
+       x="0"
+       y="0">
+      <title
+         id="title121">SSU length (in bp): 1475</title>
+    </rect>
+  </g>
+  <g
+     class="graph binary gid589623032050257"
+     visibility="visible"
+     transform="translate(1233.4016,520.90394)"
+     id="g123">
+    <path
+       class="binary hover-visible gid589623032050257"
+       style="fill:none;stroke:none"
+       d="m -10.733126,-3.5777088 h 7.1554172 v -7.1554172 h 7.1554176 v 7.1554172 H 10.733126 V 3.5777088 H 3.5777088 V 10.733126 H -3.5777088 V 3.5777088 h -7.1554172 z"
+       transform="translate(135)"
+       id="path122">
+      <title
+         id="title122">User strain?: -1</title>
+    </path>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 834.57064,524.29377 v 0"
+     id="path124" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#d64d31;stroke:#d64d31"
+     visibility="visible"
+     id="rect124"
+     x="1152.8081"
+     y="510.90393">
+    <title
+       id="title124">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#caca9b;stroke:#caca9b"
+     visibility="visible"
+     id="rect125"
+     x="1192.8081"
+     y="510.90393">
+    <title
+       id="title125">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     dx="5"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text125"
+     x="834.57062"
+     y="524.29376">Halosimplex aquaticum XZYJT29</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="818.57062"
+     y="550.29376"
+     style="opacity:0"
+     id="rect126" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,553.90394)"
+     id="g127">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#08306b"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect127"
+       x="0"
+       y="0">
+      <title
+         id="title126">Percent G+C: 68.96</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,553.90394)"
+     id="g128">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#cb181d"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect128"
+       x="0"
+       y="0">
+      <title
+         id="title127">delta statistics: 0.341</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,553.90394)"
+     id="g131">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="14"
+       transform="translate(50,-10)"
+       id="rect129"
+       x="0"
+       y="0">
+      <title
+         id="title128">Genome size (in bp): 3846467</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="14"
+       transform="translate(75,-10)"
+       id="rect130"
+       x="0"
+       y="0">
+      <title
+         id="title129">Protein count: 3751</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="19"
+       transform="translate(100,-10)"
+       id="rect131"
+       x="0"
+       y="0">
+      <title
+         id="title130">SSU length (in bp): 1472</title>
+    </rect>
+  </g>
+  <g
+     class="graph binary gid589623032050257"
+     visibility="visible"
+     transform="translate(1233.4016,553.90394)"
+     id="g132">
+    <path
+       class="binary hover-visible gid589623032050257"
+       style="fill:none;stroke:none"
+       d="m -10.733126,-3.5777088 h 7.1554172 v -7.1554172 h 7.1554176 v 7.1554172 H 10.733126 V 3.5777088 H 3.5777088 V 10.733126 H -3.5777088 V 3.5777088 h -7.1554172 z"
+       transform="translate(135)"
+       id="path131">
+      <title
+         id="title131">User strain?: -1</title>
+    </path>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 825.57064,557.29377 h 9"
+     id="path133" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#823f35;stroke:#823f35"
+     visibility="visible"
+     id="rect133"
+     x="1152.8081"
+     y="543.90393">
+    <title
+       id="title133">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#697bc5;stroke:#697bc5"
+     visibility="visible"
+     id="rect134"
+     x="1192.8081"
+     y="543.90393">
+    <title
+       id="title134">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     dx="14"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text134"
+     x="825.57062"
+     y="557.29376">Halomicrobium salinisoli LT50T</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="646.57062"
+     y="583.29376"
+     style="opacity:0"
+     id="rect135" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,586.90394)"
+     id="g136">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#4292c6"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect136"
+       x="0"
+       y="0">
+      <title
+         id="title135">Percent G+C: 66.22</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,586.90394)"
+     id="g137">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#ef3b2c"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect137"
+       x="0"
+       y="0">
+      <title
+         id="title136">delta statistics: 0.328</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,586.90394)"
+     id="g140">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="15"
+       transform="translate(50,-10)"
+       id="rect138"
+       x="0"
+       y="0">
+      <title
+         id="title137">Genome size (in bp): 4249154</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="15"
+       transform="translate(75,-10)"
+       id="rect139"
+       x="0"
+       y="0">
+      <title
+         id="title138">Protein count: 4091</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="19"
+       transform="translate(100,-10)"
+       id="rect140"
+       x="0"
+       y="0">
+      <title
+         id="title139">SSU length (in bp): 1473</title>
+    </rect>
+  </g>
+  <g
+     class="graph binary gid589623032050257"
+     visibility="visible"
+     transform="translate(1233.4016,586.90394)"
+     id="g141">
+    <path
+       class="binary hover-visible gid589623032050257"
+       style="fill:none;stroke:none"
+       d="m -10.733126,-3.5777088 h 7.1554172 v -7.1554172 h 7.1554176 v 7.1554172 H 10.733126 V 3.5777088 H 3.5777088 V 10.733126 H -3.5777088 V 3.5777088 h -7.1554172 z"
+       transform="translate(135)"
+       id="path140">
+      <title
+         id="title140">User strain?: -1</title>
+    </path>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 653.57064,590.29377 h 181"
+     id="path142" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#77d952;stroke:#77d952"
+     visibility="visible"
+     id="rect142"
+     x="1152.8081"
+     y="576.90393">
+    <title
+       id="title142">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#6641c0;stroke:#6641c0"
+     visibility="visible"
+     id="rect143"
+     x="1192.8081"
+     y="576.90393">
+    <title
+       id="title143">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     dx="186"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text143"
+     x="653.57062"
+     y="590.29376">Halomicrobium zhouii CGMCC 1.10457</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="582.57062"
+     y="633.29376"
+     style="opacity:0"
+     id="rect144" />
+  <text
+     class="supportValue"
+     dx="-2"
+     text-anchor="end"
+     fill="#0000ff"
+     dy="10"
+     font-size="15px"
+     id="text144"
+     x="584.53107"
+     y="645.94348">100</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="589.57062"
+     y="617.29376"
+     style="opacity:0"
+     id="rect145" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,620.90394)"
+     id="g146">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#6baed6"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect146"
+       x="0"
+       y="0">
+      <title
+         id="title145">Percent G+C: 65.13</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,620.90394)"
+     id="g147">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#fcbba1"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect147"
+       x="0"
+       y="0">
+      <title
+         id="title146">delta statistics: 0.269</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,620.90394)"
+     id="g150">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="16"
+       transform="translate(50,-10)"
+       id="rect148"
+       x="0"
+       y="0">
+      <title
+         id="title147">Genome size (in bp): 4458205</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="18"
+       transform="translate(75,-10)"
+       id="rect149"
+       x="0"
+       y="0">
+      <title
+         id="title148">Protein count: 4636</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="19"
+       transform="translate(100,-10)"
+       id="rect150"
+       x="0"
+       y="0">
+      <title
+         id="title149">SSU length (in bp): 1474</title>
+    </rect>
+  </g>
+  <g
+     class="graph binary gid589623032050257"
+     visibility="visible"
+     transform="translate(1233.4016,620.90394)"
+     id="g151">
+    <path
+       class="binary hover-visible gid589623032050257"
+       style="fill:none;stroke:none"
+       d="m -10.733126,-3.5777088 h 7.1554172 v -7.1554172 h 7.1554176 v 7.1554172 H 10.733126 V 3.5777088 H 3.5777088 V 10.733126 H -3.5777088 V 3.5777088 h -7.1554172 z"
+       transform="translate(135)"
+       id="path150">
+      <title
+         id="title150">User strain?: -1</title>
+    </path>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 596.57064,624.29377 h 238"
+     id="path152" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#69923c;stroke:#69923c"
+     visibility="visible"
+     id="rect152"
+     x="1152.8081"
+     y="610.90393">
+    <title
+       id="title152">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#d6493d;stroke:#d6493d"
+     visibility="visible"
+     id="rect153"
+     x="1192.8081"
+     y="610.90393">
+    <title
+       id="title153">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     dx="243"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text153"
+     x="596.57062"
+     y="624.29376">Haloarcula pelagica YJ-61-S</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="608.57062"
+     y="650.29376"
+     style="opacity:0"
+     id="rect154" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,653.90394)"
+     id="g155">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#9ecae1"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect155"
+       x="0"
+       y="0">
+      <title
+         id="title154">Percent G+C: 64.2</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,653.90394)"
+     id="g156">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#fee0d2"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect156"
+       x="0"
+       y="0">
+      <title
+         id="title155">delta statistics: 0.257</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,653.90394)"
+     id="g159">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="14"
+       transform="translate(50,-10)"
+       id="rect157"
+       x="0"
+       y="0">
+      <title
+         id="title156">Genome size (in bp): 4041616</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="16"
+       transform="translate(75,-10)"
+       id="rect158"
+       x="0"
+       y="0">
+      <title
+         id="title157">Protein count: 4164</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="19"
+       transform="translate(100,-10)"
+       id="rect159"
+       x="0"
+       y="0">
+      <title
+         id="title158">SSU length (in bp): 1474</title>
+    </rect>
+  </g>
+  <g
+     class="graph binary gid589623032050257"
+     visibility="visible"
+     transform="translate(1233.4016,653.90394)"
+     id="g160">
+    <path
+       class="binary hover-visible gid589623032050257"
+       style="fill:none;stroke:none"
+       d="m -10.733126,-3.5777088 h 7.1554172 v -7.1554172 h 7.1554176 v 7.1554172 H 10.733126 V 3.5777088 H 3.5777088 V 10.733126 H -3.5777088 V 3.5777088 h -7.1554172 z"
+       transform="translate(135)"
+       id="path159">
+      <title
+         id="title159">User strain?: -1</title>
+    </path>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 615.57064,657.29377 h 219"
+     id="path161" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#4d4040;stroke:#4d4040"
+     visibility="visible"
+     id="rect161"
+     x="1152.8081"
+     y="643.90393">
+    <title
+       id="title161">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#4d2b62;stroke:#4d2b62"
+     visibility="visible"
+     id="rect162"
+     x="1192.8081"
+     y="643.90393">
+    <title
+       id="title162">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     dx="224"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text162"
+     x="615.57062"
+     y="657.29376">Haloarcula halophila DFY41</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="454.57065"
+     y="760.29376"
+     style="opacity:0"
+     id="rect163" />
+  <text
+     class="supportValue"
+     dx="-2"
+     text-anchor="end"
+     fill="#0000ff"
+     dy="10"
+     font-size="15px"
+     id="text163"
+     x="458.5311"
+     y="774.94348">100</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="524.57062"
+     y="700.29376"
+     style="opacity:0"
+     id="rect164" />
+  <text
+     class="supportValue"
+     dx="-2"
+     text-anchor="end"
+     fill="#0000ff"
+     dy="10"
+     font-size="15px"
+     id="text165"
+     x="526.53107"
+     y="712.94348">96</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="621.57062"
+     y="683.29376"
+     style="opacity:0"
+     id="rect166" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,686.90394)"
+     id="g167">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#2171b5"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect167"
+       x="0"
+       y="0">
+      <title
+         id="title166">Percent G+C: 66.74</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,686.90394)"
+     id="g168">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#cb181d"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect168"
+       x="0"
+       y="0">
+      <title
+         id="title167">delta statistics: 0.35</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,686.90394)"
+     id="g171">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="13"
+       transform="translate(50,-10)"
+       id="rect169"
+       x="0"
+       y="0">
+      <title
+         id="title168">Genome size (in bp): 3784313</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="14"
+       transform="translate(75,-10)"
+       id="rect170"
+       x="0"
+       y="0">
+      <title
+         id="title169">Protein count: 3810</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="19"
+       transform="translate(100,-10)"
+       id="rect171"
+       x="0"
+       y="0">
+      <title
+         id="title170">SSU length (in bp): 1472</title>
+    </rect>
+  </g>
+  <g
+     class="graph binary gid589623032050257"
+     visibility="visible"
+     transform="translate(1233.4016,686.90394)"
+     id="g172">
+    <path
+       class="binary hover-visible gid589623032050257"
+       style="fill:none;stroke:none"
+       d="m -10.733126,-3.5777088 h 7.1554172 v -7.1554172 h 7.1554176 v 7.1554172 H 10.733126 V 3.5777088 H 3.5777088 V 10.733126 H -3.5777088 V 3.5777088 h -7.1554172 z"
+       transform="translate(135)"
+       id="path171">
+      <title
+         id="title171">User strain?: -1</title>
+    </path>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 628.57064,690.29377 h 206"
+     id="path173" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#ccbf9b;stroke:#ccbf9b"
+     visibility="visible"
+     id="rect173"
+     x="1152.8081"
+     y="676.90393">
+    <title
+       id="title173">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#c58738;stroke:#c58738"
+     visibility="visible"
+     id="rect174"
+     x="1192.8081"
+     y="676.90393">
+    <title
+       id="title174">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     dx="211"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text174"
+     x="628.57062"
+     y="690.29376">Haloarcula salina YGHS18</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="827.57062"
+     y="717.29376"
+     style="opacity:0"
+     id="rect175" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,720.90394)"
+     id="g176">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#c6dbef"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect176"
+       x="0"
+       y="0">
+      <title
+         id="title175">Percent G+C: 63.22</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,720.90394)"
+     id="g177">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#67000d"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect177"
+       x="0"
+       y="0">
+      <title
+         id="title176">delta statistics: 0.39</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,720.90394)"
+     id="g180">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="19"
+       transform="translate(50,-10)"
+       id="rect178"
+       x="0"
+       y="0">
+      <title
+         id="title177">Genome size (in bp): 5193165</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="19"
+       transform="translate(75,-10)"
+       id="rect179"
+       x="0"
+       y="0">
+      <title
+         id="title178">Protein count: 5097</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="19"
+       transform="translate(100,-10)"
+       id="rect180"
+       x="0"
+       y="0">
+      <title
+         id="title179">SSU length (in bp): 1442</title>
+    </rect>
+  </g>
+  <g
+     class="graph binary gid589623032050257"
+     visibility="visible"
+     transform="translate(1233.4016,720.90394)"
+     id="g181">
+    <path
+       class="binary hover-visible gid589623032050257"
+       style="fill:none;stroke:none"
+       d="m -10.733126,-3.5777088 h 7.1554172 v -7.1554172 h 7.1554176 v 7.1554172 H 10.733126 V 3.5777088 H 3.5777088 V 10.733126 H -3.5777088 V 3.5777088 h -7.1554172 z"
+       transform="translate(135)"
+       id="path180">
+      <title
+         id="title180">User strain?: -1</title>
+    </path>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 834.57064,724.29377 v 0"
+     id="path182" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#78d5a1;stroke:#78d5a1"
+     visibility="visible"
+     id="rect182"
+     x="1152.8081"
+     y="710.90393">
+    <title
+       id="title182">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#c954c9;stroke:#c954c9"
+     visibility="visible"
+     id="rect183"
+     x="1192.8081"
+     y="710.90393">
+    <title
+       id="title183">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     dx="5"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text183"
+     x="834.57062"
+     y="724.29376">Haloarcula nitratireducens F27</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="478.57065"
+     y="821.29376"
+     style="opacity:0"
+     id="rect184" />
+  <text
+     class="supportValue"
+     dx="-2"
+     text-anchor="end"
+     fill="#0000ff"
+     dy="10"
+     font-size="15px"
+     id="text184"
+     x="480.5311"
+     y="835.94348">75</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="499.57065"
+     y="792.29376"
+     style="opacity:0"
+     id="rect185" />
+  <text
+     class="supportValue"
+     dx="-2"
+     text-anchor="end"
+     fill="#0000ff"
+     dy="10"
+     font-size="15px"
+     id="text186"
+     x="504.05087"
+     y="784.60449">74</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="583.57062"
+     y="767.29376"
+     style="opacity:0"
+     id="rect187" />
+  <text
+     class="supportValue"
+     dx="-2"
+     text-anchor="end"
+     fill="#0000ff"
+     dy="10"
+     font-size="15px"
+     id="text188"
+     x="585.53107"
+     y="779.94348">100</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="583.57062"
+     y="750.29376"
+     style="opacity:0"
+     id="rect189" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,753.90394)"
+     id="g190">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#deebf7"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect190"
+       x="0"
+       y="0">
+      <title
+         id="title189">Percent G+C: 62.13</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,753.90394)"
+     id="g191">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#fcbba1"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect191"
+       x="0"
+       y="0">
+      <title
+         id="title190">delta statistics: 0.281</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,753.90394)"
+     id="g194">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="15"
+       transform="translate(50,-10)"
+       id="rect192"
+       x="0"
+       y="0">
+      <title
+         id="title191">Genome size (in bp): 4225259</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="16"
+       transform="translate(75,-10)"
+       id="rect193"
+       x="0"
+       y="0">
+      <title
+         id="title192">Protein count: 4156</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="13"
+       transform="translate(100,-10)"
+       id="rect194"
+       x="0"
+       y="0">
+      <title
+         id="title193">SSU length (in bp): 1021</title>
+    </rect>
+  </g>
+  <g
+     class="graph binary gid589623032050257"
+     visibility="visible"
+     transform="translate(1233.4016,753.90394)"
+     id="g195">
+    <path
+       class="binary hover-visible gid589623032050257"
+       style="fill:none;stroke:none"
+       d="m -10.733126,-3.5777088 h 7.1554172 v -7.1554172 h 7.1554176 v 7.1554172 H 10.733126 V 3.5777088 H 3.5777088 V 10.733126 H -3.5777088 V 3.5777088 h -7.1554172 z"
+       transform="translate(135)"
+       id="path194">
+      <title
+         id="title194">User strain?: -1</title>
+    </path>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 590.57064,757.29377 h 244"
+     id="path196" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#532b63;stroke:#532b63"
+     visibility="visible"
+     id="rect196"
+     x="1152.8081"
+     y="743.90393">
+    <title
+       id="title196">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#526339;stroke:#526339"
+     visibility="visible"
+     id="rect197"
+     x="1192.8081"
+     y="743.90393">
+    <title
+       id="title197">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     dx="249"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text197"
+     x="590.57062"
+     y="757.29376">Haloarcula amylolytica JCM 13557</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="637.57062"
+     y="783.29376"
+     style="opacity:0"
+     id="rect198" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,786.90394)"
+     id="g199">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#f7fbff"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect199"
+       x="0"
+       y="0">
+      <title
+         id="title198">Percent G+C: 61.01</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,786.90394)"
+     id="g200">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#fc9272"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect200"
+       x="0"
+       y="0">
+      <title
+         id="title199">delta statistics: 0.294</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,786.90394)"
+     id="g203">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="15"
+       transform="translate(50,-10)"
+       id="rect201"
+       x="0"
+       y="0">
+      <title
+         id="title200">Genome size (in bp): 4163468</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="16"
+       transform="translate(75,-10)"
+       id="rect202"
+       x="0"
+       y="0">
+      <title
+         id="title201">Protein count: 4196</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="19"
+       transform="translate(100,-10)"
+       id="rect203"
+       x="0"
+       y="0">
+      <title
+         id="title202">SSU length (in bp): 1468</title>
+    </rect>
+  </g>
+  <g
+     class="graph binary gid589623032050257"
+     visibility="visible"
+     transform="translate(1233.4016,786.90394)"
+     id="g204">
+    <path
+       class="binary hover-visible gid589623032050257"
+       style="fill:none;stroke:none"
+       d="m -10.733126,-3.5777088 h 7.1554172 v -7.1554172 h 7.1554176 v 7.1554172 H 10.733126 V 3.5777088 H 3.5777088 V 10.733126 H -3.5777088 V 3.5777088 h -7.1554172 z"
+       transform="translate(135)"
+       id="path203">
+      <title
+         id="title203">User strain?: -1</title>
+    </path>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 644.57064,790.29377 h 190"
+     id="path205" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#d1d04e;stroke:#d1d04e"
+     visibility="visible"
+     id="rect205"
+     x="1152.8081"
+     y="776.90393">
+    <title
+       id="title205">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#c54883;stroke:#c54883"
+     visibility="visible"
+     id="rect206"
+     x="1192.8081"
+     y="776.90393">
+    <title
+       id="title206">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     dx="195"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text206"
+     x="644.57062"
+     y="790.29376">Haloarcula sebkhae JCM 19018T</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="582.57062"
+     y="817.29376"
+     style="opacity:0"
+     id="rect207" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,820.90394)"
+     id="g208">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#9ecae1"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect208"
+       x="0"
+       y="0">
+      <title
+         id="title207">Percent G+C: 64.68</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,820.90394)"
+     id="g209">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#fc9272"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect209"
+       x="0"
+       y="0">
+      <title
+         id="title208">delta statistics: 0.288</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,820.90394)"
+     id="g212">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="12"
+       transform="translate(50,-10)"
+       id="rect210"
+       x="0"
+       y="0">
+      <title
+         id="title209">Genome size (in bp): 3525489</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="13"
+       transform="translate(75,-10)"
+       id="rect211"
+       x="0"
+       y="0">
+      <title
+         id="title210">Protein count: 3512</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="19"
+       transform="translate(100,-10)"
+       id="rect212"
+       x="0"
+       y="0">
+      <title
+         id="title211">SSU length (in bp): 1471</title>
+    </rect>
+  </g>
+  <g
+     class="graph binary gid589623032050257"
+     visibility="visible"
+     transform="translate(1233.4016,820.90394)"
+     id="g213">
+    <path
+       class="binary hover-visible gid589623032050257"
+       style="fill:none;stroke:none"
+       d="m -10.733126,-3.5777088 h 7.1554172 v -7.1554172 h 7.1554176 v 7.1554172 H 10.733126 V 3.5777088 H 3.5777088 V 10.733126 H -3.5777088 V 3.5777088 h -7.1554172 z"
+       transform="translate(135)"
+       id="path212">
+      <title
+         id="title212">User strain?: -1</title>
+    </path>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 589.57064,824.29377 h 245"
+     id="path214" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#cf4a70;stroke:#cf4a70"
+     visibility="visible"
+     id="rect214"
+     x="1152.8081"
+     y="810.90393">
+    <title
+       id="title214">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#4d4040;stroke:#4d4040"
+     visibility="visible"
+     id="rect215"
+     x="1192.8081"
+     y="810.90393">
+    <title
+       id="title215">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     dx="250"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text215"
+     x="589.57062"
+     y="824.29376">Haloarcula ordinaria ZS-22-S1</text>
+  <rect
+     class="pointer"
+     fill="#ff0000"
+     width="14"
+     height="14"
+     x="578.57062"
+     y="850.29376"
+     style="opacity:0"
+     id="rect216" />
+  <g
+     class="graph heatmap gid1169524676599317"
+     visibility="visible"
+     transform="translate(1233.4016,853.90394)"
+     id="g217">
+    <rect
+       class="heatmap hover-visible gid1169524676599317"
+       fill="#9ecae1"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(0,-10)"
+       id="rect217"
+       x="0"
+       y="0">
+      <title
+         id="title216">Percent G+C: 64.42</title>
+    </rect>
+  </g>
+  <g
+     class="graph heatmap gid1314560842331449"
+     visibility="visible"
+     transform="translate(1233.4016,853.90394)"
+     id="g218">
+    <rect
+       class="heatmap hover-visible gid1314560842331449"
+       fill="#ef3b2c"
+       stroke="#000000"
+       stroke-width="0.3px"
+       width="20"
+       height="20"
+       transform="translate(25,-10)"
+       id="rect218"
+       x="0"
+       y="0">
+      <title
+         id="title217">delta statistics: 0.337</title>
+    </rect>
+  </g>
+  <g
+     class="graph multibar gid565258085068071"
+     visibility="visible"
+     transform="translate(1233.4016,853.90394)"
+     id="g221">
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#000000"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="17"
+       transform="translate(50,-10)"
+       id="rect219"
+       x="0"
+       y="0">
+      <title
+         id="title218">Genome size (in bp): 4661598</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#bf812d"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="18"
+       transform="translate(75,-10)"
+       id="rect220"
+       x="0"
+       y="0">
+      <title
+         id="title219">Protein count: 4676</title>
+    </rect>
+    <rect
+       class="multibar hover-visible gid565258085068071"
+       fill="#80cdc1"
+       stroke="#000000"
+       stroke-width="0.3"
+       height="20"
+       width="19"
+       transform="translate(100,-10)"
+       id="rect221"
+       x="0"
+       y="0">
+      <title
+         id="title220">SSU length (in bp): 1471</title>
+    </rect>
+  </g>
+  <g
+     class="graph binary gid589623032050257"
+     visibility="visible"
+     transform="translate(1233.4016,853.90394)"
+     id="g222">
+    <path
+       class="binary hover-visible gid589623032050257"
+       style="fill:none;stroke:none"
+       d="m -10.733126,-3.5777088 h 7.1554172 v -7.1554172 h 7.1554176 v 7.1554172 H 10.733126 V 3.5777088 H 3.5777088 V 10.733126 H -3.5777088 V 3.5777088 h -7.1554172 z"
+       transform="translate(135)"
+       id="path221">
+      <title
+         id="title221">User strain?: -1</title>
+    </path>
+  </g>
+  <path
+     class="support"
+     stroke="#000000"
+     stroke-dasharray="2, 3"
+     stroke-width="0.5px"
+     visibility="visible"
+     d="m 585.57064,857.29377 h 249"
+     id="path223" />
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid1533133180894639"
+     style="fill:#6d44c4;stroke:#6d44c4"
+     visibility="visible"
+     id="rect223"
+     x="1152.8081"
+     y="843.90393">
+    <title
+       id="title223">Species cluster</title>
+  </rect>
+  <rect
+     height="20"
+     width="20"
+     class="nodelabel color lid553372378826103"
+     style="fill:#7bdc57;stroke:#7bdc57"
+     visibility="visible"
+     id="rect224"
+     x="1192.8081"
+     y="843.90393">
+    <title
+       id="title224">Subspecies cluster</title>
+  </rect>
+  <text
+     class="name"
+     dx="254"
+     dy="5"
+     text-anchor="start"
+     stroke="#000000"
+     stroke-width="0.3px"
+     fill="#000000"
+     visibility="visible"
+     font-size="15px"
+     font-style="normal"
+     id="text224"
+     x="585.57062"
+     y="857.29376">Haloarcula rubra F13</text>
+  <text
+     class="labellegend lid1533133180894639"
+     fill="#000000"
+     transform="rotate(-90)"
+     font-size="20px"
+     id="text225"
+     x="-260.90393"
+     y="1172.808">Species cluster</text>
+  <text
+     class="labellegend lid553372378826103"
+     fill="#000000"
+     transform="rotate(-90)"
+     font-size="20px"
+     id="text226"
+     x="-260.90393"
+     y="1212.808">Subspecies cluster</text>
+  <text
+     class="legend"
+     transform="rotate(-90)"
+     fill="#000000"
+     font-size="20px"
+     id="text227"
+     x="-260.90393"
+     y="1250.808">Percent G+C</text>
+  <text
+     class="legend"
+     transform="rotate(-90)"
+     fill="#000000"
+     font-size="20px"
+     id="text228"
+     x="-260.90393"
+     y="1275.808">delta statistics</text>
+  <text
+     class="legend"
+     transform="rotate(-90)"
+     fill="#000000"
+     font-size="20px"
+     id="text229"
+     x="-260.90393"
+     y="1297.4017">Genome size (in bp)</text>
+  <text
+     class="legend"
+     transform="rotate(-90)"
+     fill="#000000"
+     font-size="20px"
+     id="text230"
+     x="-260.90393"
+     y="1322.4017">Protein count</text>
+  <text
+     class="legend"
+     transform="rotate(-90)"
+     fill="#000000"
+     font-size="20px"
+     id="text231"
+     x="-260.90393"
+     y="1349.4017">SSU length (in bp)</text>
+  <text
+     dy="20"
+     class="title"
+     stroke="#000000"
+     stroke-width="1px"
+     font-size="15px"
+     id="text234"
+     x="-31.63842"
+     y="-181.92093" />
+  <text
+     class="title"
+     dy="40"
+     stroke="#000000"
+     stroke-width="0.5px"
+     font-size="10px"
+     id="text235"
+     x="-31.63842"
+     y="-181.92093" />
+</svg>

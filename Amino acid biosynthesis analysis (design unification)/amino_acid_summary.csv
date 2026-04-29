@@ -1,0 +1,22 @@
+Amino_Acid,Best_Module,Best_Pathway,Alternative_Pathways,Satisfied_Steps,Total_Steps,Best_Steps,Status,Completeness_Pct
+Alanine,Key enzyme,Alanine biosynthesis (from pyruvate),1,1,1,1/1,Complete,100
+Arginine,M00844,"Arginine biosynthesis, ornithine pathway",1,3,3,3/3,Complete,100
+Asparagine,Key enzyme,Asparagine biosynthesis (from aspartate),1,1,1,1/1,Complete,100
+Aspartate,Key enzyme,Aspartate biosynthesis (from oxaloacetate),1,1,1,1/1,Complete,100
+Cysteine,M00021,"Cysteine biosynthesis, serine pathway",1,2,2,2/2,Complete,100
+Glutamate,Key enzyme,Glutamate biosynthesis (from 2-oxoglutarate),1,1,1,1/1,Complete,100
+Glutamine,Key enzyme,Glutamine biosynthesis (from glutamate),1,1,1,1/1,Complete,100
+Glycine,Key enzyme,Glycine biosynthesis (from serine or other precursors),1,1,1,1/1,Complete,100
+Histidine,M00026,Histidine biosynthesis,1,9,10,9/10,Incomplete,90
+Isoleucine,M00570,"Isoleucine biosynthesis, threonine pathway",1,2,5,2/5,Incomplete,40
+Leucine,M00432,Leucine biosynthesis,1,0,3,0/3,No Pathway,0
+Lysine,M00526,"Lysine biosynthesis, DAP dehydrogenase pathway",1,3,6,3/6,Incomplete,50
+Methionine,M00017,Methionine biosynthesis,1,5,7,5/7,Incomplete,71.42857142857143
+Ornithine,M00028,"Ornithine biosynthesis, glutamate pathway",1,0,5,0/5,No Pathway,0
+Phenylalanine,M00024,"Phenylalanine biosynthesis, phenylpyruvate pathway",1,1,3,1/3,Incomplete,33.33333333333333
+Proline,M00015,Proline biosynthesis,1,0,3,0/3,No Pathway,0
+Serine,M00020,Serine biosynthesis,1,2,3,2/3,Incomplete,66.66666666666666
+Threonine,M00018,Threonine biosynthesis,1,5,5,5/5,Complete,100
+Tryptophan,M00023,Tryptophan biosynthesis,1,5,5,5/5,Complete,100
+Tyrosine,M00025,"Tyrosine biosynthesis, HPP pathway",1,1,3,1/3,Incomplete,33.33333333333333
+Valine,M00019,Valine biosynthesis,1,1,4,1/4,Incomplete,25

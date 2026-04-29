@@ -1,0 +1,9 @@
+Category,Ortholog_Groups,Total_Proteins,HS_Proteins,HM_Proteins,HA_Proteins,Description
+HS_only,1021,1021,1021,0,0,Unique to HS strain
+HM_only,1282,1282,0,1282,0,Unique to HM strain
+HA_only,1723,1723,0,0,1723,Unique to HA strain
+HS_and_HM_only,11,22,11,11,0,Shared between HS and HM only
+HS_and_HA_only,28,56,28,0,28,Shared between HS and HA only
+HM_and_HA_only,441,882,0,441,441,Shared between HM and HA only
+Core_all_three,222,660,219,219,222,Shared among all three strains
+Total,,5646,,,,Total unannotated proteins analyzed

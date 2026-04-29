@@ -1,0 +1,36 @@
+Amino_Acid,Module_ID,Pathway_Name,Total_Steps,Satisfied_Steps,Total_KOs,Present_KOs_count,Status,Present_KOs,Missing_KOs
+Serine,M00020,Serine biosynthesis,3,2,6,2,Incomplete,"K00058, K01079","K00831, K02203, K22305, K25528"
+Threonine,M00018,Threonine biosynthesis,5,5,10,5,Complete,"K00928, K00133, K00003, K00872, K01733","K12524, K12525, K12526, K02204, K02203"
+Cysteine,M00021,"Cysteine biosynthesis, serine pathway",2,2,5,2,Complete,"K00640, K01738","K23304, K13034, K17069"
+Cysteine,M00338,"Cysteine biosynthesis, homocysteine pathway",2,1,3,1,Incomplete,K01758,"K01697, K10150"
+Cysteine,M00609,"Cysteine biosynthesis, methionine pathway",6,1,6,1,Incomplete,K00789,"K17462, K01243, K07173, K17216, K17217"
+Methionine,M00017,Methionine biosynthesis,7,5,13,5,Incomplete,"K00928, K00133, K00003, K00641, K00549","K12524, K12525, K00651, K01739, K01760, K14155, K00548, K24042"
+Valine,M00019,Valine biosynthesis,4,1,6,1,Incomplete,K00826,"K01652, K01653, K11258, K00053, K01687"
+Isoleucine,M00019,"Isoleucine biosynthesis, shared with valine",4,1,6,1,Incomplete,K00826,"K01652, K01653, K11258, K00053, K01687"
+Isoleucine,M00535,"Isoleucine biosynthesis, pyruvate pathway",3,0,4,0,No Pathway,,"K09011, K01703, K01704, K00052"
+Isoleucine,M00570,"Isoleucine biosynthesis, threonine pathway",5,2,8,2,Incomplete,"K01754, K00826","K17989, K01652, K01653, K11258, K00053, K01687"
+Leucine,M00432,Leucine biosynthesis,3,0,5,0,No Pathway,,"K01649, K01702, K01703, K01704, K00052"
+Lysine,M00016,"Lysine biosynthesis, succinyl-DAP pathway",9,3,13,3,Incomplete,"K00928, K00133, K01714","K12524, K12525, K12526, K00215, K00674, K00821, K14267, K01439, K01778, K01586"
+Lysine,M00525,"Lysine biosynthesis, acetyl-DAP pathway",9,3,9,3,Incomplete,"K00928, K00133, K01714","K00215, K05822, K00841, K05823, K01778, K01586"
+Lysine,M00526,"Lysine biosynthesis, DAP dehydrogenase pathway",6,3,9,3,Incomplete,"K00928, K00133, K01714","K12524, K12525, K12526, K00215, K03340, K01586"
+Lysine,M00527,"Lysine biosynthesis, DAP aminotransferase pathway",7,3,10,3,Incomplete,"K00928, K00133, K01714","K12524, K12525, K12526, K00215, K10206, K01778, K01586"
+Lysine,M00030,"Lysine biosynthesis, AAA pathway",8,0,9,0,No Pathway,,"K01655, K17450, K01705, K05824, K00838, K00143, K00293, K24034, K00290"
+Lysine,M00433,Lysine biosynthesis,4,0,6,0,No Pathway,,"K01655, K17450, K01705, K16792, K16793, K05824"
+Lysine,M00031,"Lysine biosynthesis, mediated by LysW",1,0,1,0,No Pathway,,K05826
+Ornithine,M00028,"Ornithine biosynthesis, glutamate pathway",5,0,14,0,No Pathway,,"K00618, K00619, K14681, K14682, K00620, K22477, K22478, K00930, K00145, K12659, K00818, K00821, K01438, K14677"
+Ornithine,M00763,"Ornithine biosynthesis, mediated by LysW",1,0,1,0,No Pathway,,K05826
+Arginine,M00844,"Arginine biosynthesis, ornithine pathway",3,3,4,3,Complete,"K00611, K01940, K01755",K14681
+Arginine,M00845,"Arginine biosynthesis, acetylcitrulline pathway",7,2,7,2,Incomplete,"K01940, K01755","K22478, K00145, K00821, K09065, K01438"
+Proline,M00015,Proline biosynthesis,3,0,4,0,No Pathway,,"K00931, K00147, K12657, K00286"
+Histidine,M00026,Histidine biosynthesis,10,9,18,9,Incomplete,"K00765, K01523, K01496, K01814, K02501, K02500, K01693, K00817, K00013","K02502, K11755, K14152, K24017, K01663, K04486, K05602, K18649, K01089"
+Tryptophan,M00023,Tryptophan biosynthesis,5,5,15,7,Complete,"K01657, K01658, K00766, K01817, K01609, K01695, K01696","K13503, K13501, K01656, K13497, K24017, K13498, K06001, K01694"
+Phenylalanine,M00024,"Phenylalanine biosynthesis, phenylpyruvate pathway",3,1,13,1,Incomplete,K04518,"K01850, K04092, K14187, K04093, K04516, K06208, K06209, K01713, K05359, K14170, K00832, K00838"
+Phenylalanine,M00910,"Phenylalanine biosynthesis, arogenate pathway",3,0,3,0,No Pathway,,"K01850, K15849, K05359"
+Tyrosine,M00025,"Tyrosine biosynthesis, HPP pathway",3,1,12,1,Incomplete,K04517,"K01850, K04092, K14170, K04093, K04516, K06208, K06209, K00211, K14187, K00832, K00838"
+Tyrosine,M00040,"Tyrosine biosynthesis, arogenate pathway",3,0,8,0,No Pathway,,"K01850, K04092, K14170, K00832, K15849, K00220, K24018, K15227"
+Alanine,Key enzyme,Alanine biosynthesis (from pyruvate),1,1,3,1,Complete,K00812,"K00813, K14260"
+Aspartate,Key enzyme,Aspartate biosynthesis (from oxaloacetate),1,1,4,2,Complete,"K00812, K00278","K00813, K10206"
+Asparagine,Key enzyme,Asparagine biosynthesis (from aspartate),1,1,3,2,Complete,"K01915, K01953",K01914
+Glutamate,Key enzyme,Glutamate biosynthesis (from 2-oxoglutarate),1,1,6,1,Complete,K00261,"K00260, K00262, K15371, K00265, K00266"
+Glutamine,Key enzyme,Glutamine biosynthesis (from glutamate),1,1,2,1,Complete,K01915,K01914
+Glycine,Key enzyme,Glycine biosynthesis (from serine or other precursors),1,1,5,4,Complete,"K00600, K00282, K00283, K00605",K00281

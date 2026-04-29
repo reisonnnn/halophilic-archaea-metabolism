@@ -1,0 +1,7 @@
+"Strain",".y.","group1","group2","estimate","conf.low","conf.high","p.adj","p.adj.signif","Significance"
+"HM","OD660_avg","HM RS +AA","HM RS +AA +Glucose",0.979555555555556,0.504620520307439,1.45449059080367,0.008,"**","**"
+"HM","OD660_avg","HM RS +AA","HM RS +AA +Glycerol",1.04266666666667,0.822081241140975,1.26325209219236,0.000193,"***","***"
+"HM","OD660_avg","HM RS +AA","HM RS +AA +Glycerol +Glucose",1.28766666666667,1.10492462260821,1.47040871072513,7.87e-05,"****","***"
+"HM","OD660_avg","HM RS +AA +Glucose","HM RS +AA +Glycerol",0.0631111111111111,-0.394953648264815,0.521175870487037,0.898,"ns","ns"
+"HM","OD660_avg","HM RS +AA +Glucose","HM RS +AA +Glycerol +Glucose",0.308111111111111,-0.211185678748793,0.827407900971015,0.146,"ns","ns"
+"HM","OD660_avg","HM RS +AA +Glycerol","HM RS +AA +Glycerol +Glucose",0.245,0.026214822534381,0.463785177465619,0.037,"*","*"

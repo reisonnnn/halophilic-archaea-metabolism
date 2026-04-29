@@ -1,0 +1,2397 @@
+locus_tag,protein_id,product
+QSJ49_RS00005,WP_010903688.1,ORC1-type DNA replication protein
+QSJ49_RS00010,WP_205251169.1,ribose 5-phosphate isomerase A
+QSJ49_RS00015,WP_010903690.1,DUF1931 family protein
+QSJ49_RS00020,WP_010903691.1,GIY-YIG nuclease family protein
+QSJ49_RS00025,WP_010903692.1,phosphoglucomutase/phosphomannomutase family protein
+QSJ49_RS00030,WP_311735968.1,GNAT family N-acetyltransferase
+QSJ49_RS00035,WP_012289475.1,ubiquitin-like small modifier protein 2
+QSJ49_RS00040,WP_010903695.1,replication factor C small subunit
+QSJ49_RS00045,WP_205251170.1,glutathione S-transferase family protein
+QSJ49_RS00050,WP_229373372.1,DsbA family protein
+QSJ49_RS00055,WP_205251172.1,alanine--tRNA ligase
+QSJ49_RS00060,WP_136361599.1,phosphoribosyl-AMP cyclohydrolase
+QSJ49_RS00065,WP_012289477.1,A24 family peptidase
+QSJ49_RS00070,WP_205251173.1,methylaspartate mutase subunit S
+QSJ49_RS00075,WP_205251174.1,methylaspartate mutase subunit E
+QSJ49_RS00080,WP_205251175.1,methylaspartate ammonia-lyase
+QSJ49_RS00085,WP_205251176.1,MaoC family dehydratase
+QSJ49_RS00090,WP_205251177.1,acetyl-CoA hydrolase/transferase family protein
+QSJ49_RS00095,WP_205251178.1,glycosyltransferase family 87 protein
+QSJ49_RS00100,WP_010903707.1,ferredoxin Fer2
+QSJ49_RS00105,WP_205251179.1,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase
+QSJ49_RS00110,WP_010903709.1,imidazoleglycerol-phosphate dehydratase HisB
+QSJ49_RS00115,WP_205251180.1,hypothetical protein
+QSJ49_RS00120,WP_012289478.1,amino acid-binding protein
+QSJ49_RS00125,WP_012289479.1,hypothetical protein
+QSJ49_RS00130,WP_010903713.1,YigZ family protein
+QSJ49_RS00135,WP_010903714.1,hypothetical protein
+QSJ49_RS00140,WP_010903715.1,NAD(P)/FAD-dependent oxidoreductase
+QSJ49_RS00145,WP_205251181.1,S9 family peptidase
+QSJ49_RS00150,WP_010903717.1,hypothetical protein
+QSJ49_RS00155,WP_010903718.1,uracil phosphoribosyltransferase
+QSJ49_RS00160,WP_010903719.1,DUF5828 family protein
+QSJ49_RS00165,WP_010903720.1,inorganic phosphate transporter
+QSJ49_RS00170,WP_235157223.1,hemolysin family protein
+QSJ49_RS00175,WP_010903722.1,glutaredoxin
+QSJ49_RS00180,WP_136361613.1,peroxiredoxin
+QSJ49_RS00185,WP_338416957.1,hypothetical protein
+QSJ49_RS00190,WP_338416958.1,hypothetical protein
+QSJ49_RS00195,WP_010903724.1,L-threonylcarbamoyladenylate synthase
+QSJ49_RS00200,WP_338416959.1,hypothetical protein
+QSJ49_RS00205,WP_338416986.1,hypothetical protein
+QSJ49_RS00210,WP_338416960.1,hypothetical protein
+QSJ49_RS00215,WP_338416961.1,conditioned medium-induced protein 4
+QSJ49_RS00220,WP_338416962.1,biotin transporter BioY
+QSJ49_RS00225,WP_010903729.1,ABC transporter ATP-binding protein
+QSJ49_RS00230,WP_012289483.1,energy-coupling factor transporter transmembrane component T
+QSJ49_RS00235,WP_338416963.1,(Fe-S)-binding protein
+QSJ49_RS00240,WP_235157192.1,GNAT family protein
+QSJ49_RS00245,WP_235157189.1,hypothetical protein
+QSJ49_RS00250,WP_136361622.1,porphobilinogen synthase
+QSJ49_RS00255,WP_235157187.1,CPBP family intramembrane glutamic endopeptidase
+QSJ49_RS00260,WP_235157184.1,glutamate-1-semialdehyde 2%2C1-aminomutase
+QSJ49_RS00265,WP_338416964.1,hypothetical protein
+QSJ49_RS00270,WP_136361626.1,hypothetical protein
+QSJ49_RS00275,WP_338416965.1,hydroxymethylbilane synthase
+QSJ49_RS00280,WP_338416966.1,uroporphyrinogen-III C-methyltransferase
+QSJ49_RS00285,WP_338416967.1,uroporphyrinogen-III synthase
+QSJ49_RS00290,WP_205251193.1,DHH family phosphoesterase
+QSJ49_RS00295,WP_235157173.1,PAS domain-containing protein
+QSJ49_RS00300,WP_012289487.1,DUF5783 family protein
+QSJ49_RS00305,WP_010903744.1,NifU family protein
+QSJ49_RS00310,WP_235157170.1,DNA-directed DNA polymerase II large subunit
+QSJ49_RS00315,WP_205251211.1,PPC domain-containing DNA-binding protein
+QSJ49_RS00320,WP_012289488.1,hypothetical protein
+QSJ49_RS00325,WP_012289489.1,hypothetical protein
+QSJ49_RS00330,WP_227970891.1,hypothetical protein
+QSJ49_RS00335,WP_136361634.1,hypothetical protein
+QSJ49_RS00340,WP_010903750.1,ABC transporter ATP-binding protein
+QSJ49_RS00345,WP_235157166.1,ABC transporter ATP-binding protein
+QSJ49_RS00350,WP_010903752.1,ABC transporter permease
+QSJ49_RS00355,WP_235157159.1,ABC transporter permease
+QSJ49_RS00360,WP_235157155.1,ABC transporter substrate-binding protein
+QSJ49_RS00365,WP_010903755.1,CBS domain-containing protein
+QSJ49_RS00370,WP_235157146.1,glycine--tRNA ligase
+QSJ49_RS00375,WP_012289491.1,dolichol kinase
+QSJ49_RS00380,WP_010903758.1,DEAD/DEAH box helicase
+QSJ49_RS00385,WP_235218851.1,ABC transporter substrate-binding protein
+QSJ49_RS00390,WP_010903760.1,ABC transporter permease
+QSJ49_RS00395,WP_235218850.1,ABC transporter permease
+QSJ49_RS00400,WP_338416968.1,ABC transporter ATP-binding protein
+QSJ49_RS00405,WP_235218849.1,oligopeptide/dipeptide ABC transporter ATP-binding protein
+QSJ49_RS00410,WP_235218848.1,Sjogren's syndrome/scleroderma autoantigen 1 family protein
+QSJ49_RS00415,WP_010903765.1,malate dehydrogenase
+QSJ49_RS00420,NA,IS5/IS1182 family transposase
+QSJ49_RS00425,WP_338416969.1,hypothetical protein
+QSJ49_RS00430,WP_010903766.1,ferredoxin
+QSJ49_RS00435,WP_338416970.1,ATP-dependent DNA helicase
+QSJ49_RS00440,WP_010903768.1,KEOPS complex subunit Cgi121
+QSJ49_RS00450,WP_010903769.1,IMP cyclohydrolase
+QSJ49_RS00455,WP_338416971.1,metallophosphoesterase family protein
+QSJ49_RS00460,WP_136361648.1,tryptophanase
+QSJ49_RS00465,WP_010903772.1,aspartate kinase
+QSJ49_RS00470,WP_285253226.1,hypothetical protein
+QSJ49_RS00475,WP_010903774.1,ABC transporter permease
+QSJ49_RS00480,WP_235157108.1,ABC transporter ATP-binding protein
+QSJ49_RS00485,WP_338416972.1,hypothetical protein
+QSJ49_RS00490,WP_010903777.1,DUF5518 domain-containing protein
+QSJ49_RS00495,WP_338416973.1,excinuclease ABC subunit C
+QSJ49_RS00500,WP_235218898.1,ribonucleotide-diphosphate reductase subunit beta
+QSJ49_RS00505,WP_235218899.1,ribonucleoside-diphosphate reductase subunit alpha
+QSJ49_RS00510,WP_235218900.1,hypothetical protein
+QSJ49_RS00515,WP_012289494.1,universal stress protein
+QSJ49_RS00520,WP_235157095.1,sulfite exporter TauE/SafE family protein
+QSJ49_RS00525,WP_010903784.1,excinuclease ABC subunit UvrB
+QSJ49_RS00530,WP_010903785.1,hypothetical protein
+QSJ49_RS00535,WP_235157092.1,sulfurtransferase
+QSJ49_RS00540,WP_235157091.1,sulfurtransferase
+QSJ49_RS00545,WP_235218902.1,thiamine ABC transporter substrate binding subunit
+QSJ49_RS00550,WP_338416974.1,iron ABC transporter permease
+QSJ49_RS00555,WP_235218950.1,ABC transporter ATP-binding protein
+QSJ49_RS00560,WP_136361659.1,class I SAM-dependent methyltransferase
+QSJ49_RS00565,WP_010903792.1,DUF2391 family protein
+QSJ49_RS00570,WP_012289498.1,hypothetical protein
+QSJ49_RS00575,WP_235157080.1,hypothetical protein
+QSJ49_RS00580,WP_136361662.1,MATE family efflux transporter
+QSJ49_RS00585,WP_235157077.1,Zn-ribbon domain-containing protein
+QSJ49_RS00590,WP_012289500.1,DUF2073 domain-containing protein
+QSJ49_RS00595,WP_012289501.1,Era-like GTP-binding protein
+QSJ49_RS00600,WP_235157074.1,DNA replication protein Orc7
+QSJ49_RS00605,WP_010903801.1,hypothetical protein
+QSJ49_RS00610,WP_010903802.1,DoxX family protein
+QSJ49_RS00615,WP_338416975.1,helix-turn-helix domain-containing protein
+QSJ49_RS00620,WP_010903804.1,hypothetical protein
+QSJ49_RS00625,WP_235157072.1,S26 family signal peptidase
+QSJ49_RS00630,WP_235157071.1,DNA-directed DNA polymerase II small subunit
+QSJ49_RS00635,WP_235157070.1,alanine--glyoxylate aminotransferase family protein
+QSJ49_RS00640,WP_235157069.1,MFS transporter
+QSJ49_RS00645,WP_205251250.1,homoserine O-acetyltransferase
+QSJ49_RS00650,WP_235157068.1,O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase family protein
+QSJ49_RS00655,WP_235157067.1,FAD-binding and (Fe-S)-binding domain-containing protein
+QSJ49_RS00660,WP_235157065.1,phosphoserine phosphatase SerB
+QSJ49_RS00665,WP_235157063.1,phosphoglycerate dehydrogenase
+QSJ49_RS00670,WP_205251254.1,acyl-CoA thioesterase
+QSJ49_RS00675,WP_205251255.1,MFS transporter
+QSJ49_RS00680,WP_338416976.1,threonine synthase
+QSJ49_RS00685,WP_136360916.1,hypothetical protein
+QSJ49_RS00690,WP_010903818.1,YbjQ family protein
+QSJ49_RS00695,WP_205251257.1,hypothetical protein
+QSJ49_RS00700,WP_205251258.1,argininosuccinate lyase
+QSJ49_RS00705,WP_205251259.1,argininosuccinate synthase
+QSJ49_RS00710,WP_205251260.1,hypothetical protein
+QSJ49_RS00715,WP_136360920.1,2'-5' RNA ligase family protein
+QSJ49_RS00720,WP_205251917.1,ATP-dependent DNA helicase
+QSJ49_RS00725,WP_010903825.1,hypothetical protein
+QSJ49_RS00730,WP_010903826.1,DNA starvation/stationary phase protection protein DpsA
+QSJ49_RS00735,WP_012289508.1,metallophosphoesterase
+QSJ49_RS00740,WP_010903828.1,helix-turn-helix domain-containing protein
+QSJ49_RS00745,WP_260173106.1,hypothetical protein
+QSJ49_RS00750,WP_205251261.1,low specificity L-threonine aldolase
+QSJ49_RS00755,WP_010903831.1,aminopeptidase
+QSJ49_RS00760,WP_157849923.1,hypothetical protein
+QSJ49_RS00770,WP_205251262.1,AAA family ATPase
+QSJ49_RS00775,WP_010903834.1,RNA-binding domain-containing protein
+QSJ49_RS00780,WP_227970892.1,hypothetical protein
+QSJ49_RS00785,WP_010903836.1,magnesium transporter
+QSJ49_RS00790,WP_010903837.1,magnesium transporter
+QSJ49_RS00795,WP_010903838.1,signal recognition particle protein Srp54
+QSJ49_RS00800,WP_010903839.1,hypothetical protein
+QSJ49_RS00805,WP_205251263.1,signal recognition particle-docking protein FtsY
+QSJ49_RS00810,WP_205251264.1,prefoldin subunit alpha
+QSJ49_RS00815,WP_010903842.1,translation initiation factor IF-6
+QSJ49_RS00820,WP_010903843.1,50S ribosomal protein L31e
+QSJ49_RS00825,WP_010903844.1,50S ribosomal protein L39e
+QSJ49_RS00830,WP_010903845.1,tetratricopeptide repeat protein
+QSJ49_RS00835,WP_010903846.1,DUF424 family protein
+QSJ49_RS00840,WP_010903847.1,cysteine desulfurase
+QSJ49_RS00845,WP_010903848.1,iron-sulfur cluster assembly scaffold protein
+QSJ49_RS00850,WP_012289511.1,DNA repair and recombination protein RadA
+QSJ49_RS00855,WP_010903850.1,60S ribosomal export protein NMD3
+QSJ49_RS00860,WP_205251265.1,class I SAM-dependent methyltransferase family protein
+QSJ49_RS00865,WP_049892570.1,hypothetical protein
+QSJ49_RS00870,WP_157849924.1,hypothetical protein
+QSJ49_RS00875,WP_205251266.1,ATP-dependent DNA helicase
+QSJ49_RS00880,WP_136360931.1,hypothetical protein
+QSJ49_RS00885,WP_205251267.1,phosphate uptake regulator PhoU
+QSJ49_RS00890,WP_205251268.1,phosphate ABC transporter ATP-binding protein PstB
+QSJ49_RS00895,WP_010903856.1,phosphate ABC transporter permease PstA
+QSJ49_RS00900,WP_010903857.1,phosphate ABC transporter permease subunit PstC
+QSJ49_RS00905,WP_205251269.1,substrate-binding domain-containing protein
+QSJ49_RS00910,WP_010903859.1,NAD(P)H-binding protein
+QSJ49_RS00915,WP_010903860.1,hypothetical protein
+QSJ49_RS00920,WP_012289514.1,DUF5786 family protein
+QSJ49_RS00925,WP_070807660.1,hypothetical protein
+QSJ49_RS00930,WP_010903861.1,PHP domain-containing protein
+QSJ49_RS00935,WP_012289516.1,DUF6757 family protein
+QSJ49_RS00940,WP_010903863.1,ferredoxin family protein
+QSJ49_RS00945,WP_012289517.1,cupin domain-containing protein
+QSJ49_RS00950,WP_205251270.1,DCC1-like thiol-disulfide oxidoreductase family protein
+QSJ49_RS00955,WP_012289518.1,acyl-CoA dehydrogenase family protein
+QSJ49_RS00960,WP_205251271.1,type 1 glutamine amidotransferase
+QSJ49_RS00965,WP_010903868.1,HD domain-containing protein
+QSJ49_RS00970,WP_205251272.1,phenylalanine--tRNA ligase subunit alpha
+QSJ49_RS00975,WP_010903870.1,phenylalanine--tRNA ligase subunit beta
+QSJ49_RS00980,WP_010903871.1,quinone-dependent dihydroorotate dehydrogenase
+QSJ49_RS00985,WP_010903872.1,non-histone chromosomal MC1 family protein
+QSJ49_RS01015,WP_205251273.1,hypothetical protein
+QSJ49_RS01020,WP_010903874.1,hypothetical protein
+QSJ49_RS01030,WP_267875139.1,hypothetical protein
+QSJ49_RS01035,WP_205251274.1,MBL fold metallo-hydrolase
+QSJ49_RS01040,WP_010903877.1,aldehyde dehydrogenase family protein
+QSJ49_RS01045,WP_205251275.1,30S ribosomal protein S6e
+QSJ49_RS01050,WP_205251276.1,DUF5807 family protein
+QSJ49_RS01055,WP_010903880.1,carbohydrate kinase family protein
+QSJ49_RS01060,WP_205251277.1,BtpA/SgcQ family protein
+QSJ49_RS01065,WP_010903882.1,hypothetical protein
+QSJ49_RS01070,WP_012289521.1,universal stress protein
+QSJ49_RS01075,WP_010903884.1,universal stress protein
+QSJ49_RS01080,WP_010903885.1,GNAT family N-acetyltransferase
+QSJ49_RS01085,WP_012289522.1,universal stress protein
+QSJ49_RS01090,WP_010903887.1,DUF5806 family protein
+QSJ49_RS01095,WP_205251278.1,hypothetical protein
+QSJ49_RS01100,WP_205251279.1,ABC transporter ATP-binding protein
+QSJ49_RS01105,WP_205251280.1,ABC transporter substrate-binding protein
+QSJ49_RS01110,WP_205251281.1,ABC transporter permease
+QSJ49_RS01115,WP_205251282.1,ABC transporter permease
+QSJ49_RS01120,WP_205251283.1,hypothetical protein
+QSJ49_RS01125,WP_010903894.1,dihydroorotase
+QSJ49_RS01130,WP_205251284.1,biotin/lipoate A/B protein ligase family protein
+QSJ49_RS01135,WP_205251285.1,hypothetical protein
+QSJ49_RS01140,WP_010903897.1,phosphate-starvation-inducible PsiE family protein
+QSJ49_RS01145,WP_205251286.1,isochorismatase family cysteine hydrolase
+QSJ49_RS01150,WP_205251287.1,Hvo_1808 family surface protein
+QSJ49_RS01155,WP_205251288.1,nicotinate phosphoribosyltransferase
+QSJ49_RS01160,WP_010903901.1,TIGR00296 family protein
+QSJ49_RS01170,WP_136360961.1,aminopeptidase
+QSJ49_RS01175,WP_010903904.1,valine--tRNA ligase
+QSJ49_RS01180,WP_136360963.1,ABC transporter substrate-binding protein
+QSJ49_RS01185,WP_205251289.1,iron ABC transporter permease
+QSJ49_RS01190,WP_010903907.1,ABC transporter ATP-binding protein
+QSJ49_RS01195,WP_267875140.1,hypothetical protein
+QSJ49_RS01200,WP_205251290.1,NADP-dependent phosphogluconate dehydrogenase
+QSJ49_RS01205,WP_010903909.1,DJ-1/PfpI family protein
+QSJ49_RS01210,WP_136360966.1,2Fe-2S iron-sulfur cluster-binding protein
+QSJ49_RS01220,WP_205251291.1,hypothetical protein
+QSJ49_RS01225,WP_010903912.1,ABC transporter ATP-binding protein
+QSJ49_RS01230,WP_205251292.1,iron ABC transporter permease
+QSJ49_RS01235,WP_205251293.1,ABC transporter substrate-binding protein
+QSJ49_RS01240,WP_010903915.1,hypothetical protein
+QSJ49_RS01245,WP_010903916.1,TrkH family potassium uptake protein
+QSJ49_RS01250,WP_267875141.1,hypothetical protein
+QSJ49_RS01255,WP_229373380.1,hypothetical protein
+QSJ49_RS01265,WP_205251294.1,flagellin
+QSJ49_RS01270,WP_010903919.1,hypothetical protein
+QSJ49_RS01275,WP_010903920.1,deoxyuridine 5'-triphosphate nucleotidohydrolase
+QSJ49_RS01280,WP_010903921.1,S8 family peptidase
+QSJ49_RS01285,WP_010903922.1,aconitate hydratase
+QSJ49_RS01290,WP_012289526.1,ribosomal protein S18-alanine N-acetyltransferase
+QSJ49_RS01295,WP_205251295.1,DUF5810 domain-containing protein
+QSJ49_RS01300,WP_010903925.1,DUF5809 family protein
+QSJ49_RS01305,WP_205251296.1,metal-dependent transcriptional regulator
+QSJ49_RS01310,WP_136360977.1,NUDIX hydrolase
+QSJ49_RS01315,WP_010903928.1,heavy-metal-associated domain-containing protein
+QSJ49_RS01320,WP_010903929.1,rhodanese-like domain-containing protein
+QSJ49_RS01325,WP_010903930.1,stress response translation initiation inhibitor YciH
+QSJ49_RS01330,WP_010903931.1,hypothetical protein
+QSJ49_RS01335,WP_010903932.1,coenzyme F420-0:L-glutamate ligase
+QSJ49_RS01340,WP_010903933.1,GTP-binding protein EngB
+QSJ49_RS01345,WP_010903934.1,SIMPL domain-containing protein
+QSJ49_RS01350,WP_012289527.1,TIGR00341 family protein
+QSJ49_RS01355,WP_010903936.1,hypothetical protein
+QSJ49_RS01360,WP_010903937.1,GTPase
+QSJ49_RS01365,WP_010903938.1,DUF5518 domain-containing protein
+QSJ49_RS01370,WP_010903939.1,phosphoribosyl-ATP diphosphatase
+QSJ49_RS01375,WP_010903940.1,bifunctional nuclease family protein
+QSJ49_RS01380,WP_010903941.1,pyridoxal 5'-phosphate synthase glutaminase subunit PdxT
+QSJ49_RS01385,WP_010903942.1,preprotein translocase subunit Sec61beta
+QSJ49_RS01390,WP_010903943.1,thioredoxin
+QSJ49_RS01395,WP_010903944.1,SLC13 family permease
+QSJ49_RS01400,WP_010903945.1,hypothetical protein
+QSJ49_RS01405,WP_010903946.1,sulfide-dependent adenosine diphosphate thiazole synthase
+QSJ49_RS01410,WP_205251297.1,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase
+QSJ49_RS01415,WP_010903948.1,NADPH-dependent F420 reductase
+QSJ49_RS01420,WP_010903949.1,TIGR01548 family HAD-type hydrolase
+QSJ49_RS01425,WP_010903950.1,UPF0146 family protein
+QSJ49_RS01430,WP_010903951.1,archaemetzincin family Zn-dependent metalloprotease
+QSJ49_RS01435,WP_010903952.1,GTPase HflX
+QSJ49_RS01440,WP_010903953.1,ribosome biogenesis/translation initiation ATPase RLI
+QSJ49_RS01445,WP_010903954.1,hypothetical protein
+QSJ49_RS01450,WP_010903955.1,helix-turn-helix domain-containing protein
+QSJ49_RS01455,WP_010903956.1,PINc/VapC family ATPase
+QSJ49_RS01460,WP_205251298.1,carboxypeptidase M32
+QSJ49_RS01465,WP_205251299.1,hypothetical protein
+QSJ49_RS01470,WP_205251300.1,GNAT family protein
+QSJ49_RS01475,WP_205251301.1,zinc-dependent alcohol dehydrogenase family protein
+QSJ49_RS01480,WP_012289528.1,HVO_0416 family zinc finger protein
+QSJ49_RS01485,WP_010903960.1,ATP-dependent helicase
+QSJ49_RS01490,WP_205251302.1,M24 family metallopeptidase
+QSJ49_RS01495,WP_049892579.1,hypothetical protein
+QSJ49_RS01500,WP_168731194.1,riboflavin synthase
+QSJ49_RS01505,WP_168731176.1,PrsW family intramembrane metalloprotease
+QSJ49_RS01510,WP_205251303.1,ribonuclease E/G
+QSJ49_RS01515,WP_010903966.1,NifU family protein
+QSJ49_RS01520,WP_136361000.1,ROK family protein
+QSJ49_RS01525,WP_010903968.1,AIM24 family protein
+QSJ49_RS01530,WP_136361001.1,SDR family oxidoreductase
+QSJ49_RS01535,WP_010903970.1,hypothetical protein
+QSJ49_RS01540,WP_136361002.1,hypothetical protein
+QSJ49_RS01545,WP_205251304.1,excinuclease ABC subunit UvrA
+QSJ49_RS01550,WP_205251305.1,hypothetical protein
+QSJ49_RS01555,WP_205251306.1,geranylgeranyl reductase family protein
+QSJ49_RS01560,WP_205251307.1,UDP-N-acetylglucosamine 2-epimerase
+QSJ49_RS01565,WP_205251308.1,aminomethyltransferase family protein
+QSJ49_RS01570,WP_010903977.1,DUF6432 family protein
+QSJ49_RS01575,WP_205251309.1,hypothetical protein
+QSJ49_RS01580,WP_010903979.1,DUF5611 family protein
+QSJ49_RS01585,WP_010903980.1,cell division protein SepF
+QSJ49_RS01590,WP_205251310.1,DUF1028 domain-containing protein
+QSJ49_RS01595,WP_010903982.1,RNA-binding protein
+QSJ49_RS01600,WP_010903983.1,hypothetical protein
+QSJ49_RS01605,WP_010903984.1,ribonuclease R family protein
+QSJ49_RS01615,WP_010903985.1,30S ribosomal protein S10
+QSJ49_RS01620,WP_010903986.1,translation elongation factor EF-1 subunit alpha
+QSJ49_RS01625,WP_205251311.1,homoserine dehydrogenase
+QSJ49_RS01630,WP_205251312.1,ACT domain-containing protein
+QSJ49_RS01635,WP_010903990.1,elongation factor EF-2
+QSJ49_RS01640,WP_205251313.1,DUF5781 family protein
+QSJ49_RS01645,WP_010903992.1,30S ribosomal protein S7
+QSJ49_RS01650,WP_010903993.1,30S ribosomal protein S12
+QSJ49_RS01655,WP_010903994.1,NusA-like transcription termination signal-binding factor
+QSJ49_RS01660,WP_136361011.1,DNA-directed RNA polymerase subunit A''
+QSJ49_RS01665,WP_205251314.1,DNA-directed RNA polymerase subunit A'
+QSJ49_RS01670,WP_136361012.1,DNA-directed RNA polymerase subunit B
+QSJ49_RS01675,WP_010903998.1,DNA-directed RNA polymerase subunit B''
+QSJ49_RS01680,WP_010903999.1,DNA-directed RNA polymerase subunit H
+QSJ49_RS01690,WP_205251315.1,archaeosortase A
+QSJ49_RS01695,WP_205251316.1,hypothetical protein
+QSJ49_RS01700,WP_205251317.1,hypothetical protein
+QSJ49_RS01705,WP_205251318.1,TetR/AcrR family transcriptional regulator
+QSJ49_RS01710,WP_205251319.1,BGTF surface domain-containing protein
+QSJ49_RS01715,WP_229373382.1,hypothetical protein
+QSJ49_RS01720,WP_338416977.1,HVO_2072 family ArtA-dependent S-layer glycoprotein
+QSJ49_RS01725,WP_338416978.1,COG1361 S-layer family protein
+QSJ49_RS01730,WP_010901944.1,ABC transporter ATP-binding protein
+QSJ49_RS01735,WP_229373383.1,ABC transporter permease
+QSJ49_RS01740,WP_205251323.1,STT3 domain-containing protein
+QSJ49_RS01745,WP_205251324.1,glutamine--fructose-6-phosphate transaminase (isomerizing)
+QSJ49_RS01750,WP_205251325.1,bifunctional sugar-1-phosphate nucleotidylyltransferase/acetyltransferase
+QSJ49_RS01755,WP_205251326.1,bifunctional sugar-1-phosphate nucleotidylyltransferase/acetyltransferase
+QSJ49_RS01760,NA,sugar transferase
+QSJ49_RS01765,WP_205251328.1,hypothetical protein
+QSJ49_RS01770,WP_205251329.1,flippase
+QSJ49_RS01775,WP_205251330.1,hypothetical protein
+QSJ49_RS01780,WP_205251331.1,FkbM family methyltransferase
+QSJ49_RS01785,WP_205251332.1,glycosyltransferase family 4 protein
+QSJ49_RS01790,WP_205251333.1,sulfatase-like hydrolase/transferase
+QSJ49_RS01795,WP_338416979.1,sulfatase-like hydrolase/transferase
+QSJ49_RS01800,WP_338416980.1,sulfatase-like hydrolase/transferase
+QSJ49_RS01805,WP_338416981.1,O-antigen ligase family protein
+QSJ49_RS01810,WP_205251336.1,hypothetical protein
+QSJ49_RS01815,WP_205251337.1,glycosyltransferase family 4 protein
+QSJ49_RS01820,WP_205251338.1,glycosyltransferase
+QSJ49_RS01825,WP_205251339.1,SDR family oxidoreductase
+QSJ49_RS01830,WP_338416982.1,DUF4330 family protein
+QSJ49_RS01835,WP_136361056.1,hypothetical protein
+QSJ49_RS01840,WP_136361057.1,VanZ family protein
+QSJ49_RS01845,WP_205251340.1,molybdopterin synthase
+QSJ49_RS01850,WP_010902012.1,molybdopterin-synthase adenylyltransferase MoeB
+QSJ49_RS01855,WP_205251341.1,GTP 3'%2C8-cyclase MoaA
+QSJ49_RS01860,WP_136361060.1,molybdopterin biosynthesis protein
+QSJ49_RS01865,WP_205251342.1,gephyrin-like molybdotransferase Glp
+QSJ49_RS01870,WP_205251343.1,protein-L-isoaspartate O-methyltransferase
+QSJ49_RS01875,WP_136361063.1,hypothetical protein
+QSJ49_RS01880,WP_010902018.1,HVO_0476 family zinc finger protein
+QSJ49_RS01885,WP_205251344.1,aminopeptidase
+QSJ49_RS01890,WP_205251345.1,type II glyceraldehyde-3-phosphate dehydrogenase
+QSJ49_RS01895,WP_010902021.1,Hsp20/alpha crystallin family protein
+QSJ49_RS01900,WP_010902022.1,RimK family alpha-L-glutamate ligase
+QSJ49_RS01905,WP_010902023.1,50S ribosomal protein L16
+QSJ49_RS01910,WP_012289092.1,cold-shock protein
+QSJ49_RS01915,WP_010902025.1,HAD family hydrolase
+QSJ49_RS01920,WP_205251346.1,C-terminal binding protein
+QSJ49_RS01925,WP_229373384.1,hypothetical protein
+QSJ49_RS01930,WP_205251347.1,tyrosine-type recombinase/integrase
+QSJ49_RS01935,WP_205251348.1,hypothetical protein
+QSJ49_RS01940,WP_268825823.1,hypothetical protein
+QSJ49_RS01945,WP_205251349.1,hypothetical protein
+QSJ49_RS01955,NA,type IV pilin N-terminal domain-containing protein
+QSJ49_RS01960,WP_205251350.1,helix-turn-helix domain-containing protein
+QSJ49_RS01965,WP_010902034.1,SDR family oxidoreductase
+QSJ49_RS01975,WP_205251351.1,DUF192 domain-containing protein
+QSJ49_RS01980,WP_205251352.1,ABC transporter ATP-binding protein
+QSJ49_RS01985,WP_136361072.1,creatininase family protein
+QSJ49_RS01990,WP_136361073.1,DUF5790 family protein
+QSJ49_RS01995,WP_205251353.1,dihydroneopterin aldolase family protein
+QSJ49_RS02000,WP_205251354.1,NAD-dependent glucose-6-phosphate dehydrogenase Azf
+QSJ49_RS02005,WP_205251355.1,hypothetical protein
+QSJ49_RS02010,WP_012289100.1,M48 family metalloprotease
+QSJ49_RS02015,WP_229373386.1,hypothetical protein
+QSJ49_RS02020,WP_205251356.1,hypothetical protein
+QSJ49_RS02025,WP_205251357.1,hypothetical protein
+QSJ49_RS02035,WP_205251358.1,single-stranded DNA binding protein
+QSJ49_RS02040,WP_205251359.1,histone family protein
+QSJ49_RS02045,WP_010902051.1,histone deacetylase
+QSJ49_RS02050,WP_205251360.1,CCA tRNA nucleotidyltransferase
+QSJ49_RS02065,WP_205251361.1,hypothetical protein
+QSJ49_RS02070,WP_205251362.1,ABC transporter ATP-binding protein
+QSJ49_RS02075,WP_205251363.1,hypothetical protein
+QSJ49_RS02080,WP_229373387.1,hypothetical protein
+QSJ49_RS02085,WP_205251364.1,helix-turn-helix domain-containing protein
+QSJ49_RS02090,WP_205251365.1,DUF302 domain-containing protein
+QSJ49_RS02095,WP_010902060.1,hypothetical protein
+QSJ49_RS02100,WP_012289104.1,CopG family ribbon-helix-helix protein
+QSJ49_RS02105,WP_205251366.1,hypothetical protein
+QSJ49_RS02110,WP_205251367.1,cation-translocating P-type ATPase
+QSJ49_RS02115,WP_205251368.1,cytochrome c biogenesis protein CcdA
+QSJ49_RS02120,WP_205251369.1,TlpA disulfide reductase family protein
+QSJ49_RS02125,WP_010902066.1,SCO family protein
+QSJ49_RS02130,WP_010902067.1,rod shape-determining protein
+QSJ49_RS02135,WP_205251370.1,NAD(P)/FAD-dependent oxidoreductase
+QSJ49_RS02140,WP_010902069.1,helix-turn-helix domain-containing protein
+QSJ49_RS02145,WP_205251371.1,MFS transporter
+QSJ49_RS02150,WP_205251372.1,bifunctional 2-dehydro-3-deoxygluconokinase/2-dehydro-3-deoxygalactonokinase
+QSJ49_RS02155,WP_205251373.1,DNA mismatch repair endonuclease MutL
+QSJ49_RS02160,WP_205251374.1,bacterio-opsin activator domain-containing protein
+QSJ49_RS02165,WP_012289109.1,rubrerythrin-like domain-containing protein
+QSJ49_RS02170,WP_205251375.1,glutamate dehydrogenase GdhB
+QSJ49_RS02175,WP_205251376.1,AMP-binding protein
+QSJ49_RS02180,WP_205251377.1,DNA mismatch repair protein MutS
+QSJ49_RS02185,WP_205251378.1,AIR synthase-related protein
+QSJ49_RS02190,WP_205251379.1,archaeal proteasome endopeptidase complex subunit alpha
+QSJ49_RS02195,WP_205251380.1,thioredoxin family protein
+QSJ49_RS02200,WP_205251381.1,DNA-directed RNA polymerase subunit epsilon
+QSJ49_RS02205,WP_010902081.1,DsbA family protein
+QSJ49_RS02210,WP_205251382.1,endonuclease NucS
+QSJ49_RS02215,WP_205251383.1,DNA mismatch repair protein MutS
+QSJ49_RS02220,WP_229373389.1,amino acid permease
+QSJ49_RS02225,WP_205251385.1,TrkA family potassium uptake protein
+QSJ49_RS02230,WP_010902086.1,GNAT family N-acetyltransferase
+QSJ49_RS02235,WP_010902087.1,50S ribosomal protein L15e
+QSJ49_RS02240,WP_010902088.1,restriction endonuclease
+QSJ49_RS02245,WP_010902089.1,RIO1 family regulatory kinase/ATPase
+QSJ49_RS02250,WP_010902090.1,halorhodopsin
+QSJ49_RS02255,WP_010902091.1,biotin/lipoate A/B protein ligase family protein
+QSJ49_RS02260,WP_010902092.1,deoxyribonuclease IV
+QSJ49_RS02265,WP_012289114.1,class I SAM-dependent methyltransferase
+QSJ49_RS02270,WP_205251386.1,aminopeptidase
+QSJ49_RS02275,WP_012289115.1,hypothetical protein
+QSJ49_RS02280,WP_205251387.1,MFS transporter
+QSJ49_RS02285,WP_010902097.1,HD domain-containing protein
+QSJ49_RS02290,WP_010902098.1,TIGR00269 family protein
+QSJ49_RS02295,WP_012289116.1,cell division protein FtsZ
+QSJ49_RS02300,WP_010902100.1,ribbon-helix-helix domain-containing protein
+QSJ49_RS02305,WP_205251388.1,zinc-ribbon domain-containing protein
+QSJ49_RS02315,WP_205251389.1,hypothetical protein
+QSJ49_RS02320,WP_205251390.1,lysylphosphatidylglycerol synthase transmembrane domain-containing protein
+QSJ49_RS02325,WP_205251391.1,hypothetical protein
+QSJ49_RS02330,WP_205251392.1,hypothetical protein
+QSJ49_RS02335,WP_205251393.1,hypothetical protein
+QSJ49_RS02340,WP_012289120.1,hypothetical protein
+QSJ49_RS02345,WP_205251394.1,archaellin/type IV pilin N-terminal domain-containing protein
+QSJ49_RS02350,WP_205251395.1,type II secretion system F family protein
+QSJ49_RS02355,WP_205251396.1,type II/IV secretion system ATPase subunit
+QSJ49_RS02360,WP_229373390.1,DUF4129 domain-containing protein
+QSJ49_RS02365,WP_205251397.1,hypothetical protein
+QSJ49_RS02370,WP_205251398.1,DUF58 domain-containing protein
+QSJ49_RS02375,WP_205251399.1,hypothetical protein
+QSJ49_RS02380,WP_205251400.1,AAA family ATPase
+QSJ49_RS02390,WP_205251401.1,trypsin-like peptidase domain-containing protein
+QSJ49_RS02395,WP_205251402.1,DUF192 domain-containing protein
+QSJ49_RS02400,WP_010902125.1,GMP synthase subunit A
+QSJ49_RS02405,WP_205251403.1,DUF2070 family protein
+QSJ49_RS02410,WP_205251404.1,MBL fold metallo-hydrolase
+QSJ49_RS02415,WP_010902128.1,DUF3194 domain-containing protein
+QSJ49_RS02420,WP_010902129.1,prefoldin subunit beta
+QSJ49_RS02425,WP_012289126.1,KEOPS complex subunit Pcc1
+QSJ49_RS02430,WP_010902130.1,DNA-directed RNA polymerase subunit P
+QSJ49_RS02435,WP_012289127.1,50S ribosomal protein L37ae
+QSJ49_RS02440,WP_205251405.1,hypothetical protein
+QSJ49_RS02445,WP_205251406.1,DUF2103 domain-containing protein
+QSJ49_RS02450,WP_205251407.1,tRNA pseudouridine(13) synthase TruD
+QSJ49_RS02455,WP_205251408.1,peptidyl-tRNA hydrolase Pth2
+QSJ49_RS02460,WP_205251409.1,YIP1 family protein
+QSJ49_RS02465,WP_010902137.1,dCTP deaminase
+QSJ49_RS02470,WP_010902138.1,thiamine-phosphate synthase family protein
+QSJ49_RS02475,WP_010902139.1,hypothetical protein
+QSJ49_RS02480,WP_205251410.1,DUF5059 domain-containing protein
+QSJ49_RS02485,WP_205251411.1,4-phosphopantoate--beta-alanine ligase
+QSJ49_RS02490,WP_205251412.1,sugar kinase
+QSJ49_RS02495,WP_205251413.1,phosphoglycerol geranylgeranyltransferase
+QSJ49_RS02500,WP_010902144.1,transcription initiation factor IIB
+QSJ49_RS02505,WP_205251414.1,ribonuclease HI
+QSJ49_RS02510,WP_205251415.1,rnhA operon protein
+QSJ49_RS02515,WP_205251416.1,PadR family transcriptional regulator
+QSJ49_RS02520,WP_010902148.1,inorganic diphosphatase
+QSJ49_RS02525,WP_205251417.1,bifunctional oligoribonuclease/PAP phosphatase NrnA
+QSJ49_RS02530,WP_010902151.1,alkaline phosphatase family protein
+QSJ49_RS02535,WP_010902152.1,tubulin/FtsZ family protein
+QSJ49_RS02540,WP_205251418.1,DUF5791 family protein
+QSJ49_RS02545,WP_205251419.1,SDR family oxidoreductase
+QSJ49_RS02550,WP_205251420.1,aldo/keto reductase
+QSJ49_RS02555,WP_012289129.1,MFS transporter
+QSJ49_RS02560,WP_205251421.1,glycosyl transferase family 2
+QSJ49_RS02565,WP_205251422.1,hypothetical protein
+QSJ49_RS02570,WP_205251423.1,CoA pyrophosphatase
+QSJ49_RS02575,WP_205251424.1,FAD-dependent oxidoreductase
+QSJ49_RS02580,WP_012289131.1,LLM class flavin-dependent oxidoreductase
+QSJ49_RS02585,WP_157849916.1,hypothetical protein
+QSJ49_RS02590,WP_205251425.1,FAD-binding oxidoreductase
+QSJ49_RS02595,WP_010902163.1,Hsp20/alpha crystallin family protein
+QSJ49_RS02600,WP_010902164.1,hypothetical protein
+QSJ49_RS02605,WP_205251426.1,DUF429 domain-containing protein
+QSJ49_RS02610,WP_136361084.1,radical SAM protein
+QSJ49_RS02615,WP_205251427.1,IS200/IS605-like element ISH22 family transposase
+QSJ49_RS02620,WP_010902167.1,RNA-guided endonuclease TnpB family protein
+QSJ49_RS02625,WP_010902168.1,TRAM domain-containing protein
+QSJ49_RS02630,WP_010902169.1,YkgJ family cysteine cluster protein
+QSJ49_RS02635,WP_205251428.1,MBL fold metallo-hydrolase
+QSJ49_RS02640,WP_010902171.1,helix-turn-helix domain-containing protein
+QSJ49_RS02645,WP_012289133.1,class I SAM-dependent methyltransferase
+QSJ49_RS02650,WP_010902173.1,glycosyltransferase
+QSJ49_RS02655,WP_010902174.1,amidohydrolase family protein
+QSJ49_RS02660,WP_010902175.1,TRIC cation channel family protein
+QSJ49_RS02665,WP_205251429.1,S-adenosyl-l-methionine hydroxide adenosyltransferase family protein
+QSJ49_RS02670,WP_205251430.1,nicotinamide-nucleotide adenylyltransferase
+QSJ49_RS02675,WP_010902178.1,ATP-dependent protease LonB
+QSJ49_RS02680,WP_205251431.1,MGMT family protein
+QSJ49_RS02685,WP_205251432.1,indole-3-glycerol phosphate synthase
+QSJ49_RS02690,WP_205251433.1,tryptophan synthase subunit beta
+QSJ49_RS02695,WP_205251434.1,tryptophan synthase subunit alpha
+QSJ49_RS02700,WP_010902183.1,2-amino-3%2C7-dideoxy-D-threo-hept-6-ulosonate synthase
+QSJ49_RS02705,WP_012289137.1,hypothetical protein
+QSJ49_RS02710,WP_010902185.1,3-dehydroquinate synthase II
+QSJ49_RS02715,WP_012289138.1,zinc ribbon domain-containing protein
+QSJ49_RS02720,WP_012289139.1,type I 3-dehydroquinate dehydratase
+QSJ49_RS02725,WP_010902188.1,transcription initiation factor IIB
+QSJ49_RS02730,WP_205251435.1,cobalamin-binding protein
+QSJ49_RS02735,WP_205251436.1,flippase-like domain-containing protein
+QSJ49_RS02740,WP_010902191.1,hypothetical protein
+QSJ49_RS02745,WP_205251437.1,winged helix-turn-helix transcriptional regulator
+QSJ49_RS02750,WP_010902193.1,SPFH domain-containing protein
+QSJ49_RS02755,WP_010902194.1,NfeD family protein
+QSJ49_RS02760,WP_010902195.1,hypothetical protein
+QSJ49_RS02765,WP_010902196.1,pyruvate kinase
+QSJ49_RS02770,WP_205251438.1,methionine--tRNA ligase
+QSJ49_RS02775,WP_205251439.1,tyrosine decarboxylase MfnA
+QSJ49_RS02780,WP_205251440.1,M48 family metallopeptidase
+QSJ49_RS02785,WP_205251441.1,pyruvate%2C water dikinase
+QSJ49_RS02790,WP_010902201.1,hypothetical protein
+QSJ49_RS02795,WP_205251442.1,PhzF family phenazine biosynthesis protein
+QSJ49_RS02800,WP_205251443.1,hypothetical protein
+QSJ49_RS02805,WP_010902203.1,phosphoribosyltransferase
+QSJ49_RS02810,WP_205251444.1,S-methyl-5'-thioadenosine phosphorylase
+QSJ49_RS02815,WP_010902206.1,hypothetical protein
+QSJ49_RS02820,WP_205251445.1,ScpA family protein
+QSJ49_RS02825,WP_205251446.1,chromosome segregation protein SMC
+QSJ49_RS02830,WP_205251447.1,hypothetical protein
+QSJ49_RS02835,WP_205251448.1,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB
+QSJ49_RS02840,WP_205251449.1,hypothetical protein
+QSJ49_RS02845,WP_229373391.1,hypothetical protein
+QSJ49_RS02850,WP_205251451.1,DNA topoisomerase I
+QSJ49_RS02855,WP_012289141.1,DNA repair protein NreA
+QSJ49_RS02860,WP_010902215.1,hypothetical protein
+QSJ49_RS02865,WP_205251452.1,type II CAAX endopeptidase family protein
+QSJ49_RS02870,WP_205251453.1,chemotaxis signal transducer protein MpcT
+QSJ49_RS02875,WP_012289142.1,DUF5789 family protein
+QSJ49_RS02880,WP_010902219.1,hypothetical protein
+QSJ49_RS02885,WP_205251454.1,DUF5788 family protein
+QSJ49_RS02890,WP_010902221.1,rhomboid family intramembrane serine protease
+QSJ49_RS02895,WP_010902222.1,endonuclease V
+QSJ49_RS02900,WP_205251455.1,SDR family oxidoreductase
+QSJ49_RS02905,WP_205251456.1,ArsA family ATPase
+QSJ49_RS02910,WP_010902225.1,nuclear transport factor 2 family protein
+QSJ49_RS02915,WP_205251457.1,CinA family protein
+QSJ49_RS02920,WP_205251458.1,metal-dependent hydrolase
+QSJ49_RS02925,WP_205251459.1,PHP domain-containing protein
+QSJ49_RS02930,WP_205251460.1,acyl-CoA dehydrogenase
+QSJ49_RS02935,WP_012289147.1,hypothetical protein
+QSJ49_RS02940,WP_010902230.1,transcription elongation factor Spt5
+QSJ49_RS02945,WP_205251461.1,protein translocase SEC61 complex subunit gamma
+QSJ49_RS02950,WP_010902232.1,cell division protein FtsZ
+QSJ49_RS02955,WP_205251462.1,D-aminoacyl-tRNA deacylase
+QSJ49_RS02960,WP_205251463.1,calcium/sodium antiporter
+QSJ49_RS02965,WP_205251464.1,shikimate dehydrogenase
+QSJ49_RS02970,WP_012289149.1,helix-hairpin-helix domain-containing protein
+QSJ49_RS02975,WP_205251465.1,aminodeoxychorismate synthase%2C component I
+QSJ49_RS02980,WP_205251466.1,aminodeoxychorismate/anthranilate synthase component II
+QSJ49_RS02985,WP_205251467.1,aminodeoxychorismate lyase
+QSJ49_RS02990,WP_010902240.1,Rieske (2Fe-2S) protein
+QSJ49_RS02995,WP_205251468.1,transcriptional regulator
+QSJ49_RS03000,WP_205251469.1,NDP-sugar synthase
+QSJ49_RS03005,WP_205251470.1,diphthine--ammonia ligase
+QSJ49_RS03010,WP_205251471.1,DUF373 family protein
+QSJ49_RS03015,WP_010902245.1,coiled-coil protein
+QSJ49_RS03020,WP_205251472.1,DUF371 domain-containing protein
+QSJ49_RS03025,WP_205251473.1,endonuclease III
+QSJ49_RS03030,WP_229373392.1,hypothetical protein
+QSJ49_RS03035,WP_205251474.1,beta-CASP ribonuclease aCPSF1
+QSJ49_RS03040,WP_010902250.1,hypothetical protein
+QSJ49_RS03045,WP_205251475.1,proline--tRNA ligase
+QSJ49_RS03050,WP_205251476.1,hypothetical protein
+QSJ49_RS03055,WP_010902253.1,SDR family oxidoreductase
+QSJ49_RS03060,WP_205251477.1,NAD(P)-dependent glycerol-1-phosphate dehydrogenase
+QSJ49_RS03065,WP_205251478.1,lysylphosphatidylglycerol synthase domain-containing protein
+QSJ49_RS03070,WP_205251479.1,M48 family metalloprotease
+QSJ49_RS03075,WP_205251480.1,S9 family peptidase
+QSJ49_RS03080,WP_205251481.1,glycosyltransferase
+QSJ49_RS03085,WP_205251482.1,dihydropteroate synthase
+QSJ49_RS03090,WP_205251483.1,formyltransferase family protein
+QSJ49_RS03095,WP_338416983.1,adenylosuccinate lyase
+QSJ49_RS03100,WP_010902262.1,metallophosphoesterase
+QSJ49_RS03105,WP_010902263.1,NYN domain-containing protein
+QSJ49_RS03110,WP_010902264.1,hypothetical protein
+QSJ49_RS03115,WP_205251485.1,PUA domain-containing protein
+QSJ49_RS03120,WP_205251486.1,cytochrome P450
+QSJ49_RS03125,WP_205251487.1,nascent polypeptide-associated complex protein
+QSJ49_RS03130,WP_010902268.1,tRNA (adenine-N1)-methyltransferase
+QSJ49_RS03135,WP_205251488.1,transcription factor S
+QSJ49_RS03140,WP_010902270.1,MFS transporter
+QSJ49_RS03145,WP_010902271.1,enoyl-CoA hydratase-related protein
+QSJ49_RS03150,WP_205251489.1,DUF5797 family protein
+QSJ49_RS03155,WP_205251490.1,DUF5787 family protein
+QSJ49_RS03160,WP_010902274.1,bis(5'-nucleosyl)-tetraphosphatase
+QSJ49_RS03165,WP_205251491.1,uS10/mL48 family ribosomal protein
+QSJ49_RS03170,WP_010902276.1,hypothetical protein
+QSJ49_RS03175,WP_010902277.1,Na+/H+ antiporter NhaC family protein
+QSJ49_RS03180,WP_205251492.1,amidohydrolase
+QSJ49_RS03185,WP_010902279.1,geranylgeranyl reductase family protein
+QSJ49_RS03190,WP_205251493.1,2Fe-2S iron-sulfur cluster-binding protein
+QSJ49_RS03195,WP_205251494.1,MBL fold metallo-hydrolase
+QSJ49_RS03200,WP_010902282.1,hypothetical protein
+QSJ49_RS03205,WP_205251495.1,mandelate racemase/muconate lactonizing enzyme family protein
+QSJ49_RS03210,WP_205251496.1,dihydrodipicolinate synthase family protein
+QSJ49_RS03215,WP_205251497.1,HAD hydrolase family protein
+QSJ49_RS03220,WP_010902286.1,glucose 1-dehydrogenase
+QSJ49_RS03225,WP_205251498.1,transcriptional regulator GfcR
+QSJ49_RS03230,WP_012289157.1,glutaredoxin
+QSJ49_RS03235,WP_049892486.1,phosphate signaling complex protein PhoU
+QSJ49_RS03240,WP_010902290.1,phosphate ABC transporter ATP-binding protein PstB
+QSJ49_RS03245,WP_205251499.1,phosphate ABC transporter permease PstA
+QSJ49_RS03250,WP_010902292.1,phosphate ABC transporter permease subunit PstC
+QSJ49_RS03255,WP_205251500.1,PstS family phosphate ABC transporter substrate-binding protein
+QSJ49_RS03260,WP_010902294.1,phosphate uptake regulator PhoU
+QSJ49_RS03265,WP_205251501.1,phosphoadenosine phosphosulfate reductase family protein
+QSJ49_RS03270,WP_010902296.1,aspartate--tRNA(Asn) ligase
+QSJ49_RS03275,WP_010902297.1,transcriptional regulator
+QSJ49_RS03280,WP_205251502.1,hypothetical protein
+QSJ49_RS03285,WP_205251503.1,ABC transporter ATP-binding protein
+QSJ49_RS03290,WP_205251504.1,ABC transporter permease
+QSJ49_RS03295,WP_012289160.1,aldo/keto reductase
+QSJ49_RS03300,WP_205251505.1,digeranylgeranylglycerophospholipid reductase
+QSJ49_RS03305,WP_205251506.1,hypothetical protein
+QSJ49_RS03310,WP_205251507.1,ABC transporter ATP-binding protein
+QSJ49_RS03315,WP_010902305.1,helix-turn-helix transcriptional regulator
+QSJ49_RS03320,WP_010902306.1,DUF2178 domain-containing protein
+QSJ49_RS03325,WP_010902307.1,2-oxoacid:ferredoxin oxidoreductase subunit beta
+QSJ49_RS03330,WP_010902308.1,2-oxoacid:acceptor oxidoreductase subunit alpha
+QSJ49_RS03335,WP_205251508.1,FAD-binding oxidoreductase
+QSJ49_RS03340,NA,NUDIX domain-containing protein
+QSJ49_RS03345,WP_205251509.1,methylmalonyl-CoA epimerase
+QSJ49_RS03350,WP_205251510.1,oxidoreductase
+QSJ49_RS03355,WP_205251511.1,methylmalonyl-CoA mutase family protein
+QSJ49_RS03360,WP_205251512.1,GNAT family N-acetyltransferase
+QSJ49_RS03365,WP_205251513.1,outer membrane lipoprotein carrier protein LolA
+QSJ49_RS03370,WP_205251514.1,AMP-binding protein
+QSJ49_RS03375,WP_205251515.1,hypothetical protein
+QSJ49_RS03380,WP_205251516.1,GNAT family protein
+QSJ49_RS03385,WP_205251517.1,GNAT family protein
+QSJ49_RS03390,WP_010902320.1,hypothetical protein
+QSJ49_RS03395,WP_205251518.1,molecular chaperone DnaJ
+QSJ49_RS03400,WP_205251519.1,molecular chaperone DnaK
+QSJ49_RS03405,WP_205251520.1,hypothetical protein
+QSJ49_RS03410,WP_205251521.1,nucleotide exchange factor GrpE
+QSJ49_RS03415,WP_205251522.1,hypothetical protein
+QSJ49_RS03420,WP_010902326.1,hypothetical protein
+QSJ49_RS03425,WP_205251523.1,RsmB/NOP family class I SAM-dependent RNA methyltransferase
+QSJ49_RS03430,WP_205251524.1,proteasome assembly chaperone family protein
+QSJ49_RS03435,WP_148265491.1,MFS transporter
+QSJ49_RS03440,WP_205251525.1,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme
+QSJ49_RS03445,WP_205251526.1,class I SAM-dependent methyltransferase
+QSJ49_RS03450,WP_205251527.1,redox-regulated ATPase YchF
+QSJ49_RS03455,WP_205251528.1,hemolysin family protein
+QSJ49_RS03460,WP_205251529.1,hypothetical protein
+QSJ49_RS03465,WP_205251530.1,polymer-forming cytoskeletal protein
+QSJ49_RS03470,WP_010902336.1,DUF5800 family protein
+QSJ49_RS03475,WP_010902337.1,hypothetical protein
+QSJ49_RS03480,WP_012289167.1,proteasome-activating nucleotidase
+QSJ49_RS03485,WP_205251531.1,helix-turn-helix domain-containing protein
+QSJ49_RS03490,WP_205251532.1,DNA double-strand break repair protein Mre11
+QSJ49_RS03495,WP_205251533.1,DNA double-strand break repair ATPase Rad50
+QSJ49_RS03500,WP_010902342.1,hypothetical protein
+QSJ49_RS03505,WP_205251534.1,hypothetical protein
+QSJ49_RS03510,WP_136361093.1,hypothetical protein
+QSJ49_RS03515,WP_010902344.1,hypothetical protein
+QSJ49_RS03520,WP_205251535.1,DNA-directed DNA polymerase
+QSJ49_RS03525,WP_205251536.1,SDR family oxidoreductase
+QSJ49_RS03530,WP_205251537.1,ABC transporter ATP-binding protein
+QSJ49_RS03535,WP_010902348.1,Fe-S cluster assembly protein SufB
+QSJ49_RS03540,WP_010902349.1,Fe-S cluster assembly protein SufD
+QSJ49_RS03545,WP_049892592.1,rubrerythrin
+QSJ49_RS03550,WP_010902351.1,metal-dependent transcriptional regulator
+QSJ49_RS03560,WP_049892487.1,hypothetical protein
+QSJ49_RS03565,WP_012289172.1,AIM24 family protein
+QSJ49_RS03570,WP_205251877.1,HD domain-containing protein
+QSJ49_RS03575,WP_012289174.1,TMEM165/GDT1 family protein
+QSJ49_RS03580,WP_012289175.1,metal-dependent transcriptional regulator
+QSJ49_RS03585,WP_205251538.1,TRAP transporter permease
+QSJ49_RS03590,WP_205251539.1,DUF1850 domain-containing protein
+QSJ49_RS03595,WP_205251540.1,TAXI family TRAP transporter solute-binding subunit
+QSJ49_RS03600,WP_205251541.1,threonine synthase
+QSJ49_RS03605,WP_205251542.1,NAD(P)/FAD-dependent oxidoreductase
+QSJ49_RS03610,WP_229373393.1,metallophosphoesterase
+QSJ49_RS03615,WP_012289178.1,J domain-containing protein
+QSJ49_RS03620,WP_205251543.1,proteasome assembly chaperone family protein
+QSJ49_RS03625,WP_010902365.1,RNA-protein complex protein Nop10
+QSJ49_RS03630,WP_010902366.1,translation initiation factor IF-2 subunit alpha
+QSJ49_RS03635,WP_010902367.1,30S ribosomal protein S27e
+QSJ49_RS03640,WP_012289179.1,50S ribosomal protein L44e
+QSJ49_RS03645,WP_205251544.1,hypothetical protein
+QSJ49_RS03650,WP_012289181.1,HAH_0734 family protein
+QSJ49_RS03655,WP_205251545.1,DUF2298 domain-containing protein
+QSJ49_RS03660,WP_205251546.1,lipopolysaccharide biosynthesis protein
+QSJ49_RS03670,WP_205251547.1,DJ-1/PfpI family protein
+QSJ49_RS03675,WP_010902373.1,hypoxanthine/guanine phosphoribosyltransferase
+QSJ49_RS03680,WP_205251548.1,Na(+)/H(+) antiporter subunit D
+QSJ49_RS03685,WP_205251549.1,cation:proton antiporter
+QSJ49_RS03690,WP_205251550.1,monovalent cation/H+ antiporter subunit D family protein
+QSJ49_RS03695,WP_010902377.1,cation:proton antiporter subunit C
+QSJ49_RS03700,WP_205251551.1,Na(+)/H(+) antiporter subunit B
+QSJ49_RS03705,WP_010902379.1,DUF4040 domain-containing protein
+QSJ49_RS03710,WP_205251552.1,monovalent cation/H(+) antiporter subunit G
+QSJ49_RS03715,WP_010902381.1,cation:proton antiporter
+QSJ49_RS03720,WP_010902382.1,monovalent cation/H+ antiporter subunit E
+QSJ49_RS03725,WP_205251553.1,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC
+QSJ49_RS03730,WP_012289184.1,SRPBCC family protein
+QSJ49_RS03735,WP_205251554.1,plastocyanin/azurin family copper-binding protein
+QSJ49_RS03740,WP_010902385.1,MTH865 family protein
+QSJ49_RS03745,WP_205251555.1,M28 family metallopeptidase
+QSJ49_RS03750,WP_205251556.1,NAD(+)/NADH kinase
+QSJ49_RS03755,WP_205251557.1,hypothetical protein
+QSJ49_RS03760,WP_010902389.1,hypothetical protein
+QSJ49_RS03765,WP_010902390.1,hypothetical protein
+QSJ49_RS03770,WP_205251558.1,cytochrome bc complex cytochrome b subunit
+QSJ49_RS03775,WP_010902392.1,cytochrome bc complex cytochrome b subunit
+QSJ49_RS03780,WP_010902393.1,ubiquinol-cytochrome c reductase iron-sulfur subunit
+QSJ49_RS03785,WP_010902394.1,hypothetical protein
+QSJ49_RS03790,WP_010902395.1,plastocyanin/azurin family copper-binding protein
+QSJ49_RS03795,WP_205251559.1,hypothetical protein
+QSJ49_RS03800,WP_205251560.1,hypothetical protein
+QSJ49_RS03805,WP_205251561.1,helix-turn-helix domain-containing protein
+QSJ49_RS03810,WP_205251562.1,endonuclease III
+QSJ49_RS03815,WP_205251563.1,phosphomevalonate decarboxylase MvaD
+QSJ49_RS03820,WP_205251565.1,hypothetical protein
+QSJ49_RS03825,WP_205251566.1,VOC family protein
+QSJ49_RS03830,WP_205251567.1,DUF2797 domain-containing protein
+QSJ49_RS03835,WP_205251568.1,hypothetical protein
+QSJ49_RS03840,WP_205251569.1,glycosyltransferase
+QSJ49_RS03845,WP_267875147.1,glycosyltransferase family 4 protein
+QSJ49_RS03850,WP_010902407.1,ribonuclease P protein component 4
+QSJ49_RS03855,WP_010902408.1,YhbY family RNA-binding protein
+QSJ49_RS03860,WP_205251571.1,universal stress protein
+QSJ49_RS03870,WP_205251572.1,hypothetical protein
+QSJ49_RS03875,WP_010902410.1,DUF5798 family protein
+QSJ49_RS03880,WP_012289191.1,PLP-dependent cysteine synthase family protein
+QSJ49_RS03885,WP_205251573.1,CoA-binding protein
+QSJ49_RS03890,WP_010902413.1,hypothetical protein
+QSJ49_RS03895,WP_010902414.1,geranylgeranylglycerol-phosphate geranylgeranyltransferase
+QSJ49_RS03905,WP_205251574.1,hypothetical protein
+QSJ49_RS03910,WP_229373395.1,methyl-accepting chemotaxis protein
+QSJ49_RS03915,WP_205251575.1,NAD-binding protein
+QSJ49_RS03920,WP_229373397.1,hypothetical protein
+QSJ49_RS03925,WP_205251576.1,S49 family peptidase
+QSJ49_RS03930,WP_205251577.1,FAD-dependent oxidoreductase
+QSJ49_RS03935,WP_205251578.1,acyl-CoA carboxylase subunit beta
+QSJ49_RS03940,WP_205251579.1,DoxX family protein
+QSJ49_RS03945,WP_010902425.1,MaoC family dehydratase
+QSJ49_RS03950,WP_205251580.1,CoA ester lyase
+QSJ49_RS03955,WP_205251581.1,NADP-specific glutamate dehydrogenase GdhA1
+QSJ49_RS03960,WP_205251582.1,pyridoxal phosphate-dependent aminotransferase
+QSJ49_RS03965,WP_010902429.1,6%2C7-dimethyl-8-ribityllumazine synthase
+QSJ49_RS03970,WP_229373398.1,flippase activity-associated protein Agl23
+QSJ49_RS03975,WP_205251584.1,5-(carboxyamino)imidazole ribonucleotide synthase
+QSJ49_RS03980,WP_010902432.1,5-(carboxyamino)imidazole ribonucleotide mutase
+QSJ49_RS03985,WP_010902433.1,NADH-quinone oxidoreductase subunit A
+QSJ49_RS03990,WP_010902434.1,NADH-quinone oxidoreductase subunit B
+QSJ49_RS03995,WP_010902435.1,NADH-quinone oxidoreductase subunit D
+QSJ49_RS04000,WP_012289200.1,NADH-quinone oxidoreductase subunit H
+QSJ49_RS04005,WP_010902437.1,NADH-quinone oxidoreductase subunit I
+QSJ49_RS04010,WP_010902438.1,NADH-quinone oxidoreductase subunit J
+QSJ49_RS04015,WP_205251585.1,NADH-quinone oxidoreductase subunit J
+QSJ49_RS04020,WP_010902440.1,NADH-quinone oxidoreductase subunit NuoK
+QSJ49_RS04025,WP_010902441.1,NADH-quinone oxidoreductase subunit L
+QSJ49_RS04030,WP_205251586.1,NuoM family protein
+QSJ49_RS04035,WP_205251587.1,NADH-quinone oxidoreductase subunit N
+QSJ49_RS04040,WP_010902444.1,DHHA1 domain-containing protein
+QSJ49_RS04045,WP_010902445.1,ParB/RepB/Spo0J family partition protein
+QSJ49_RS04050,WP_205251589.1,hypothetical protein
+QSJ49_RS04055,WP_205251590.1,methylmalonyl-CoA mutase family protein
+QSJ49_RS04060,WP_010902448.1,GNAT family N-acetyltransferase
+QSJ49_RS04065,WP_229373400.1,hypothetical protein
+QSJ49_RS04070,WP_012289206.1,hypothetical protein
+QSJ49_RS04075,WP_010902450.1,cytochrome c oxidase subunit I
+QSJ49_RS04080,WP_010902451.1,DUF6684 family protein
+QSJ49_RS04085,WP_070807656.1,hypothetical protein
+QSJ49_RS04090,WP_205251591.1,heme-copper oxidase subunit III
+QSJ49_RS04095,WP_205251592.1,biotin--[acetyl-CoA-carboxylase] ligase
+QSJ49_RS04100,WP_010902455.1,cytochrome c oxidase subunit II
+QSJ49_RS04105,WP_010902456.1,heme o synthase
+QSJ49_RS04110,WP_205251593.1,ABC transporter ATP-binding protein
+QSJ49_RS04115,WP_205251594.1,ABC transporter ATP-binding protein
+QSJ49_RS04120,WP_010902459.1,ABC transporter permease
+QSJ49_RS04125,WP_205251595.1,hypothetical protein
+QSJ49_RS04130,WP_010902461.1,DUF420 domain-containing protein
+QSJ49_RS04135,WP_010902462.1,cobalamin B12-binding domain-containing protein
+QSJ49_RS04140,WP_205251596.1,methylmalonyl Co-A mutase-associated GTPase MeaB
+QSJ49_RS04145,WP_205251597.1,alpha/beta fold hydrolase
+QSJ49_RS04150,WP_205251598.1,Zn-ribbon domain-containing OB-fold protein
+QSJ49_RS04155,WP_205251599.1,thiolase domain-containing protein
+QSJ49_RS04160,WP_205251600.1,hypothetical protein
+QSJ49_RS04165,WP_205251601.1,acyl-CoA dehydrogenase
+QSJ49_RS04170,WP_205251602.1,phytoene/squalene synthase family protein
+QSJ49_RS04175,WP_205251603.1,3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+QSJ49_RS04180,WP_229373401.1,helix-hairpin-helix domain-containing protein
+QSJ49_RS04185,WP_010902472.1,class I fructose-bisphosphate aldolase
+QSJ49_RS04190,WP_205251605.1,class 1 fructose-1%2C6-bisphosphatase
+QSJ49_RS04195,WP_010902474.1,SOS response-associated peptidase
+QSJ49_RS04200,WP_229373402.1,ArsR family transcriptional regulator
+QSJ49_RS04205,WP_010902476.1,ABC transporter ATP-binding protein
+QSJ49_RS04210,WP_136361097.1,ABC transporter permease subunit
+QSJ49_RS04215,WP_205251607.1,ABC transporter permease
+QSJ49_RS04220,WP_010902479.1,DUF123 domain-containing protein
+QSJ49_RS04225,WP_205251608.1,RNA-guided endonuclease TnpB family protein
+QSJ49_RS04230,WP_205251609.1,DUF2080 family transposase-associated protein
+QSJ49_RS04235,WP_205251610.1,IS200/IS605 family transposase
+QSJ49_RS04240,WP_010902481.1,hypothetical protein
+QSJ49_RS04245,WP_205251611.1,heavy metal translocating P-type ATPase
+QSJ49_RS04250,WP_010902483.1,heavy-metal-associated domain-containing protein
+QSJ49_RS04255,WP_010902484.1,helix-turn-helix domain-containing protein
+QSJ49_RS04260,WP_010902485.1,helix-turn-helix domain-containing protein
+QSJ49_RS04265,WP_010902486.1,cryptochrome/photolyase family protein
+QSJ49_RS04270,WP_012289213.1,uracil-DNA glycosylase family protein
+QSJ49_RS04275,WP_227970915.1,hypothetical protein
+QSJ49_RS04280,WP_049892492.1,MBL fold metallo-hydrolase
+QSJ49_RS04285,WP_205251612.1,thioredoxin family protein
+QSJ49_RS04290,WP_205251613.1,O-methyltransferase
+QSJ49_RS04295,WP_010902492.1,phosphomethylpyrimidine synthase ThiC
+QSJ49_RS04300,WP_205251614.1,PAS domain-containing sensor histidine kinase
+QSJ49_RS04305,WP_010902494.1,hypothetical protein
+QSJ49_RS04310,WP_205251615.1,phosphoglycolate phosphatase
+QSJ49_RS04315,WP_229373403.1,HAD-IIA family hydrolase
+QSJ49_RS04320,WP_010902497.1,MATE family efflux transporter
+QSJ49_RS04325,WP_205251616.1,Xaa-Pro peptidase family protein
+QSJ49_RS04330,WP_010902499.1,hypothetical protein
+QSJ49_RS04335,WP_205251617.1,winged helix-turn-helix domain-containing protein
+QSJ49_RS04340,WP_010902501.1,TetR family transcriptional regulator C-terminal domain-containing protein
+QSJ49_RS04345,WP_010902502.1,MATE family efflux transporter
+QSJ49_RS04350,WP_010902503.1,DUF6663 family protein
+QSJ49_RS04355,WP_010902504.1,2-dehydropantoate 2-reductase
+QSJ49_RS04360,WP_010902505.1,carotenoid biosynthesis protein
+QSJ49_RS04365,WP_012289214.1,RNA 3'-terminal phosphate cyclase
+QSJ49_RS04370,WP_229373404.1,DUF1684 domain-containing protein
+QSJ49_RS04375,WP_010902508.1,transcription initiation factor IIB
+QSJ49_RS04380,WP_205251619.1,response regulator
+QSJ49_RS04385,WP_205251620.1,PAS domain S-box protein
+QSJ49_RS04390,WP_205251621.1,hypothetical protein
+QSJ49_RS04395,WP_010902512.1,hypothetical protein
+QSJ49_RS04400,WP_205251622.1,cyclase family protein
+QSJ49_RS04405,WP_010902514.1,hypothetical protein
+QSJ49_RS04410,WP_010902515.1,DICT sensory domain-containing protein
+QSJ49_RS04415,WP_012289215.1,universal stress protein
+QSJ49_RS04420,WP_010902517.1,SpoVR family protein
+QSJ49_RS04425,WP_136361122.1,YeaH/YhbH family protein
+QSJ49_RS04430,WP_010902519.1,PrkA family serine protein kinase
+QSJ49_RS04435,WP_010902520.1,PrkA family serine protein kinase
+QSJ49_RS04440,WP_205251623.1,GAF domain-containing protein
+QSJ49_RS04445,WP_010902522.1,PadR family transcriptional regulator
+QSJ49_RS04450,WP_205251624.1,NAD-dependent epimerase/dehydratase family protein
+QSJ49_RS04455,WP_010902524.1,inorganic phosphate transporter
+QSJ49_RS04460,WP_205251625.1,hypothetical protein
+QSJ49_RS04465,WP_205251626.1,tRNA (cytidine(56)-2'-O)-methyltransferase
+QSJ49_RS04470,WP_012289219.1,transcription factor
+QSJ49_RS04475,WP_136361126.1,DUF2110 family protein
+QSJ49_RS04480,WP_010902529.1,DUF5803 family protein
+QSJ49_RS04485,WP_205251627.1,competence/damage-inducible protein A
+QSJ49_RS04490,WP_205251628.1,undecaprenyl-diphosphatase
+QSJ49_RS04495,WP_205251629.1,ATP-NAD kinase family protein
+QSJ49_RS04500,WP_012289220.1,DUF5786 family protein
+QSJ49_RS04505,WP_010902535.1,phosphate uptake regulator PhoU
+QSJ49_RS04510,WP_010902536.1,hypothetical protein
+QSJ49_RS04515,WP_010902537.1,hypothetical protein
+QSJ49_RS04520,WP_136361129.1,SRPBCC family protein
+QSJ49_RS04525,WP_010902539.1,aldehyde dehydrogenase family protein
+QSJ49_RS04530,WP_012289221.1,RIO1 family regulatory kinase/ATPase
+QSJ49_RS04535,WP_205251630.1,acyl-CoA dehydrogenase family protein
+QSJ49_RS04540,WP_136361131.1,adenylyltransferase/cytidyltransferase family protein
+QSJ49_RS04545,WP_010902543.1,Mov34/MPN/PAD-1 family protein
+QSJ49_RS04550,WP_205251631.1,DHH family phosphoesterase
+QSJ49_RS04555,WP_229373406.1,phospholipase D-like domain-containing protein
+QSJ49_RS04560,WP_205251632.1,HEAT repeat domain-containing protein
+QSJ49_RS04565,WP_010902547.1,protein sorting system archaetidylserine synthase
+QSJ49_RS04570,WP_205251633.1,plastocyanin/azurin family copper-binding protein
+QSJ49_RS04575,WP_136361135.1,30S ribosomal protein S3ae
+QSJ49_RS04580,WP_012289224.1,KEOPS complex subunit Pcc1
+QSJ49_RS04585,WP_205251634.1,hypothetical protein
+QSJ49_RS04590,WP_010902552.1,30S ribosomal protein S15
+QSJ49_RS04600,WP_205251635.1,chemotaxis signal transducer protein Htr6
+QSJ49_RS04605,WP_205251636.1,BMP family protein
+QSJ49_RS04610,WP_010902555.1,plastocyanin/azurin family copper-binding protein
+QSJ49_RS04615,WP_010902556.1,PLP-dependent aspartate aminotransferase family protein
+QSJ49_RS04620,WP_205251637.1,Tat pathway signal protein
+QSJ49_RS04625,WP_010902558.1,ABC transporter ATP-binding protein
+QSJ49_RS04630,WP_205251638.1,ABC transporter permease
+QSJ49_RS04640,WP_205251639.1,twin-arginine translocase TatA/TatE family subunit
+QSJ49_RS04645,WP_136361142.1,HD domain-containing protein
+QSJ49_RS04650,WP_205251640.1,chemotaxis signal transducer protein Htr4
+QSJ49_RS04655,NA,NAD-dependent succinate-semialdehyde dehydrogenase
+QSJ49_RS04660,WP_148265493.1,hypothetical protein
+QSJ49_RS04665,WP_227970920.1,hypothetical protein
+QSJ49_RS04670,WP_205251642.1,chemotaxis signal transducer protein Htr18
+QSJ49_RS04675,WP_010902567.1,PotD/PotF family extracellular solute-binding protein
+QSJ49_RS04680,WP_205251643.1,SDR family oxidoreductase
+QSJ49_RS04685,WP_012289230.1,NADP-dependent oxidoreductase
+QSJ49_RS04690,WP_205251644.1,glycosyl hydrolase family 18 protein
+QSJ49_RS04695,WP_010902571.1,glycosyl hydrolase family 18 protein
+QSJ49_RS04700,WP_205251645.1,PKD domain-containing protein
+QSJ49_RS04710,WP_010902573.1,class I SAM-dependent methyltransferase
+QSJ49_RS04715,WP_338416984.1,type II secretion system F family protein
+QSJ49_RS04720,WP_012289232.1,type II/IV secretion system ATPase subunit
+QSJ49_RS04725,WP_010902576.1,molybdenum cofactor guanylyltransferase
+QSJ49_RS04730,WP_205251646.1,molybdopterin-guanine dinucleotide biosynthesis protein B
+QSJ49_RS04735,WP_010902578.1,dimethyl sulfoxide reductase transcriptional activator DmsR
+QSJ49_RS04740,WP_010902579.1,4Fe-4S ferredoxin N-terminal domain-containing protein
+QSJ49_RS04745,WP_205251647.1,molybdopterin-dependent oxidoreductase
+QSJ49_RS04750,WP_010902581.1,sulfate reduction electron transfer complex DsrMKJOP subunit DsrO
+QSJ49_RS04755,WP_205251648.1,NrfD/PsrC family molybdoenzyme membrane anchor subunit
+QSJ49_RS04760,WP_205251649.1,molecular chaperone
+QSJ49_RS04765,WP_205251650.1,DUF106 domain-containing protein
+QSJ49_RS04770,WP_010902585.1,metal-dependent transcriptional regulator
+QSJ49_RS04775,WP_205251651.1,hypothetical protein
+QSJ49_RS04780,WP_229373411.1,halocin C8-like domain-containing protein
+QSJ49_RS04785,WP_205251652.1,DUF5805 domain-containing protein
+QSJ49_RS04790,WP_205251653.1,tyrosine-type recombinase/integrase
+QSJ49_RS04795,WP_229373412.1,DUF262 domain-containing protein
+QSJ49_RS04800,NA,IS1595 family transposase
+QSJ49_RS04805,WP_205251655.1,carbonic anhydrase
+QSJ49_RS04810,WP_010902591.1,methyltransferase domain-containing protein
+QSJ49_RS04815,WP_205251656.1,HTTM domain-containing protein
+QSJ49_RS04820,WP_010902593.1,hypothetical protein
+QSJ49_RS04825,WP_205251657.1,hypothetical protein
+QSJ49_RS04830,WP_049892496.1,MBL fold metallo-hydrolase
+QSJ49_RS04835,WP_010902596.1,helix-turn-helix domain-containing protein
+QSJ49_RS04840,WP_010902597.1,YlbF family regulator
+QSJ49_RS04845,WP_205251658.1,diphthamide biosynthesis enzyme Dph2
+QSJ49_RS04850,WP_010902599.1,METTL5 family protein
+QSJ49_RS04855,WP_285265871.1,rhomboid family intramembrane serine protease
+QSJ49_RS04860,WP_235157850.1,DNA-directed RNA polymerase subunit L
+QSJ49_RS04865,WP_010902602.1,imidazole glycerol phosphate synthase subunit HisF
+QSJ49_RS04870,WP_070807663.1,universal stress protein
+QSJ49_RS04875,WP_010902604.1,hypothetical protein
+QSJ49_RS04880,WP_285253815.1,phosphoribosylformylglycinamidine synthase subunit PurL
+QSJ49_RS04885,WP_235157846.1,PHP domain-containing protein
+QSJ49_RS04890,WP_338416985.1,asparagine synthetase B
+QSJ49_RS04895,WP_235157841.1,NUDIX hydrolase
+QSJ49_RS04900,WP_010902609.1,transcription initiation factor IIB
+QSJ49_RS04905,WP_012289242.1,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC
+QSJ49_RS04910,WP_235158000.1,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA
+QSJ49_RS04915,WP_010902612.1,acyl-CoA thioesterase
+QSJ49_RS04920,WP_010902613.1,TraB/GumN family protein
+QSJ49_RS04925,WP_012289243.1,Zn-dependent protease
+QSJ49_RS04930,WP_205251660.1,phosphoribosylformylglycinamidine cyclo-ligase
+QSJ49_RS04935,WP_010902616.1,CBS domain-containing protein
+QSJ49_RS04940,WP_010902617.1,DUF555 domain-containing protein
+QSJ49_RS04945,WP_012289244.1,archaeal proteasome endopeptidase complex subunit beta
+QSJ49_RS04950,WP_205251661.1,ATP-dependent DNA ligase LigA
+QSJ49_RS04955,WP_205251662.1,HAD-IIA family hydrolase
+QSJ49_RS04960,WP_205251663.1,MBL fold metallo-hydrolase
+QSJ49_RS04965,WP_010902622.1,DNA topoisomerase IV subunit A
+QSJ49_RS04970,WP_205251664.1,DNA topoisomerase VI subunit B
+QSJ49_RS04975,WP_205251665.1,DNA topoisomerase (ATP-hydrolyzing) subunit B
+QSJ49_RS04980,WP_205251666.1,DNA gyrase subunit A
+QSJ49_RS04985,WP_010902626.1,Rrf2 family transcriptional regulator
+QSJ49_RS04990,WP_205251667.1,NAD(P)/FAD-dependent oxidoreductase
+QSJ49_RS04995,WP_205251668.1,hypothetical protein
+QSJ49_RS05000,WP_205251669.1,GrpB family protein
+QSJ49_RS05005,WP_010902630.1,nucleoside phosphorylase
+QSJ49_RS05010,WP_010902631.1,cytidine deaminase
+QSJ49_RS05015,WP_136361262.1,ABC transporter permease
+QSJ49_RS05020,WP_010902633.1,ABC transporter permease
+QSJ49_RS05025,WP_010902634.1,ABC transporter ATP-binding protein
+QSJ49_RS05030,WP_205251670.1,BMP family protein
+QSJ49_RS05035,WP_205251671.1,phosphopentomutase/phosphoglucosamine mutase
+QSJ49_RS05040,WP_010902637.1,DUF5793 family protein
+QSJ49_RS05045,WP_010902638.1,hypothetical protein
+QSJ49_RS05050,WP_229373413.1,sodium/proline symporter
+QSJ49_RS05055,WP_205251673.1,hypothetical protein
+QSJ49_RS05060,WP_010902641.1,hypothetical protein
+QSJ49_RS05065,WP_205251674.1,hypothetical protein
+QSJ49_RS05070,WP_205251675.1,iron transporter
+QSJ49_RS05075,WP_229373414.1,aminotransferase class V-fold PLP-dependent enzyme
+QSJ49_RS05080,WP_205251676.1,ATP-binding protein
+QSJ49_RS05085,WP_205251677.1,response regulator
+QSJ49_RS05090,WP_010902647.1,dolichyl-phosphate hexose transferase
+QSJ49_RS05095,WP_205251678.1,glycosyltransferase family 39 protein
+QSJ49_RS05100,WP_205251679.1,ABC transporter ATP-binding protein
+QSJ49_RS05105,WP_010902650.1,iron ABC transporter permease
+QSJ49_RS05110,WP_205251680.1,iron ABC transporter substrate-binding protein
+QSJ49_RS05115,WP_012289248.1,hypothetical protein
+QSJ49_RS05120,WP_010902654.1,hypothetical protein
+QSJ49_RS05125,WP_229373415.1,protein kinase
+QSJ49_RS05130,WP_136361278.1,LLM class flavin-dependent oxidoreductase
+QSJ49_RS05135,WP_205251681.1,thiolase family protein
+QSJ49_RS05140,WP_136361279.1,OB-fold domain-containing protein
+QSJ49_RS05145,WP_010902659.1,NADH:flavin oxidoreductase/NADH oxidase
+QSJ49_RS05150,WP_010902660.1,hypothetical protein
+QSJ49_RS05155,WP_136361284.1,nitroreductase family protein
+QSJ49_RS05160,WP_338416895.1,nitrilase-related carbon-nitrogen hydrolase
+QSJ49_RS05165,WP_010902663.1,aldehyde dehydrogenase family protein
+QSJ49_RS05170,WP_285253606.1,ZIP family metal transporter
+QSJ49_RS05175,WP_235262762.1,acetate--CoA ligase family protein
+QSJ49_RS05180,WP_010902666.1,AAA family ATPase
+QSJ49_RS05185,WP_010902667.1,chemotaxis protein CheW
+QSJ49_RS05190,WP_010902668.1,helix-turn-helix domain-containing protein
+QSJ49_RS05195,WP_010902669.1,hypothetical protein
+QSJ49_RS05200,WP_205251687.1,MinD/ParA family protein
+QSJ49_RS05205,WP_235157990.1,archaellar assembly protein FlaJ
+QSJ49_RS05210,WP_205251689.1,type II/IV secretion system ATPase subunit
+QSJ49_RS05215,WP_010902673.1,ATPase domain-containing protein
+QSJ49_RS05220,WP_010902674.1,CARDB domain-containing protein
+QSJ49_RS05225,WP_136361293.1,fla cluster protein FlaF
+QSJ49_RS05230,WP_205251690.1,FlaD/FlaE family flagellar protein
+QSJ49_RS05235,WP_010902677.1,FlaD/FlaE family flagellar protein
+QSJ49_RS05240,WP_205251691.1,methyl-accepting chemotaxis protein
+QSJ49_RS05245,WP_136361296.1,flagella cluster protein
+QSJ49_RS05250,WP_338416896.1,archaellin/type IV pilin N-terminal domain-containing protein
+QSJ49_RS05255,WP_012289252.1,HEAT repeat domain-containing protein
+QSJ49_RS05260,WP_010902684.1,chemotaxis protein CheF1
+QSJ49_RS05265,WP_010902685.1,chemotaxis protein CheF2
+QSJ49_RS05270,WP_012289253.1,protein-glutamate O-methyltransferase CheR
+QSJ49_RS05275,WP_136361299.1,chemotaxis protein CheD
+QSJ49_RS05280,WP_010902688.1,chemotaxis protein CheC
+QSJ49_RS05285,WP_010902689.1,chemotaxis protein CheC
+QSJ49_RS05290,WP_205251694.1,chemotaxis protein CheA
+QSJ49_RS05295,WP_136361302.1,protein-glutamate methylesterase CheB
+QSJ49_RS05300,WP_010902692.1,chemotaxis protein CheY
+QSJ49_RS05305,WP_010902693.1,chemotaxis protein CheW
+QSJ49_RS05310,WP_136361303.1,hypothetical protein
+QSJ49_RS05315,WP_205251695.1,hypothetical protein
+QSJ49_RS05320,WP_010902696.1,pyridoxal phosphate-dependent aminotransferase
+QSJ49_RS05325,WP_010902697.1,PRC-barrel domain-containing protein
+QSJ49_RS05330,WP_205251696.1,DHH family phosphoesterase
+QSJ49_RS05340,WP_168731186.1,hypothetical protein
+QSJ49_RS05345,WP_205251697.1,hypothetical protein
+QSJ49_RS05350,WP_205251698.1,hypothetical protein
+QSJ49_RS05355,WP_205251699.1,hypothetical protein
+QSJ49_RS05360,WP_205251700.1,winged helix-turn-helix domain-containing protein
+QSJ49_RS05365,WP_205251701.1,hypothetical protein
+QSJ49_RS05370,WP_205251702.1,bacterio-opsin activator domain-containing protein
+QSJ49_RS05375,WP_136361311.1,acetate--CoA ligase
+QSJ49_RS05380,WP_205251703.1,aldo/keto reductase
+QSJ49_RS05385,WP_227970929.1,hypothetical protein
+QSJ49_RS05390,WP_049892500.1,hypothetical protein
+QSJ49_RS05395,WP_205251705.1,DUF2061 domain-containing protein
+QSJ49_RS05400,WP_012289261.1,IMP dehydrogenase
+QSJ49_RS05405,WP_136361314.1,DUF5794 domain-containing protein
+QSJ49_RS05410,WP_205251706.1,DUF5795 family protein
+QSJ49_RS05415,WP_010902717.1,hypothetical protein
+QSJ49_RS05425,WP_229373416.1,hypothetical protein
+QSJ49_RS05430,WP_205251708.1,hypothetical protein
+QSJ49_RS05435,WP_010902719.1,archaellin/type IV pilin N-terminal domain-containing protein
+QSJ49_RS05440,WP_205251709.1,archaellin/type IV pilin N-terminal domain-containing protein
+QSJ49_RS05445,WP_205251710.1,GTP cyclohydrolase III
+QSJ49_RS05450,WP_070807657.1,glutaredoxin
+QSJ49_RS05455,WP_205251712.1,chemotaxis signal transducer protein Htr13
+QSJ49_RS05460,WP_205251713.1,DNA polymerase IV
+QSJ49_RS05465,WP_205251714.1,hypothetical protein
+QSJ49_RS05470,WP_010902726.1,glycosyltransferase
+QSJ49_RS05475,WP_235218779.1,aldo/keto reductase
+QSJ49_RS05480,WP_205252636.1,CDP-alcohol phosphatidyltransferase family protein
+QSJ49_RS05485,WP_235158095.1,GTP cyclohydrolase III
+QSJ49_RS05490,WP_235158094.1,zinc-binding alcohol dehydrogenase
+QSJ49_RS05495,WP_205251720.1,6-carboxytetrahydropterin synthase
+QSJ49_RS05500,WP_235158093.1,methyltransferase domain-containing protein
+QSJ49_RS05505,WP_205251722.1,metal-dependent hydrolase
+QSJ49_RS05510,WP_010902734.1,triose-phosphate isomerase
+QSJ49_RS05515,WP_010902735.1,multiprotein bridging factor aMBF1
+QSJ49_RS05520,WP_010902736.1,CDP-alcohol phosphatidyltransferase family protein
+QSJ49_RS05525,WP_010902737.1,adenylate kinase family protein
+QSJ49_RS05530,WP_235158092.1,histidinol-phosphate transaminase
+QSJ49_RS05535,WP_012289268.1,hypothetical protein
+QSJ49_RS05540,WP_338416897.1,GMC family oxidoreductase
+QSJ49_RS05545,WP_010902741.1,gluconate 2-dehydrogenase subunit 3 family protein
+QSJ49_RS05550,WP_235158087.1,fumarylacetoacetate hydrolase family protein
+QSJ49_RS05555,WP_235158086.1,metal-dependent hydrolase
+QSJ49_RS05560,WP_205252643.1,hypothetical protein
+QSJ49_RS05565,WP_012289270.1,OsmC family protein
+QSJ49_RS05570,WP_235158085.1,DUF5799 family protein
+QSJ49_RS05575,WP_012289271.1,hypothetical protein
+QSJ49_RS05580,WP_010902748.1,DUF5779 family protein
+QSJ49_RS05585,WP_235158084.1,UDP-glucose 6-dehydrogenase AglM
+QSJ49_RS05590,WP_235158083.1,TRAM domain-containing protein
+QSJ49_RS05595,WP_235158082.1,hypothetical protein
+QSJ49_RS05600,WP_235158081.1,S-layer glycoprotein N-glycosyltransferase AglJ
+QSJ49_RS05605,WP_268824184.1,oligosaccharide flippase family protein
+QSJ49_RS05610,WP_338416898.1,sulfatase-like hydrolase/transferase
+QSJ49_RS05615,WP_205251739.1,UTP--glucose-1-phosphate uridylyltransferase AglF
+QSJ49_RS05620,WP_205251740.1,SDR family NAD(P)-dependent oxidoreductase
+QSJ49_RS05625,WP_205251741.1,GDP-mannose 4%2C6-dehydratase
+QSJ49_RS05630,WP_205251742.1,DegT/DnrJ/EryC1/StrS family aminotransferase
+QSJ49_RS05635,WP_338416899.1,N-acetylneuraminate synthase family protein
+QSJ49_RS05640,WP_205251744.1,formyltransferase family protein
+QSJ49_RS05645,WP_205251745.1,UDP-2%2C4-diacetamido-2%2C4%2C6-trideoxy-beta-L-altropyranose hydrolase
+QSJ49_RS05650,WP_205251746.1,glycosyltransferase family protein
+QSJ49_RS05655,WP_205251747.1,alkaline phosphatase family protein
+QSJ49_RS05660,WP_205251748.1,sugar phosphate nucleotidyltransferase
+QSJ49_RS05665,WP_229373418.1,NAD-dependent epimerase/dehydratase family protein
+QSJ49_RS05670,WP_205251749.1,glycosyltransferase
+QSJ49_RS05675,WP_205251750.1,hypothetical protein
+QSJ49_RS05680,WP_205251751.1,hypothetical protein
+QSJ49_RS05685,WP_205251752.1,glucosyl-dolichyl phosphate glucuronosyltransferase
+QSJ49_RS05690,WP_205251753.1,oligosaccharyl transferase%2C archaeosortase A system-associated
+QSJ49_RS05695,WP_012289273.1,DUF368 domain-containing protein
+QSJ49_RS05700,WP_235158068.1,FAD-dependent oxidoreductase
+QSJ49_RS05705,WP_010902769.1,transcription factor
+QSJ49_RS05710,WP_010902770.1,class I adenylate-forming enzyme family protein
+QSJ49_RS05715,WP_012289275.1,enolase C-terminal domain-like protein
+QSJ49_RS05720,WP_136361384.1,1%2C4-dihydroxy-2-naphthoate polyprenyltransferase
+QSJ49_RS05725,WP_235158066.1,BCCT family transporter
+QSJ49_RS05730,WP_010902774.1,1%2C4-dihydroxy-2-naphthoyl-CoA synthase
+QSJ49_RS05735,WP_235158065.1,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase
+QSJ49_RS05740,WP_010902776.1,isochorismate synthase MenF
+QSJ49_RS05745,WP_010902777.1,sulfite oxidase-like oxidoreductase
+QSJ49_RS05750,WP_010902778.1,hypothetical protein
+QSJ49_RS05755,WP_010902779.1,UPF0058 family protein
+QSJ49_RS05760,WP_235158063.1,cell division protein ZapB
+QSJ49_RS05765,WP_012289276.1,hypothetical protein
+QSJ49_RS05770,WP_235158062.1,adenylosuccinate synthase
+QSJ49_RS05775,WP_010902783.1,methytransferase partner Trm112
+QSJ49_RS05780,WP_136361388.1,hypothetical protein
+QSJ49_RS05785,WP_136361389.1,DR2241 family protein
+QSJ49_RS05790,WP_010902785.1,CbiX/SirB N-terminal domain-containing protein
+QSJ49_RS05795,WP_235158060.1,outer membrane lipoprotein carrier protein LolA
+QSJ49_RS05800,WP_012289278.1,hypothetical protein
+QSJ49_RS05805,WP_049892503.1,winged helix-turn-helix domain-containing protein
+QSJ49_RS05810,WP_235158058.1,cysteine--tRNA ligase
+QSJ49_RS05815,WP_235158057.1,YqcI/YcgG family protein
+QSJ49_RS05820,WP_235158055.1,cysteine hydrolase family protein
+QSJ49_RS05825,WP_235158054.1,tripartite tricarboxylate transporter permease
+QSJ49_RS05830,WP_010902793.1,50S ribosomal protein P1
+QSJ49_RS05835,WP_010902794.1,50S ribosomal protein L10
+QSJ49_RS05840,WP_010902795.1,50S ribosomal protein L1
+QSJ49_RS05845,WP_010902796.1,50S ribosomal protein L11
+QSJ49_RS05850,WP_010902797.1,hypothetical protein
+QSJ49_RS05855,WP_010902798.1,GTP-binding protein
+QSJ49_RS05860,WP_235158053.1,TIGR04206 family protein
+QSJ49_RS05865,WP_010902800.1,VOC family protein
+QSJ49_RS05870,WP_010902801.1,TrmO family methyltransferase
+QSJ49_RS05875,WP_205251769.1,diphthine synthase
+QSJ49_RS05880,WP_010902803.1,class I SAM-dependent methyltransferase family protein
+QSJ49_RS05890,WP_229373421.1,hypothetical protein
+QSJ49_RS05895,WP_010902805.1,SRPBCC family protein
+QSJ49_RS05900,WP_235158052.1,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme
+QSJ49_RS05905,WP_010902807.1,HTH-type transcriptional regulator LrpA1
+QSJ49_RS05910,WP_010902808.1,thiamine pyrophosphate-dependent enzyme
+QSJ49_RS05915,WP_012289282.1,2-oxoacid:acceptor oxidoreductase subunit alpha
+QSJ49_RS05920,WP_010902810.1,hypothetical protein
+QSJ49_RS05925,WP_010902811.1,Mrp/NBP35 family ATP-binding protein
+QSJ49_RS05935,WP_010902812.1,30S ribosomal protein S13
+QSJ49_RS05940,WP_010902813.1,30S ribosomal protein S4
+QSJ49_RS05945,WP_010902814.1,30S ribosomal protein S11
+QSJ49_RS05950,WP_010902815.1,DNA-directed RNA polymerase subunit D
+QSJ49_RS05960,WP_010902816.1,50S ribosomal protein L18e
+QSJ49_RS05965,WP_010902817.1,50S ribosomal protein L13
+QSJ49_RS05970,WP_010902818.1,30S ribosomal protein S9
+QSJ49_RS05975,WP_010902819.1,DNA-directed RNA polymerase subunit N
+QSJ49_RS05980,WP_010902820.1,DNA-directed RNA polymerase subunit K
+QSJ49_RS05985,WP_010902821.1,phosphopyruvate hydratase
+QSJ49_RS05990,WP_010902822.1,30S ribosomal protein S2
+QSJ49_RS05995,WP_227970933.1,VOC family protein
+QSJ49_RS06000,WP_010902824.1,mevalonate kinase
+QSJ49_RS06005,WP_136361402.1,isopentenyl phosphate kinase
+QSJ49_RS06010,WP_010902826.1,ribonuclease J
+QSJ49_RS06015,WP_010902827.1,polyprenyl synthetase family protein
+QSJ49_RS06020,WP_231851033.1,hypothetical protein
+QSJ49_RS06025,WP_285271116.1,glutamate--tRNA ligase
+QSJ49_RS06030,WP_338416900.1,DUF456 domain-containing protein
+QSJ49_RS06035,WP_338416901.1,tRNA(Met) cytidine acetyltransferase TmcA
+QSJ49_RS06040,WP_010902832.1,50S ribosomal protein L7Ae
+QSJ49_RS06045,WP_010902833.1,30S ribosomal protein S28e
+QSJ49_RS06050,WP_010902834.1,50S ribosomal protein L24e
+QSJ49_RS06055,WP_010902835.1,nucleoside-diphosphate kinase
+QSJ49_RS06060,WP_338416902.1,5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+QSJ49_RS06065,WP_010902837.1,HemK2/MTQ2 family protein methyltransferase
+QSJ49_RS06070,WP_235158048.1,mechanosensitive ion channel family protein
+QSJ49_RS06075,WP_136361406.1,16S ribosomal RNA methyltransferase A
+QSJ49_RS06080,WP_010902840.1,DUF655 domain-containing protein
+QSJ49_RS06085,WP_010902841.1,RNA polymerase Rpb4 family protein
+QSJ49_RS06090,WP_010902842.1,50S ribosomal protein L21e
+QSJ49_RS06095,WP_012289284.1,hypothetical protein
+QSJ49_RS06100,WP_338416903.1,cystathionine gamma-synthase
+QSJ49_RS06105,WP_012289285.1,elongation factor 1-beta
+QSJ49_RS06110,WP_010902845.1,HVO_2753 family zinc finger protein
+QSJ49_RS06115,WP_338416904.1,ATP-binding protein
+QSJ49_RS06120,WP_235262845.1,NOP5/NOP56 family protein
+QSJ49_RS06125,WP_010902848.1,fibrillarin-like rRNA/tRNA 2'-O-methyltransferase
+QSJ49_RS06130,WP_010902849.1,hypothetical protein
+QSJ49_RS06135,WP_136361412.1,AsnC family transcriptional regulator
+QSJ49_RS06140,WP_010902851.1,peptide-methionine (S)-S-oxide reductase MsrA
+QSJ49_RS06145,WP_285271483.1,archaellin/type IV pilin N-terminal domain-containing protein
+QSJ49_RS06150,WP_136361415.1,pyridoxamine 5'-phosphate oxidase family protein
+QSJ49_RS06155,WP_010902854.1,TIGR04347 family pseudo-SAM/SPASM protein
+QSJ49_RS06160,WP_010902855.1,Htur_1727 family rSAM-partnered candidate RiPP
+QSJ49_RS06165,WP_338416905.1,radical SAM protein
+QSJ49_RS06170,WP_136361417.1,multicopper oxidase family protein
+QSJ49_RS06175,WP_010902858.1,halocyanin domain-containing protein
+QSJ49_RS06180,WP_229373424.1,hypothetical protein
+QSJ49_RS06185,WP_010902860.1,superoxide dismutase
+QSJ49_RS06190,WP_010902861.1,acyl-CoA dehydrogenase family protein
+QSJ49_RS06195,WP_338416906.1,ATP-binding protein
+QSJ49_RS06200,WP_010902863.1,hypothetical protein
+QSJ49_RS06205,WP_136361422.1,nucleoside triphosphate pyrophosphohydrolase
+QSJ49_RS06210,WP_010902865.1,peroxiredoxin
+QSJ49_RS06215,WP_205251803.1,NAD(P)/FAD-dependent oxidoreductase
+QSJ49_RS06220,WP_010902867.1,hypothetical protein
+QSJ49_RS06225,WP_010902868.1,class II aldolase/adducin family protein
+QSJ49_RS06230,WP_205252692.1,HAD family hydrolase
+QSJ49_RS06235,WP_010902870.1,glutamate dehydrogenase GdhA2
+QSJ49_RS06240,WP_285265078.1,5'-deoxyadenosine deaminase
+QSJ49_RS06245,WP_012289291.1,hypothetical protein
+QSJ49_RS06250,WP_285271571.1,helix-turn-helix domain-containing protein
+QSJ49_RS06255,WP_338416907.1,urocanate hydratase
+QSJ49_RS06260,WP_010902874.1,formimidoylglutamase
+QSJ49_RS06265,WP_235157830.1,imidazolonepropionase
+QSJ49_RS06270,WP_136361429.1,histidine ammonia-lyase
+QSJ49_RS06275,WP_012289293.1,ribonuclease H-like domain-containing protein
+QSJ49_RS06285,WP_136361430.1,GNAT family N-acetyltransferase
+QSJ49_RS06290,WP_136361431.1,phosphoglycerate kinase
+QSJ49_RS06295,WP_338416908.1,CBS domain-containing protein
+QSJ49_RS06300,WP_136361433.1,uridine kinase
+QSJ49_RS06305,WP_010902883.1,DUF5785 family protein
+QSJ49_RS06315,WP_010902884.1,DNA replication protein Orc8
+QSJ49_RS06320,WP_338416909.1,DUF2064 domain-containing protein
+QSJ49_RS06325,WP_338416910.1,hypothetical protein
+QSJ49_RS06330,WP_136361436.1,uracil-DNA glycosylase family protein
+QSJ49_RS06335,WP_338416911.1,hypothetical protein
+QSJ49_RS06340,WP_338416912.1,chorismate synthase
+QSJ49_RS06345,WP_338416913.1,guanosine monophosphate reductase
+QSJ49_RS06350,WP_338416914.1,PAS domain S-box protein
+QSJ49_RS06355,WP_338416915.1,hypothetical protein
+QSJ49_RS06360,WP_338416916.1,3-phosphoshikimate 1-carboxyvinyltransferase
+QSJ49_RS06365,WP_338416917.1,Xaa-Pro peptidase family protein
+QSJ49_RS06370,WP_235263008.1,PAS domain-containing sensor histidine kinase
+QSJ49_RS06375,WP_235157811.1,prephenate dehydrogenase/arogenate dehydrogenase family protein
+QSJ49_RS06380,WP_235157808.1,class I SAM-dependent methyltransferase
+QSJ49_RS06385,WP_010902895.1,Lrp/AsnC family transcriptional regulator
+QSJ49_RS06390,WP_081422751.1,NAD-binding protein
+QSJ49_RS06395,WP_338416918.1,amino acid permease
+QSJ49_RS06400,WP_338416919.1,5'/3'-nucleotidase SurE
+QSJ49_RS06405,WP_235169081.1,hypothetical protein
+QSJ49_RS06410,WP_010902900.1,chorismate mutase
+QSJ49_RS06415,WP_338416920.1,shikimate kinase
+QSJ49_RS06420,WP_010902902.1,DUF5796 family protein
+QSJ49_RS06425,WP_012289298.1,hypothetical protein
+QSJ49_RS06430,WP_338416921.1,ABC transporter ATP-binding protein
+QSJ49_RS06435,WP_235157797.1,ABC transporter permease
+QSJ49_RS06440,WP_227970938.1,hypothetical protein
+QSJ49_RS06445,WP_338416922.1,DEAD/DEAH box helicase
+QSJ49_RS06450,WP_338416923.1,metallophosphoesterase
+QSJ49_RS06455,WP_338416924.1,hypothetical protein
+QSJ49_RS06460,WP_338416925.1,Single-stranded DNA binding protein
+QSJ49_RS06465,WP_136361455.1,2%2C5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase
+QSJ49_RS06470,WP_010902911.1,hypothetical protein
+QSJ49_RS06475,WP_205252721.1,FAD-dependent oxidoreductase
+QSJ49_RS06480,WP_010902913.1,DUF357 domain-containing protein
+QSJ49_RS06485,WP_010902914.1,hypothetical protein
+QSJ49_RS06490,WP_010902915.1,translation initiation factor IF-2 subunit beta
+QSJ49_RS06495,WP_010902916.1,UPF0058 family protein
+QSJ49_RS06500,WP_010902917.1,DUF555 domain-containing protein
+QSJ49_RS06505,WP_010902918.1,DNA-3-methyladenine glycosylase
+QSJ49_RS06510,WP_285265904.1,hypothetical protein
+QSJ49_RS06515,NA,IS6 family transposase
+QSJ49_RS06520,WP_338416926.1,hypothetical protein
+QSJ49_RS06525,WP_338416927.1,NAD(P)H-hydrate dehydratase
+QSJ49_RS06530,WP_338416928.1,cyclic pyranopterin monophosphate synthase MoaC
+QSJ49_RS06535,WP_338416929.1,GTPase HflX
+QSJ49_RS06540,WP_010902925.1,ribosome assembly factor SBDS
+QSJ49_RS06545,WP_010902926.1,Rpp14/Pop5 family protein
+QSJ49_RS06550,WP_205251822.1,class I SAM-dependent methyltransferase
+QSJ49_RS06555,WP_012289302.1,RNase P subunit p30 family protein
+QSJ49_RS06560,WP_205252728.1,TrkA family potassium uptake protein
+QSJ49_RS06565,WP_010902930.1,hypothetical protein
+QSJ49_RS06570,WP_010902931.1,TrkH family potassium uptake protein
+QSJ49_RS06575,WP_010902932.1,Lrp/AsnC family transcriptional regulator
+QSJ49_RS06580,WP_010902933.1,RNA-binding protein
+QSJ49_RS06585,WP_205251823.1,DUF1918 domain-containing protein
+QSJ49_RS06590,WP_010902935.1,hypothetical protein
+QSJ49_RS06595,WP_010902937.1,peptidylprolyl isomerase
+QSJ49_RS06600,WP_010902938.1,hypothetical protein
+QSJ49_RS06605,WP_010902939.1,class IV adenylate cyclase
+QSJ49_RS06610,WP_285265534.1,methionine adenosyltransferase
+QSJ49_RS06615,WP_338416930.1,tRNA sulfurtransferase
+QSJ49_RS06620,WP_235157784.1,DUF5804 family protein
+QSJ49_RS06625,WP_136361467.1,PLP-dependent cysteine synthase family protein
+QSJ49_RS06630,WP_012289304.1,thioredoxin family protein
+QSJ49_RS06635,WP_338416931.1,thioredoxin domain-containing protein
+QSJ49_RS06640,WP_285255027.1,phosphoribosylamine--glycine ligase
+QSJ49_RS06645,WP_010902947.1,FAD-binding protein
+QSJ49_RS06650,WP_010902948.1,succinate dehydrogenase/fumarate reductase iron-sulfur subunit
+QSJ49_RS06655,WP_010902949.1,succinate dehydrogenase hydrophobic membrane anchor subunit
+QSJ49_RS06660,WP_012289306.1,succinate dehydrogenase%2C cytochrome b556 subunit
+QSJ49_RS06665,WP_010902951.1,DNA-3-methyladenine glycosylase
+QSJ49_RS06670,WP_205251828.1,3-hydroxyacyl-CoA dehydrogenase/enoyl-CoA hydratase family protein
+QSJ49_RS06680,WP_010902953.1,hypothetical protein
+QSJ49_RS06685,WP_229373430.1,hypothetical protein
+QSJ49_RS06690,WP_227970939.1,hypothetical protein
+QSJ49_RS06695,WP_010902956.1,hypothetical protein
+QSJ49_RS06700,WP_205251830.1,hypothetical protein
+QSJ49_RS06705,WP_012289308.1,thrombospondin type 3 repeat-containing protein
+QSJ49_RS06710,WP_205251831.1,right-handed parallel beta-helix repeat-containing protein
+QSJ49_RS06715,WP_205251890.1,GtrA family protein
+QSJ49_RS06725,WP_205251832.1,FAD-dependent thymidylate synthase
+QSJ49_RS06730,WP_012289310.1,cupin domain-containing protein
+QSJ49_RS06735,WP_205251833.1,MBL fold metallo-hydrolase
+QSJ49_RS06740,WP_205251834.1,DUF5827 family protein
+QSJ49_RS06745,WP_229373431.1,hypothetical protein
+QSJ49_RS06750,WP_205251836.1,superoxide dismutase
+QSJ49_RS06755,WP_338416932.1,deoxyribodipyrimidine photo-lyase
+QSJ49_RS06760,WP_205251838.1,hotdog fold thioesterase
+QSJ49_RS06765,WP_205251839.1,sulfatase-like hydrolase/transferase
+QSJ49_RS06770,WP_205251840.1,long-chain fatty acid--CoA ligase
+QSJ49_RS06775,WP_285253123.1,N-acyl homoserine lactonase family protein
+QSJ49_RS06780,WP_285271477.1,SDR family NAD(P)-dependent oxidoreductase
+QSJ49_RS06785,WP_285271476.1,TIGR04024 family LLM class F420-dependent oxidoreductase
+QSJ49_RS06790,WP_235218856.1,6-hydroxymethylpterin diphosphokinase MptE-like protein
+QSJ49_RS06795,WP_205251845.1,dihydropteroate synthase
+QSJ49_RS06800,WP_205251846.1,hypothetical protein
+QSJ49_RS06805,WP_012289315.1,TrmJ/YjtD family RNA methyltransferase
+QSJ49_RS06810,WP_205251847.1,MaoC family dehydratase
+QSJ49_RS06815,WP_205251848.1,DMT family transporter
+QSJ49_RS06820,WP_205251849.1,Lrp/AsnC family transcriptional regulator
+QSJ49_RS06825,WP_285271553.1,Glu-tRNA(Gln) amidotransferase subunit GatE
+QSJ49_RS06830,WP_205251851.1,PH domain-containing protein
+QSJ49_RS06835,WP_205251852.1,PH domain-containing protein
+QSJ49_RS06840,WP_205251853.1,class II fumarate hydratase
+QSJ49_RS06845,WP_010902985.1,BolA family transcriptional regulator
+QSJ49_RS06850,WP_338416933.1,flap endonuclease-1
+QSJ49_RS06855,WP_338416934.1,GNAT family N-acetyltransferase
+QSJ49_RS06860,WP_010902988.1,DUF3054 domain-containing protein
+QSJ49_RS06865,WP_010902989.1,ornithine cyclodeaminase family protein
+QSJ49_RS06870,WP_205251857.1,presenilin family intramembrane aspartyl protease PSH
+QSJ49_RS06875,WP_010902991.1,H/ACA ribonucleoprotein complex subunit GAR1
+QSJ49_RS06880,WP_205251858.1,signal recognition particle subunit SRP19
+QSJ49_RS06885,WP_285271404.1,PGF-CTERM-anchored ABC transporter substrate-binding protein
+QSJ49_RS06890,WP_010902994.1,vitamin B12 ABC transporter permease BtuC
+QSJ49_RS06895,WP_136361471.1,heme ABC transporter ATP-binding protein
+QSJ49_RS06900,WP_205251861.1,hypothetical protein
+QSJ49_RS06905,WP_229373432.1,PAS domain S-box protein
+QSJ49_RS06910,WP_229373433.1,sensor histidine kinase
+QSJ49_RS06915,WP_205251863.1,hypothetical protein
+QSJ49_RS06920,WP_010903000.1,Lrp/AsnC family transcriptional regulator
+QSJ49_RS06925,WP_010903001.1,inositol monophosphatase
+QSJ49_RS06935,WP_012289318.1,hypothetical protein
+QSJ49_RS06940,WP_338416935.1,DUF5784 family protein
+QSJ49_RS06945,WP_338416936.1,hypothetical protein
+QSJ49_RS06950,WP_338416937.1,ATP-dependent DNA helicase
+QSJ49_RS06955,WP_136361476.1,HEWD family protein
+QSJ49_RS06960,WP_136361477.1,acyltransferase
+QSJ49_RS06965,WP_010903008.1,hypothetical protein
+QSJ49_RS06970,WP_205251866.1,mechanosensitive ion channel domain-containing protein
+QSJ49_RS06975,WP_205251867.1,diadenylate cyclase DacZ
+QSJ49_RS06980,WP_338416938.1,hypothetical protein
+QSJ49_RS06985,WP_338416939.1,N-6 DNA methylase
+QSJ49_RS06995,WP_010903011.1,transcription initiation factor IIB family protein
+QSJ49_RS07000,WP_010903012.1,phosphopantetheine adenylyltransferase
+QSJ49_RS07005,WP_010903013.1,winged helix-turn-helix domain-containing protein
+QSJ49_RS07010,WP_205251933.1,methyl-accepting chemotaxis protein
+QSJ49_RS07015,WP_205251871.1,glutamate--cysteine ligase
+QSJ49_RS07020,WP_010903016.1,GNAT family N-acetyltransferase
+QSJ49_RS07025,WP_010903017.1,DUF309 domain-containing protein
+QSJ49_RS07030,WP_010903018.1,UPF0179 family protein
+QSJ49_RS07035,WP_010903019.1,DUF5820 family protein
+QSJ49_RS07040,WP_010903020.1,helix-turn-helix domain-containing protein
+QSJ49_RS07045,WP_010903021.1,peptide-methionine (R)-S-oxide reductase MsrB
+QSJ49_RS07050,WP_235157764.1,DEAD/DEAH box helicase family protein
+QSJ49_RS07055,WP_010903023.1,thioesterase family protein
+QSJ49_RS07060,WP_205250787.1,5'-nucleotidase C-terminal domain-containing protein
+QSJ49_RS07065,WP_205250788.1,DUF63 family protein
+QSJ49_RS07070,WP_205250789.1,YcaO-like family protein
+QSJ49_RS07075,WP_012289323.1,DUF5821 family protein
+QSJ49_RS07080,WP_205250790.1,CHAT domain-containing protein
+QSJ49_RS07085,WP_205250791.1,serine hydroxymethyltransferase
+QSJ49_RS07090,WP_010903030.1,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+QSJ49_RS07095,WP_205250792.1,TFIIB-type zinc ribbon-containing protein
+QSJ49_RS07100,WP_205250793.1,alpha/beta fold hydrolase
+QSJ49_RS07105,WP_338416940.1,hypothetical protein
+QSJ49_RS07110,WP_205250795.1,DUF1028 domain-containing protein
+QSJ49_RS07115,WP_205250796.1,hypothetical protein
+QSJ49_RS07120,WP_205250797.1,amphi-Trp domain-containing protein
+QSJ49_RS07125,WP_010903037.1,PadR family transcriptional regulator
+QSJ49_RS07130,WP_205250798.1,hypothetical protein
+QSJ49_RS07135,WP_205250799.1,AI-2E family transporter
+QSJ49_RS07140,WP_205250800.1,2-phospho-L-lactate transferase
+QSJ49_RS07145,WP_205250801.1,tRNA-dihydrouridine synthase
+QSJ49_RS07150,WP_205250802.1,deoxyhypusine synthase
+QSJ49_RS07155,WP_010903043.1,30S ribosomal protein S17e
+QSJ49_RS07160,WP_205250803.1,aspartate-semialdehyde dehydrogenase
+QSJ49_RS07165,WP_285271486.1,hypothetical protein
+QSJ49_RS07170,WP_205250805.1,D-2-hydroxyacid dehydrogenase
+QSJ49_RS07175,WP_010903046.1,hypothetical protein
+QSJ49_RS07180,WP_010903047.1,hypothetical protein
+QSJ49_RS07185,WP_229373347.1,methyl-accepting chemotaxis protein
+QSJ49_RS07190,WP_338416941.1,histidinol dehydrogenase
+QSJ49_RS07195,WP_012289329.1,dodecin
+QSJ49_RS07200,WP_338416942.1,metal-dependent hydrolase
+QSJ49_RS07205,WP_010903052.1,DUF5816 domain-containing protein
+QSJ49_RS07210,WP_205250808.1,5'-nucleotidase C-terminal domain-containing protein
+QSJ49_RS07215,WP_205250809.1,transcriptional regulator TrmB
+QSJ49_RS07220,WP_205250810.1,translation initiation factor eIF-2B
+QSJ49_RS07225,WP_205250811.1,hypothetical protein
+QSJ49_RS07230,WP_235157758.1,RtcB family protein
+QSJ49_RS07235,WP_205250813.1,DoxX family protein
+QSJ49_RS07240,WP_205250814.1,archease
+QSJ49_RS07245,WP_205250815.1,N-acetyltransferase
+QSJ49_RS07250,WP_205250816.1,phytoene/squalene synthase family protein
+QSJ49_RS07255,WP_049892509.1,hypothetical protein
+QSJ49_RS07260,WP_227970876.1,hypothetical protein
+QSJ49_RS07265,WP_205250817.1,AAA family ATPase
+QSJ49_RS07270,WP_010903065.1,SRPBCC family protein
+QSJ49_RS07275,WP_205250818.1,bacterioopsin transcriptional activator Bat
+QSJ49_RS07280,WP_205250819.1,Brp/Blh family beta-carotene 15%2C15'-dioxygenase
+QSJ49_RS07285,WP_012289336.1,bacteriorhodopsin-regulating transcriptional regulator Brz
+QSJ49_RS07290,WP_010903069.1,bacteriorhodopsin
+QSJ49_RS07295,WP_010903070.1,hypothetical protein
+QSJ49_RS07300,WP_205250820.1,DNA primase small subunit PriS
+QSJ49_RS07305,WP_010903072.1,hypothetical protein
+QSJ49_RS07310,WP_205250821.1,CDC48 family AAA ATPase
+QSJ49_RS07315,WP_205250822.1,hypothetical protein
+QSJ49_RS07320,WP_205250823.1,alpha/beta hydrolase
+QSJ49_RS07325,WP_229373348.1,COG1361 S-layer family protein
+QSJ49_RS07330,WP_010903077.1,RND family transporter
+QSJ49_RS07335,WP_205250825.1,3-methyl-2-oxobutanoate hydroxymethyltransferase
+QSJ49_RS07340,WP_012289339.1,DUF5822 domain-containing protein
+QSJ49_RS07345,WP_012289340.1,HAD hydrolase-like protein
+QSJ49_RS07350,WP_010903081.1,serine O-acetyltransferase
+QSJ49_RS07355,WP_010903082.1,acyl-CoA dehydrogenase family protein
+QSJ49_RS07360,WP_010903083.1,multiprotein-bridging factor 1 family protein
+QSJ49_RS07365,WP_205250826.1,hypothetical protein
+QSJ49_RS07370,WP_010903085.1,hypothetical protein
+QSJ49_RS07375,WP_010903086.1,pyridoxamine 5'-phosphate oxidase family protein
+QSJ49_RS07380,WP_010903087.1,DNA-binding protein
+QSJ49_RS07385,WP_010903088.1,helix-turn-helix domain-containing protein
+QSJ49_RS07395,WP_010903089.1,DUF420 domain-containing protein
+QSJ49_RS07400,WP_205250827.1,amidophosphoribosyltransferase
+QSJ49_RS07405,WP_010903091.1,50S ribosomal protein L37e
+QSJ49_RS07410,WP_012289341.1,LSM domain-containing protein
+QSJ49_RS07415,WP_205250828.1,M42 family metallopeptidase
+QSJ49_RS07420,WP_205250829.1,hypothetical protein
+QSJ49_RS07425,WP_205250830.1,zinc-dependent metalloprotease
+QSJ49_RS07430,WP_012289342.1,hypothetical protein
+QSJ49_RS07435,WP_205250831.1,DEAD/DEAH box helicase
+QSJ49_RS07440,WP_205250832.1,MBL fold metallo-hydrolase
+QSJ49_RS07445,WP_205250833.1,heme-containing aerotactic transducer HemAT
+QSJ49_RS07450,WP_205250834.1,mRNA surveillance protein pelota
+QSJ49_RS07455,WP_205251893.1,ribosome rescue protein RqcH
+QSJ49_RS07460,WP_205250835.1,tRNA uridine(34) 5-carboxymethylaminomethyl modification radical SAM/GNAT enzyme Elp3
+QSJ49_RS07465,WP_205250836.1,OB-fold nucleic acid binding domain-containing protein
+QSJ49_RS07470,WP_012289345.1,hypothetical protein
+QSJ49_RS07475,WP_205250837.1,YIP1 family protein
+QSJ49_RS07480,WP_010903105.1,thymidine kinase
+QSJ49_RS07485,WP_010903106.1,universal stress protein
+QSJ49_RS07490,WP_205250838.1,DUF2892 domain-containing protein
+QSJ49_RS07495,WP_205250839.1,AAA family ATPase
+QSJ49_RS07500,WP_205250841.1,A/G-specific adenine glycosylase
+QSJ49_RS07505,WP_205250842.1,hypothetical protein
+QSJ49_RS07510,WP_010903109.1,chemotaxis signal transducer protein Htr8
+QSJ49_RS07515,WP_010903110.1,aspartate aminotransferase family protein
+QSJ49_RS07520,WP_229373434.1,MgtC/SapB family protein
+QSJ49_RS07525,WP_205250843.1,sodium-dependent transporter
+QSJ49_RS07530,WP_010903113.1,sodium-dependent transporter
+QSJ49_RS07535,WP_205250844.1,acyl-CoA carboxylase subunit beta
+QSJ49_RS07540,WP_338416943.1,acc operon protein
+QSJ49_RS07545,WP_205250846.1,acetyl/propionyl/methylcrotonyl-CoA carboxylase subunit alpha
+QSJ49_RS07550,WP_338416944.1,hypothetical protein
+QSJ49_RS07555,WP_168731175.1,hypothetical protein
+QSJ49_RS07560,WP_338416945.1,biotin--[acetyl-CoA-carboxylase] ligase
+QSJ49_RS07565,WP_010903120.1,universal stress protein
+QSJ49_RS07570,WP_205250849.1,HD domain-containing protein
+QSJ49_RS07575,WP_205250850.1,hypothetical protein
+QSJ49_RS07580,WP_010903123.1,SDR family oxidoreductase
+QSJ49_RS07585,WP_012289349.1,ADP-forming succinate--CoA ligase subunit beta
+QSJ49_RS07590,WP_010903125.1,succinate--CoA ligase subunit alpha
+QSJ49_RS07595,WP_010903126.1,site-specific DNA-methyltransferase
+QSJ49_RS07600,WP_205250851.1,chloride channel protein
+QSJ49_RS07605,WP_205250852.1,hypothetical protein
+QSJ49_RS07610,WP_205250853.1,hypothetical protein
+QSJ49_RS07620,WP_205250854.1,cob(I)yrinic acid a%2Cc-diamide adenosyltransferase
+QSJ49_RS07625,WP_010903129.1,glutaredoxin
+QSJ49_RS07630,WP_229373349.1,DUF547 domain-containing protein
+QSJ49_RS07635,WP_010903130.1,MarR family transcriptional regulator
+QSJ49_RS07640,WP_010903131.1,precorrin-6Y C5%2C15-methyltransferase (decarboxylating) subunit CbiT
+QSJ49_RS07645,WP_010903132.1,cobalt-factor II C(20)-methyltransferase
+QSJ49_RS07650,WP_010903133.1,cobalt-precorrin-4/precorrin-4 C(11)-methyltransferase
+QSJ49_RS07655,WP_136361491.1,cobalt-precorrin 5A hydrolase
+QSJ49_RS07660,WP_136361492.1,SAM-dependent methyltransferase
+QSJ49_RS07665,WP_205250855.1,precorrin-3B C(17)-methyltransferase
+QSJ49_RS07670,WP_205250856.1,ferredoxin
+QSJ49_RS07675,WP_136361494.1,cobalamin biosynthesis protein
+QSJ49_RS07680,WP_205250857.1,CbiX/SirB N-terminal domain-containing protein
+QSJ49_RS07685,WP_010903140.1,DUF3209 family protein
+QSJ49_RS07690,WP_205250858.1,transcriptional regulator
+QSJ49_RS07695,WP_205250859.1,VWA domain-containing protein
+QSJ49_RS07700,WP_205250860.1,cobaltochelatase subunit CobN
+QSJ49_RS07705,WP_205250861.1,precorrin-8X methylmutase
+QSJ49_RS07710,WP_205250862.1,cobalt-precorrin-7 (C(5))-methyltransferase
+QSJ49_RS07715,WP_205250863.1,sirohydrochlorin chelatase
+QSJ49_RS07720,WP_205250864.1,nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+QSJ49_RS07725,WP_205251895.1,cobyrinic acid a%2Cc-diamide synthase
+QSJ49_RS07730,WP_235157612.1,cob(I)yrinic acid a%2Cc-diamide adenosyltransferase
+QSJ49_RS07735,WP_205250865.1,cobyric acid synthase
+QSJ49_RS07740,WP_205250866.1,HAD family hydrolase
+QSJ49_RS07745,WP_205250867.1,cobalamin biosynthesis protein
+QSJ49_RS07750,WP_205250868.1,adenosylcobinamide-GDP ribazoletransferase
+QSJ49_RS07755,WP_197535909.1,NTP transferase domain-containing protein
+QSJ49_RS07760,WP_338416946.1,threonine-phosphate decarboxylase CobD
+QSJ49_RS07765,WP_338416947.1,adenosylcobinamide amidohydrolase CbiZ
+QSJ49_RS07770,NA,transposase
+QSJ49_RS07775,WP_338416948.1,hypothetical protein
+QSJ49_RS07780,NA,transposase
+QSJ49_RS07785,WP_010903161.1,hypothetical protein
+QSJ49_RS07790,WP_205250871.1,ABC transporter permease
+QSJ49_RS07795,WP_205250872.1,extracellular solute-binding protein
+QSJ49_RS07800,WP_010903164.1,Tfx family DNA-binding protein
+QSJ49_RS07805,WP_235262944.1,aminomethyl-transferring glycine dehydrogenase subunit GcvPB
+QSJ49_RS07810,WP_338416949.1,aminomethyl-transferring glycine dehydrogenase subunit GcvPA
+QSJ49_RS07815,WP_010903167.1,glycine cleavage system protein GcvH
+QSJ49_RS07820,WP_205250875.1,glycine cleavage system aminomethyltransferase GcvT
+QSJ49_RS07825,WP_205250876.1,hypothetical protein
+QSJ49_RS07830,NA,transposase
+QSJ49_RS07835,WP_010903169.1,chemotaxis protein CheC
+QSJ49_RS07840,WP_205250877.1,NYN domain-containing protein
+QSJ49_RS07845,WP_205250878.1,TIGR00266 family protein
+QSJ49_RS07850,WP_205250879.1,TatD family hydrolase
+QSJ49_RS07855,WP_205250880.1,DUF2150 family protein
+QSJ49_RS07860,WP_205250881.1,Ig-like domain-containing protein
+QSJ49_RS07865,WP_285253456.1,hydroxymethylglutaryl-CoA synthase
+QSJ49_RS07870,WP_205252020.1,NAD(P)H-dependent oxidoreductase
+QSJ49_RS07875,WP_012289362.1,helix-turn-helix domain-containing protein
+QSJ49_RS07880,WP_010903178.1,GNAT family N-acetyltransferase
+QSJ49_RS07885,WP_285253454.1,transporter
+QSJ49_RS07890,WP_285266139.1,pyridoxamine 5'-phosphate oxidase family protein
+QSJ49_RS07895,WP_205252023.1,replication factor C large subunit
+QSJ49_RS07900,WP_338416950.1,heme A synthase
+QSJ49_RS07905,WP_010903183.1,NADP-dependent malic enzyme
+QSJ49_RS07910,WP_010903184.1,hypothetical protein
+QSJ49_RS07915,WP_235168915.1,EamA family transporter
+QSJ49_RS07920,WP_338416951.1,aldo/keto reductase
+QSJ49_RS07925,WP_010903187.1,hypothetical protein
+QSJ49_RS07930,WP_338416952.1,ABC transporter ATP-binding protein
+QSJ49_RS07935,WP_205250893.1,cobalt ECF transporter T component CbiQ
+QSJ49_RS07940,WP_205250894.1,energy-coupling factor ABC transporter substrate-binding protein
+QSJ49_RS07945,WP_205250895.1,energy-coupling factor ABC transporter permease
+QSJ49_RS07950,WP_229373350.1,plastocyanin/azurin family copper-binding protein
+QSJ49_RS07960,WP_205250896.1,hypothetical protein
+QSJ49_RS07965,WP_010903194.1,DUF5830 family protein
+QSJ49_RS07970,WP_205250897.1,VTT domain-containing protein
+QSJ49_RS07975,WP_010903196.1,HVO_2523 family zinc finger protein
+QSJ49_RS07980,WP_205250898.1,adenosylcobalamin-dependent ribonucleoside-diphosphate reductase
+QSJ49_RS07985,WP_010903198.1,hypothetical protein
+QSJ49_RS07990,WP_205250899.1,anthranilate synthase component II
+QSJ49_RS07995,WP_205250900.1,anthranilate synthase component I
+QSJ49_RS08000,WP_205250901.1,phosphoribosylanthranilate isomerase
+QSJ49_RS08005,WP_010903202.1,anthranilate phosphoribosyltransferase
+QSJ49_RS08015,WP_205250903.1,hypothetical protein
+QSJ49_RS08020,WP_205250904.1,hypothetical protein
+QSJ49_RS08025,WP_010903207.1,PGF-CTERM sorting domain-containing protein
+QSJ49_RS08030,WP_205250905.1,hypothetical protein
+QSJ49_RS08035,WP_205250906.1,universal stress protein
+QSJ49_RS08040,WP_205250907.1,sensory rhodopsin I transducer Htr1
+QSJ49_RS08045,WP_205250908.1,sensory rhodopsin I
+QSJ49_RS08050,WP_010903212.1,CBS domain-containing protein
+QSJ49_RS08055,WP_010903213.1,hypothetical protein
+QSJ49_RS08060,WP_010903214.1,DNA repair and recombination protein RadB
+QSJ49_RS08065,WP_205250909.1,sugar nucleotide-binding protein
+QSJ49_RS08070,WP_010903216.1,CDC48 family AAA ATPase
+QSJ49_RS08075,WP_010903217.1,30S ribosomal protein S8e
+QSJ49_RS08080,WP_010903218.1,DUF2240 family protein
+QSJ49_RS08085,WP_205250910.1,hypothetical protein
+QSJ49_RS08090,WP_205250911.1,orotidine-5'-phosphate decarboxylase
+QSJ49_RS08095,WP_205250912.1,hypothetical protein
+QSJ49_RS08100,WP_227970881.1,J domain-containing protein
+QSJ49_RS08105,WP_205250913.1,HAD family hydrolase
+QSJ49_RS08110,WP_205250914.1,GTPBP1 family GTP-binding protein
+QSJ49_RS08115,WP_205250915.1,hypothetical protein
+QSJ49_RS08120,WP_205250916.1,hypothetical protein
+QSJ49_RS08125,WP_010903227.1,phytoene/squalene synthase family protein
+QSJ49_RS08130,WP_205250917.1,bisanhydrobacterioruberin hydratase
+QSJ49_RS08135,WP_010903229.1,prenyltransferase
+QSJ49_RS08140,WP_205250918.1,phytoene desaturase family protein
+QSJ49_RS08145,WP_010903231.1,methenyltetrahydromethanopterin cyclohydrolase
+QSJ49_RS08150,WP_010903232.1,MFS transporter
+QSJ49_RS08160,WP_010903233.1,putative RNA uridine N3 methyltransferase
+QSJ49_RS08165,WP_010903234.1,50S ribosomal protein L3
+QSJ49_RS08170,WP_205250919.1,50S ribosomal protein L4
+QSJ49_RS08175,WP_010903236.1,50S ribosomal protein L23
+QSJ49_RS08180,WP_010903237.1,50S ribosomal protein L2
+QSJ49_RS08185,WP_010903238.1,30S ribosomal protein S19
+QSJ49_RS08190,WP_010903239.1,50S ribosomal protein L22
+QSJ49_RS08195,WP_010903240.1,30S ribosomal protein S3
+QSJ49_RS08200,WP_010903241.1,50S ribosomal protein L29
+QSJ49_RS08205,WP_010903242.1,ribonuclease P protein component 1
+QSJ49_RS08210,WP_010903243.1,30S ribosomal protein S17
+QSJ49_RS08215,WP_010903244.1,50S ribosomal protein L14
+QSJ49_RS08220,WP_010903245.1,50S ribosomal protein L24
+QSJ49_RS08225,WP_010903246.1,30S ribosomal protein S4e
+QSJ49_RS08230,WP_205250920.1,50S ribosomal protein L5
+QSJ49_RS08235,WP_010903248.1,30S ribosomal protein S14
+QSJ49_RS08240,WP_010903249.1,30S ribosomal protein S8
+QSJ49_RS08245,WP_010903250.1,50S ribosomal protein L6
+QSJ49_RS08250,WP_010903251.1,50S ribosomal protein L32e
+QSJ49_RS08255,WP_010903252.1,50S ribosomal protein L19e
+QSJ49_RS08260,WP_010903253.1,50S ribosomal protein L18
+QSJ49_RS08265,WP_010903254.1,30S ribosomal protein S5
+QSJ49_RS08270,WP_205250921.1,50S ribosomal protein L30
+QSJ49_RS08275,WP_010903256.1,uL15m family ribosomal protein
+QSJ49_RS08280,WP_205250922.1,preprotein translocase subunit SecY
+QSJ49_RS08285,WP_205250923.1,ABC transporter substrate-binding protein
+QSJ49_RS08290,WP_205250924.1,potassium transporter TrkG
+QSJ49_RS08295,WP_205250925.1,potassium transporter TrkG
+QSJ49_RS08300,WP_010903260.1,hypothetical protein
+QSJ49_RS08305,WP_010903261.1,adenylate kinase
+QSJ49_RS08310,WP_010903262.1,EMC3/TMCO1 family protein
+QSJ49_RS08315,WP_010903263.1,(d)CMP kinase
+QSJ49_RS08320,WP_205250926.1,RNA-guided pseudouridylation complex pseudouridine synthase subunit Cbf5
+QSJ49_RS08330,WP_205250927.1,pentapeptide repeat-containing protein
+QSJ49_RS08335,WP_205250928.1,methyl-accepting chemotaxis protein
+QSJ49_RS08340,WP_010903267.1,hypothetical protein
+QSJ49_RS08345,WP_205250929.1,MOSC domain-containing protein
+QSJ49_RS08350,WP_205250930.1,hypothetical protein
+QSJ49_RS08355,WP_010903270.1,HtlC
+QSJ49_RS08360,WP_205250931.1,hypothetical protein
+QSJ49_RS08365,WP_205250932.1,hypothetical protein
+QSJ49_RS08370,WP_205250933.1,transcription factor S
+QSJ49_RS08375,WP_205250934.1,hypothetical protein
+QSJ49_RS08380,WP_267875145.1,NUDIX domain-containing protein
+QSJ49_RS08385,WP_205250935.1,ZIP family metal transporter
+QSJ49_RS08390,WP_010903274.1,DUF2071 domain-containing protein
+QSJ49_RS08395,WP_010903275.1,SDR family oxidoreductase
+QSJ49_RS08400,WP_205250936.1,redox-regulated ATPase YchF
+QSJ49_RS08405,WP_205250937.1,PAS domain-containing protein
+QSJ49_RS08410,WP_010903278.1,universal stress protein
+QSJ49_RS08415,WP_205250938.1,deoxyribodipyrimidine photo-lyase
+QSJ49_RS08420,WP_205250939.1,phytoene desaturase family protein
+QSJ49_RS08425,WP_049892515.1,translation initiation factor eIF-1A
+QSJ49_RS08430,WP_010903282.1,hypothetical protein
+QSJ49_RS08435,WP_205250940.1,chemotaxis signal transducer protein Htr7
+QSJ49_RS08440,WP_205250941.1,chemotaxis signal transducer protein CosT
+QSJ49_RS08445,WP_229373355.1,glycine betaine ABC transporter substrate-binding protein
+QSJ49_RS08450,WP_267875136.1,hypothetical protein
+QSJ49_RS08455,WP_205250942.1,hypothetical protein
+QSJ49_RS08460,WP_205250943.1,sensory rhodopsin II
+QSJ49_RS08465,WP_205250944.1,sensory rhodopsin II transducer Htr2
+QSJ49_RS08470,WP_205250945.1,Nif3-like dinuclear metal center hexameric protein
+QSJ49_RS08475,WP_010903289.1,agmatinase
+QSJ49_RS08480,WP_010903290.1,translation initiation factor IF-5A
+QSJ49_RS08485,WP_205250946.1,creatininase family protein
+QSJ49_RS08490,WP_205250947.1,AarF/ABC1/UbiB kinase family protein
+QSJ49_RS08495,WP_205250948.1,Hsp20/alpha crystallin family protein
+QSJ49_RS08500,WP_205250949.1,HAD family hydrolase
+QSJ49_RS08505,WP_205250950.1,4a-hydroxytetrahydrobiopterin dehydratase
+QSJ49_RS08510,WP_010903296.1,glutamyl-tRNA reductase
+QSJ49_RS08515,WP_205250951.1,bifunctional precorrin-2 dehydrogenase/sirohydrochlorin ferrochelatase
+QSJ49_RS08520,WP_205250952.1,Lrp/AsnC family transcriptional regulator
+QSJ49_RS08525,WP_010903299.1,DUF5778 family protein
+QSJ49_RS08530,WP_010903300.1,polyprenyl diphosphate synthase
+QSJ49_RS08535,WP_012289377.1,undecaprenyl diphosphate synthase family protein
+QSJ49_RS08540,WP_012289378.1,TIGR00297 family protein
+QSJ49_RS08545,WP_205250953.1,DNA primase DnaG
+QSJ49_RS08550,WP_205250954.1,DUF3311 domain-containing protein
+QSJ49_RS08555,WP_205250955.1,sodium:solute symporter
+QSJ49_RS08560,WP_010903306.1,PadR family transcriptional regulator
+QSJ49_RS08565,WP_049892517.1,DUF6293 family protein
+QSJ49_RS08570,WP_010903309.1,DsrE family protein
+QSJ49_RS08575,WP_205250956.1,DUF1405 domain-containing protein
+QSJ49_RS08580,WP_010903311.1,pyridoxal 5'-phosphate synthase lyase subunit PdxS
+QSJ49_RS08585,WP_205250957.1,thermonuclease family protein
+QSJ49_RS08590,WP_235157615.1,homoserine kinase
+QSJ49_RS08595,WP_205250959.1,NAD(P)/FAD-dependent oxidoreductase
+QSJ49_RS08600,WP_205250960.1,DUF5518 domain-containing protein
+QSJ49_RS08605,WP_049892518.1,hypothetical protein
+QSJ49_RS08610,WP_205250961.1,DUF6149 family protein
+QSJ49_RS08615,WP_010903317.1,hypothetical protein
+QSJ49_RS08620,WP_205250962.1,Hsp20/alpha crystallin family protein
+QSJ49_RS08625,WP_205250963.1,hypothetical protein
+QSJ49_RS08630,WP_010903320.1,FAD/NAD(P)-binding oxidoreductase
+QSJ49_RS08635,WP_010903321.1,hypothetical protein
+QSJ49_RS08640,WP_010903322.1,hypothetical protein
+QSJ49_RS08645,WP_205250964.1,DUF5815 family protein
+QSJ49_RS08650,WP_205250965.1,hypothetical protein
+QSJ49_RS08655,WP_205250966.1,hypothetical protein
+QSJ49_RS08660,WP_205250967.1,carbamoyl-phosphate synthase large subunit
+QSJ49_RS08665,WP_010903326.1,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit
+QSJ49_RS08670,WP_010903327.1,Lrp/AsnC family transcriptional regulator
+QSJ49_RS08675,WP_205250968.1,NUDIX domain-containing protein
+QSJ49_RS08680,WP_205250969.1,desampylase
+QSJ49_RS08685,WP_010903330.1,hypothetical protein
+QSJ49_RS08690,WP_205250970.1,zinc-binding dehydrogenase
+QSJ49_RS08695,WP_205250971.1,molybdenum cofactor biosynthesis protein B
+QSJ49_RS08700,WP_205250972.1,5-formyltetrahydrofolate cyclo-ligase
+QSJ49_RS08705,WP_205250973.1,hypothetical protein
+QSJ49_RS08710,WP_010903335.1,hypothetical protein
+QSJ49_RS08715,WP_010903336.1,glutamine-hydrolyzing GMP synthase
+QSJ49_RS08720,WP_205250974.1,CTP synthase
+QSJ49_RS08725,WP_338416953.1,hypothetical protein
+QSJ49_RS08730,WP_205250976.1,alpha/beta hydrolase
+QSJ49_RS08735,WP_205250977.1,redoxin domain-containing protein
+QSJ49_RS08740,WP_205250978.1,threonine--tRNA ligase
+QSJ49_RS08745,WP_010903343.1,cold shock domain-containing protein
+QSJ49_RS08750,WP_205250979.1,dipeptide epimerase
+QSJ49_RS08755,WP_205250980.1,DUF1611 domain-containing protein
+QSJ49_RS08760,WP_049892519.1,HVO_0649 family zinc finger protein
+QSJ49_RS08765,WP_205250981.1,Vms1/Ankzf1 family peptidyl-tRNA hydrolase
+QSJ49_RS08770,WP_012289390.1,DUF5802 family protein
+QSJ49_RS08775,WP_010903348.1,ArsR family transcriptional regulator
+QSJ49_RS08780,WP_205250982.1,Glu-tRNA(Gln) amidotransferase subunit GatD
+QSJ49_RS08785,WP_010903350.1,GNAT family N-acetyltransferase
+QSJ49_RS08790,WP_205250983.1,glycerophosphodiester phosphodiesterase
+QSJ49_RS08795,WP_012289392.1,ubiquitin-like small modifier protein 1
+QSJ49_RS08800,WP_205250984.1,NAD-binding protein
+QSJ49_RS08805,WP_205250985.1,HPP family protein
+QSJ49_RS08810,WP_205250986.1,nucleoside phosphorylase
+QSJ49_RS08815,WP_010903356.1,carbohydrate kinase family protein
+QSJ49_RS08820,WP_205250987.1,DUF63 family protein
+QSJ49_RS08825,WP_205250988.1,ribose 1%2C5-bisphosphate isomerase
+QSJ49_RS08830,WP_205250989.1,chemotaxis signal transducer protein BasT
+QSJ49_RS08835,WP_205250990.1,chemotactic signal transduction system substrate-binding protein BasB
+QSJ49_RS08840,WP_205250991.1,deoxyribose-phosphate aldolase
+QSJ49_RS08845,WP_205250992.1,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase
+QSJ49_RS08850,WP_010903363.1,cation diffusion facilitator family transporter
+QSJ49_RS08855,WP_205250993.1,HIT domain-containing protein
+QSJ49_RS08860,WP_010903365.1,hypothetical protein
+QSJ49_RS08865,WP_010903366.1,type II methionyl aminopeptidase
+QSJ49_RS08870,WP_205250994.1,ABC transporter permease
+QSJ49_RS08875,WP_010903368.1,ABC transporter permease
+QSJ49_RS08880,WP_010903369.1,PotD/PotF family extracellular solute-binding protein
+QSJ49_RS08885,WP_205250995.1,ABC transporter ATP-binding protein
+QSJ49_RS08890,WP_010903371.1,isoaspartyl peptidase/L-asparaginase
+QSJ49_RS08895,WP_010903372.1,NADP-dependent isocitrate dehydrogenase
+QSJ49_RS08900,WP_205250996.1,DUF5817 domain-containing protein
+QSJ49_RS08905,WP_010903374.1,hydroxymethylglutaryl-CoA reductase (NADPH)
+QSJ49_RS08910,WP_010903375.1,MTH1187 family thiamine-binding protein
+QSJ49_RS08915,WP_205250997.1,thiamine ABC transporter substrate binding subunit
+QSJ49_RS08920,WP_338416954.1,amidohydrolase
+QSJ49_RS08925,WP_010903378.1,quinolinate synthase NadA
+QSJ49_RS08930,WP_205250999.1,FAD-dependent oxidoreductase
+QSJ49_RS08935,WP_205251000.1,carboxylating nicotinate-nucleotide diphosphorylase
+QSJ49_RS08940,WP_205251001.1,TrmB family transcriptional regulator
+QSJ49_RS08945,WP_205251002.1,multidrug efflux SMR transporter protein HsmR
+QSJ49_RS08950,WP_205251003.1,2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase
+QSJ49_RS08955,WP_010903384.1,hypothetical protein
+QSJ49_RS08960,WP_205251004.1,DNA double-strand break repair nuclease NurA
+QSJ49_RS08965,WP_010903387.1,ABC transporter ATP-binding protein
+QSJ49_RS08970,WP_205251005.1,hypothetical protein
+QSJ49_RS08975,WP_010903389.1,hypothetical protein
+QSJ49_RS08980,WP_205251006.1,ATP-binding protein
+QSJ49_RS08985,WP_012289398.1,universal stress protein
+QSJ49_RS08990,WP_205251007.1,KaiC domain-containing protein
+QSJ49_RS08995,WP_010903393.1,NAD(+)/NADH kinase
+QSJ49_RS09000,WP_010903394.1,GTP cyclohydrolase MptA
+QSJ49_RS09005,WP_010903396.1,TrmB family transcriptional regulator
+QSJ49_RS09010,WP_205251008.1,DUF255 domain-containing protein
+QSJ49_RS09015,WP_205251009.1,FxsA family protein
+QSJ49_RS09025,WP_227970882.1,hypothetical protein
+QSJ49_RS09030,WP_012289403.1,hypothetical protein
+QSJ49_RS09035,WP_010903401.1,hypothetical protein
+QSJ49_RS09040,WP_010903402.1,Lrp/AsnC family transcriptional regulator
+QSJ49_RS09045,WP_205251011.1,anthranilate phosphoribosyltransferase
+QSJ49_RS09050,WP_012289404.1,peptidylprolyl isomerase
+QSJ49_RS09055,WP_010903405.1,hypothetical protein
+QSJ49_RS09065,WP_205251012.1,nuclear transport factor 2 family protein
+QSJ49_RS09070,WP_010903407.1,heptaprenylglyceryl phosphate synthase
+QSJ49_RS09075,WP_205251013.1,CrcB family protein
+QSJ49_RS09080,WP_205251014.1,CrcB family protein
+QSJ49_RS09085,WP_205251015.1,DUF5813 family protein
+QSJ49_RS09090,WP_010903411.1,Lrp/AsnC ligand binding domain-containing protein
+QSJ49_RS09095,WP_205251016.1,TrkA family potassium uptake protein
+QSJ49_RS09100,WP_012289406.1,Lrp/AsnC ligand binding domain-containing protein
+QSJ49_RS09105,WP_049892524.1,thiamine pyrophosphate-dependent enzyme
+QSJ49_RS09110,WP_205251017.1,hypothetical protein
+QSJ49_RS09115,WP_010903416.1,dTMP kinase
+QSJ49_RS09120,WP_205251018.1,complex I NDUFA9 subunit family protein
+QSJ49_RS09125,WP_012289408.1,tubulin/FtsZ family protein
+QSJ49_RS09130,WP_205251019.1,hypothetical protein
+QSJ49_RS09135,WP_010903420.1,2-phospho-L-lactate guanylyltransferase
+QSJ49_RS09140,WP_205251020.1,7%2C8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit CofG
+QSJ49_RS09145,WP_205251021.1,7%2C8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit CofH
+QSJ49_RS09150,WP_205251022.1,phosphoribosylaminoimidazolesuccinocarboxamide synthase
+QSJ49_RS09155,WP_205251023.1,hypothetical protein
+QSJ49_RS09160,WP_205251024.1,hypothetical protein
+QSJ49_RS09165,WP_205251025.1,archaeosine biosynthesis radical SAM protein RaSEA
+QSJ49_RS09170,WP_205251026.1,hypothetical protein
+QSJ49_RS09175,WP_010903427.1,hypothetical protein
+QSJ49_RS09180,WP_010903428.1,phosphoribosylformylglycinamidine synthase I
+QSJ49_RS09185,WP_010903429.1,phosphoribosylformylglycinamidine synthase subunit PurS
+QSJ49_RS09190,WP_205251027.1,formyltransferase family protein
+QSJ49_RS09195,WP_205251028.1,hypothetical protein
+QSJ49_RS09200,WP_229373357.1,CBS domain-containing protein
+QSJ49_RS09205,WP_205251029.1,S8 family serine peptidase
+QSJ49_RS09210,WP_229373358.1,hypothetical protein
+QSJ49_RS09215,WP_205251031.1,surface glycoprotein
+QSJ49_RS09220,WP_205251032.1,ArsR family transcriptional regulator
+QSJ49_RS09225,WP_205251033.1,hypothetical protein
+QSJ49_RS09230,WP_205251034.1,archaeosine synthase subunit alpha
+QSJ49_RS09235,WP_010903439.1,tRNA guanosine(15) transglycosylase TgtA
+QSJ49_RS09240,WP_010903440.1,hypothetical protein
+QSJ49_RS09245,WP_205251035.1,NUDIX hydrolase
+QSJ49_RS09250,WP_205251036.1,AAA family ATPase
+QSJ49_RS09255,WP_205251037.1,ATP-binding protein
+QSJ49_RS09260,WP_010903445.1,hypothetical protein
+QSJ49_RS09265,WP_205251038.1,glycerol kinase GlpK
+QSJ49_RS09270,WP_205251039.1,anaerobic glycerol-3-phosphate dehydrogenase subunit GlpA
+QSJ49_RS09275,WP_205251040.1,glycerol-3-phosphate dehydrogenase subunit GlpB
+QSJ49_RS09280,WP_205251041.1,anaerobic glycerol-3-phosphate dehydrogenase subunit C
+QSJ49_RS09285,WP_205251042.1,hypothetical protein
+QSJ49_RS09290,WP_205251043.1,type IV pilin
+QSJ49_RS09295,WP_205251044.1,hypothetical protein
+QSJ49_RS09300,WP_205251045.1,hypothetical protein
+QSJ49_RS09305,WP_235218925.1,hypothetical protein
+QSJ49_RS09310,WP_229373359.1,tyrosine-type recombinase/integrase
+QSJ49_RS09320,WP_010903455.1,tRNA (pseudouridine(54)-N(1))-methyltransferase TrmY
+QSJ49_RS09325,WP_205251047.1,hypothetical protein
+QSJ49_RS09330,WP_205251048.1,tRNA pseudouridine(54/55) synthase Pus10
+QSJ49_RS09335,WP_010903458.1,ribonuclease HII
+QSJ49_RS09340,WP_205251049.1,Na+/H+ antiporter NhaC family protein
+QSJ49_RS09345,WP_205251050.1,endonuclease NucS
+QSJ49_RS09350,WP_205251051.1,preprotein translocase subunit SecD
+QSJ49_RS09355,WP_205251052.1,protein translocase subunit SecF
+QSJ49_RS09360,WP_205251053.1,DUF5812 family protein
+QSJ49_RS09365,WP_205251054.1,hypothetical protein
+QSJ49_RS09370,WP_205251055.1,glucose-6-phosphate isomerase
+QSJ49_RS09375,WP_205251056.1,CPBP family intramembrane glutamic endopeptidase
+QSJ49_RS09380,WP_012289414.1,NOB1 family endonuclease
+QSJ49_RS09385,WP_010903468.1,PRC-barrel domain-containing protein
+QSJ49_RS09390,WP_010903469.1,translation initiation factor IF-2
+QSJ49_RS09395,WP_205251057.1,hypothetical protein
+QSJ49_RS09400,WP_205251058.1,hypothetical protein
+QSJ49_RS09405,WP_010903470.1,DUF5811 family protein
+QSJ49_RS09410,WP_205251059.1,pyruvoyl-dependent arginine decarboxylase
+QSJ49_RS09415,WP_010903472.1,proteasome-activating nucleotidase
+QSJ49_RS09420,WP_205251060.1,oligoendopeptidase F
+QSJ49_RS09425,WP_205251061.1,M28 family metallopeptidase
+QSJ49_RS09430,WP_010903475.1,tRNA pseudouridine(38-40) synthase TruA
+QSJ49_RS09435,WP_010903476.1,histidine--tRNA ligase
+QSJ49_RS09440,WP_010903477.1,alpha hydrolase
+QSJ49_RS09445,WP_010903478.1,DNA-binding protein
+QSJ49_RS09450,WP_010903479.1,30S ribosomal protein S19e
+QSJ49_RS09455,WP_205251062.1,thiamine-phosphate kinase
+QSJ49_RS09460,WP_205251063.1,site-2 protease family protein
+QSJ49_RS09465,WP_010903482.1,hypothetical protein
+QSJ49_RS09470,WP_010903483.1,UMP kinase
+QSJ49_RS09475,WP_205251064.1,lysine--tRNA ligase
+QSJ49_RS09480,WP_205251065.1,site-2 protease family protein
+QSJ49_RS09485,WP_205251066.1,PadR family transcriptional regulator
+QSJ49_RS09490,WP_010903487.1,heme-binding protein
+QSJ49_RS09495,WP_205251067.1,hypothetical protein
+QSJ49_RS09500,WP_205251068.1,aldo/keto reductase
+QSJ49_RS09505,WP_205251069.1,hypothetical protein
+QSJ49_RS09510,WP_205251070.1,acyltransferase
+QSJ49_RS09515,WP_010903491.1,zinc ribbon domain-containing protein
+QSJ49_RS09520,WP_205251071.1,hypothetical protein
+QSJ49_RS09525,WP_205251072.1,hypothetical protein
+QSJ49_RS09535,WP_010903494.1,NAD+ synthase
+QSJ49_RS09540,WP_205251073.1,enoyl-CoA hydratase/isomerase family protein
+QSJ49_RS09545,WP_012289417.1,hypothetical protein
+QSJ49_RS09555,WP_010903497.1,hypothetical protein
+QSJ49_RS09560,WP_229373360.1,response regulator
+QSJ49_RS09565,WP_205251074.1,PAS domain S-box protein
+QSJ49_RS09570,WP_205251075.1,DUF6517 family protein
+QSJ49_RS09575,WP_205251076.1,hypothetical protein
+QSJ49_RS09580,WP_010903503.1,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase
+QSJ49_RS09585,WP_010903504.1,DUF5808 domain-containing protein
+QSJ49_RS09590,WP_010903505.1,bifunctional N(6)-L-threonylcarbamoyladenine synthase/serine/threonine protein kinase
+QSJ49_RS09595,WP_010903506.1,30S ribosomal protein S27ae
+QSJ49_RS09600,WP_010903507.1,30S ribosomal protein S24e
+QSJ49_RS09605,WP_012289421.1,DUF359 domain-containing protein
+QSJ49_RS09610,WP_010903509.1,transcription elongation factor subunit Spt4
+QSJ49_RS09615,WP_010903510.1,DNA-directed RNA polymerase
+QSJ49_RS09620,WP_010903511.1,hypothetical protein
+QSJ49_RS09625,WP_010903512.1,translation initiation factor IF-2 subunit gamma
+QSJ49_RS09630,WP_205251077.1,DUF5787 family protein
+QSJ49_RS09635,WP_205251078.1,MBL fold metallo-hydrolase
+QSJ49_RS09640,WP_205251079.1,ATP-binding protein
+QSJ49_RS09645,WP_205251080.1,flippase activity-associated protein Agl23
+QSJ49_RS09650,WP_205251081.1,thiolase family protein
+QSJ49_RS09655,WP_205251082.1,glycosyltransferase
+QSJ49_RS09660,WP_010903519.1,GtrA family protein
+QSJ49_RS09665,WP_205251083.1,cation:proton antiporter
+QSJ49_RS09670,WP_205251084.1,long-chain fatty acid--CoA ligase
+QSJ49_RS09675,WP_010903522.1,MBL fold metallo-hydrolase
+QSJ49_RS09680,WP_205251085.1,serine--tRNA ligase
+QSJ49_RS09685,WP_205251086.1,nuclear transport factor 2 family protein
+QSJ49_RS09690,WP_012289427.1,DUF367 family protein
+QSJ49_RS09695,WP_010903526.1,50S ribosomal protein L40e
+QSJ49_RS09700,WP_205251087.1,NUDIX domain-containing protein
+QSJ49_RS09705,WP_205251088.1,GNAT family protein
+QSJ49_RS09710,WP_205251089.1,MBL fold metallo-hydrolase
+QSJ49_RS09715,WP_010903530.1,DUF5786 family protein
+QSJ49_RS09720,WP_205251090.1,DUF99 family protein
+QSJ49_RS09725,WP_229373361.1,uracil-DNA glycosylase
+QSJ49_RS09730,WP_205251091.1,phosphonate ABC transporter%2C permease protein PhnE
+QSJ49_RS09735,WP_205251092.1,phosphonate ABC transporter ATP-binding protein
+QSJ49_RS09740,WP_205251093.1,phosphate/phosphite/phosphonate ABC transporter substrate-binding protein
+QSJ49_RS09745,WP_205251094.1,imidazole glycerol phosphate synthase subunit HisH
+QSJ49_RS09750,WP_012289430.1,hypothetical protein
+QSJ49_RS09755,WP_205251095.1,tRNA (guanine(26)-N(2))-dimethyltransferase
+QSJ49_RS09760,WP_205251096.1,ribonuclease BN
+QSJ49_RS09765,WP_205251097.1,phosphatase PAP2 family protein
+QSJ49_RS09770,WP_205251098.1,type I glutamate--ammonia ligase
+QSJ49_RS09775,WP_010903541.1,HTH-type transcriptional regulator Lrp
+QSJ49_RS09780,WP_012289432.1,thermosome subunit beta
+QSJ49_RS09785,WP_010903543.1,DUF418 domain-containing protein
+QSJ49_RS09795,WP_205251099.1,hypothetical protein
+QSJ49_RS09800,WP_010903545.1,Rid family detoxifying hydrolase
+QSJ49_RS09805,WP_010903546.1,threonine ammonia-lyase
+QSJ49_RS09810,WP_205251100.1,hypothetical protein
+QSJ49_RS09815,WP_205251101.1,citrate synthase
+QSJ49_RS09820,WP_205251102.1,potassium channel family protein
+QSJ49_RS09825,WP_010903550.1,hypothetical protein
+QSJ49_RS09830,WP_010903551.1,succinylglutamate desuccinylase/aspartoacylase family protein
+QSJ49_RS09835,WP_010903552.1,threonine synthase
+QSJ49_RS09840,WP_010903553.1,hypothetical protein
+QSJ49_RS09845,WP_205251103.1,tRNA(Ile)(2)-agmatinylcytidine synthase
+QSJ49_RS09850,WP_012289434.1,transcriptional regulator
+QSJ49_RS09855,WP_229373362.1,mechanosensitive ion channel family protein
+QSJ49_RS09860,WP_010903557.1,glutathione S-transferase N-terminal domain-containing protein
+QSJ49_RS09865,WP_010903558.1,NCS2 family permease
+QSJ49_RS09870,WP_010903559.1,phosphoribosyltransferase family protein
+QSJ49_RS09875,WP_205251104.1,orotate phosphoribosyltransferase
+QSJ49_RS09880,WP_012289436.1,CDP-2%2C3-bis-(O-geranylgeranyl)-sn-glycerol synthase
+QSJ49_RS09885,WP_010903562.1,proline dehydrogenase
+QSJ49_RS09890,WP_010903563.1,DUF502 domain-containing protein
+QSJ49_RS09895,WP_010903564.1,branched-chain amino acid transaminase
+QSJ49_RS09900,WP_205251105.1,Na+/H+ antiporter NhaC family protein
+QSJ49_RS09905,WP_205251106.1,Na+/H+ antiporter NhaC family protein
+QSJ49_RS09910,WP_205251107.1,3%2C4-dihydroxy-2-butanone-4-phosphate synthase
+QSJ49_RS09915,WP_205251108.1,DUF120 domain-containing protein
+QSJ49_RS09920,WP_136361531.1,4-demethylwyosine synthase TYW1
+QSJ49_RS09925,WP_205251109.1,MinD/ParA family protein
+QSJ49_RS09930,WP_012289438.1,peptide chain release factor aRF-1
+QSJ49_RS09935,WP_010903573.1,ferredoxin Fer
+QSJ49_RS09940,WP_010903574.1,DUF6276 family protein
+QSJ49_RS09945,WP_010903575.1,V-type ATP synthase subunit D
+QSJ49_RS09950,WP_229373364.1,Brp/Blh family beta-carotene 15%2C15'-dioxygenase
+QSJ49_RS09955,WP_205251110.1,lycopene beta-cyclase
+QSJ49_RS09960,WP_205251112.1,ATP synthase subunit B
+QSJ49_RS09965,WP_010903579.1,ATP synthase subunit A
+QSJ49_RS09970,WP_010903580.1,V-type ATP synthase subunit F
+QSJ49_RS09975,WP_205251113.1,V-type ATP synthase subunit C
+QSJ49_RS09980,WP_010903582.1,V-type ATP synthase subunit E
+QSJ49_RS09985,WP_012289441.1,F0F1 ATP synthase subunit C
+QSJ49_RS09990,WP_205251114.1,V-type ATP synthase subunit I
+QSJ49_RS09995,WP_010903585.1,ATP synthase archaeal subunit H
+QSJ49_RS10000,WP_012289442.1,methyltransferase domain-containing protein
+QSJ49_RS10005,WP_012289443.1,hypothetical protein
+QSJ49_RS10010,WP_205251115.1,hypothetical protein
+QSJ49_RS10015,WP_205251116.1,hypothetical protein
+QSJ49_RS10020,WP_205251117.1,electron transfer flavoprotein subunit beta/FixA family protein
+QSJ49_RS10025,WP_205251118.1,electron transfer flavoprotein subunit alpha/FixB family protein
+QSJ49_RS10030,WP_205251119.1,YbhB/YbcL family Raf kinase inhibitor-like protein
+QSJ49_RS10035,WP_338416955.1,polyprenyl synthetase family protein
+QSJ49_RS10040,WP_010903593.1,DUF373 family protein
+QSJ49_RS10045,WP_012289444.1,radical SAM protein
+QSJ49_RS10050,WP_205251121.1,flippase activity-associated protein Agl23
+QSJ49_RS10055,WP_012289446.1,TRAM domain-containing protein
+QSJ49_RS10060,WP_205251122.1,SDR family oxidoreductase
+QSJ49_RS10065,WP_205251123.1,sugar phosphate nucleotidyltransferase
+QSJ49_RS10070,WP_012289447.1,replication protein A
+QSJ49_RS10075,WP_010903600.1,RPA family protein
+QSJ49_RS10080,WP_010903601.1,ribbon-helix-helix protein%2C CopG family
+QSJ49_RS10085,WP_136361551.1,DUF5814 domain-containing protein
+QSJ49_RS10095,WP_010903603.1,DUF4097 family beta strand repeat-containing protein
+QSJ49_RS10100,WP_136361553.1,trans-acting enoyl reductase family protein
+QSJ49_RS10105,WP_205251124.1,DEAD/DEAH box helicase
+QSJ49_RS10110,WP_136361555.1,CBS domain-containing protein
+QSJ49_RS10115,WP_205251125.1,iron-containing alcohol dehydrogenase family protein
+QSJ49_RS10120,WP_136361695.1,cupin domain-containing protein
+QSJ49_RS10125,WP_229373365.1,phosphotransferase
+QSJ49_RS10130,WP_012289450.1,DEAD/DEAH box helicase
+QSJ49_RS10140,WP_229373366.1,ABC transporter permease subunit
+QSJ49_RS10145,WP_205251126.1,hypothetical protein
+QSJ49_RS10150,WP_229373367.1,hypothetical protein
+QSJ49_RS10155,WP_205251127.1,histidine kinase N-terminal 7TM domain-containing protein
+QSJ49_RS10160,WP_338416956.1,ATP-binding protein
+QSJ49_RS10165,WP_205251129.1,hypothetical protein
+QSJ49_RS10170,WP_205251130.1,hypothetical protein
+QSJ49_RS10175,WP_205251131.1,transcription initiation factor IIB family protein
+QSJ49_RS10180,WP_205251132.1,hypothetical protein
+QSJ49_RS10185,WP_012289457.1,AAA family ATPase
+QSJ49_RS10190,WP_205251133.1,HIT family protein
+QSJ49_RS10195,WP_010903623.1,hypothetical protein
+QSJ49_RS10200,WP_010903624.1,hypothetical protein
+QSJ49_RS10205,WP_205251134.1,isoleucine--tRNA ligase
+QSJ49_RS10210,WP_010903626.1,hypothetical protein
+QSJ49_RS10215,WP_010903627.1,b(o/a)3-type cytochrome-c oxidase subunit 1
+QSJ49_RS10220,WP_049892532.1,cytochrome c oxidase subunit II
+QSJ49_RS10225,WP_205251135.1,halocyanin domain-containing protein
+QSJ49_RS10230,WP_010903630.1,hypothetical protein
+QSJ49_RS10235,WP_229373370.1,sulfite exporter TauE/SafE family protein
+QSJ49_RS10240,WP_205251136.1,heavy metal translocating P-type ATPase
+QSJ49_RS10245,WP_205251137.1,hypothetical protein
+QSJ49_RS10250,WP_205251138.1,ribose-phosphate pyrophosphokinase
+QSJ49_RS10255,WP_205251139.1,hypothetical protein
+QSJ49_RS10260,WP_205251140.1,hypothetical protein
+QSJ49_RS10265,WP_205251141.1,phosphoglucosamine mutase
+QSJ49_RS10270,WP_205251142.1,hypothetical protein
+QSJ49_RS10275,WP_010903639.1,tryptophan--tRNA ligase
+QSJ49_RS10280,WP_205251143.1,tRNA-intron lyase
+QSJ49_RS10285,WP_010903641.1,endonuclease NucS domain-containing protein
+QSJ49_RS10290,WP_205251144.1,DEAD/DEAH box helicase
+QSJ49_RS10295,WP_205251145.1,MATE family efflux transporter
+QSJ49_RS10300,WP_010903644.1,lipoyl synthase
+QSJ49_RS10305,WP_205251146.1,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha
+QSJ49_RS10310,WP_205251147.1,alpha-ketoacid dehydrogenase subunit beta
+QSJ49_RS10315,WP_010903647.1,dihydrolipoamide acetyltransferase family protein
+QSJ49_RS10320,WP_205251148.1,dihydrolipoyl dehydrogenase
+QSJ49_RS10325,WP_205251149.1,prephenate dehydratase
+QSJ49_RS10330,WP_205251150.1,leucine--tRNA ligase
+QSJ49_RS10335,WP_205251151.1,ornithine cyclodeaminase family protein
+QSJ49_RS10340,WP_049892611.1,thermosome subunit alpha
+QSJ49_RS10345,WP_010903653.1,KH domain-containing protein
+QSJ49_RS10350,WP_205251152.1,winged helix-turn-helix domain-containing protein
+QSJ49_RS10355,WP_010903655.1,MFS transporter
+QSJ49_RS10360,WP_205251153.1,tryptophan--tRNA ligase
+QSJ49_RS10365,WP_012289466.1,serine/threonine-protein kinase Rio1
+QSJ49_RS10370,WP_010903658.1,translation initiation factor eIF-1A
+QSJ49_RS10375,WP_012289467.1,hypothetical protein
+QSJ49_RS10380,WP_205251154.1,tyrosine--tRNA ligase
+QSJ49_RS10385,WP_205251155.1,DUF460 domain-containing protein
+QSJ49_RS10390,WP_205251156.1,ribonuclease Z
+QSJ49_RS10395,WP_205251157.1,AAA family ATPase
+QSJ49_RS10400,WP_205251158.1,hypothetical protein
+QSJ49_RS10405,WP_205251159.1,TIGR01177 family methyltransferase
+QSJ49_RS10410,WP_010903666.1,TATA-box-binding protein
+QSJ49_RS10415,WP_205251160.1,hypothetical protein
+QSJ49_RS10420,WP_227970889.1,hypothetical protein
+QSJ49_RS10425,WP_136361584.1,ATP phosphoribosyltransferase
+QSJ49_RS10430,WP_010903670.1,hypothetical protein
+QSJ49_RS10435,WP_205251161.1,amidohydrolase
+QSJ49_RS10440,WP_010903672.1,adenosylhomocysteinase
+QSJ49_RS10445,WP_205251162.1,Holliday junction resolvase Hjc
+QSJ49_RS10450,WP_010903674.1,hypothetical protein
+QSJ49_RS10455,WP_205251163.1,DNA primase regulatory subunit PriL
+QSJ49_RS10460,WP_012289470.1,protein sorting system archaetidylserine decarboxylase
+QSJ49_RS10465,WP_010903677.1,DNA polymerase sliding clamp
+QSJ49_RS10470,WP_010903678.1,sodium:calcium antiporter
+QSJ49_RS10475,WP_010903679.1,phosphoenolpyruvate carboxylase
+QSJ49_RS10480,WP_010903680.1,hypothetical protein
+QSJ49_RS10485,WP_205251164.1,hypothetical protein
+QSJ49_RS10490,WP_205251165.1,GDSL-type esterase/lipase family protein
+QSJ49_RS10495,WP_010903682.1,23S rRNA (uridine(2552)-2'-O)-methyltransferase
+QSJ49_RS10500,WP_205251166.1,queuosine precursor transporter
+QSJ49_RS10505,WP_010903684.1,type II toxin-antitoxin system ParD family antitoxin
+QSJ49_RS10510,WP_205251167.1,Sec-independent protein translocase TatC
+QSJ49_RS10515,WP_010903686.1,twin-arginine translocase subunit TatC
+QSJ49_RS10520,WP_205251168.1,endonuclease MutS2
+QSJ49_RS10530,WP_010904081.1,universal stress protein
+QSJ49_RS10535,WP_229373330.1,DUF6166 domain-containing protein
+QSJ49_RS10540,WP_010904078.1,Hsp20/alpha crystallin family protein
+QSJ49_RS10545,NA,AAA family ATPase
+QSJ49_RS10550,NA,inorganic phosphate transporter
+QSJ49_RS10555,WP_010904072.1,hypothetical protein
+QSJ49_RS10560,WP_205250687.1,ribbon-helix-helix domain-containing protein
+QSJ49_RS10565,WP_205250686.1,hypothetical protein
+QSJ49_RS10570,WP_229373328.1,PQQ-binding-like beta-propeller repeat protein
+QSJ49_RS10575,WP_010904068.1,hypothetical protein
+QSJ49_RS10580,WP_205250685.1,cell division control protein 6-like protein
+QSJ49_RS10585,NA,DNA polymerase I
+QSJ49_RS10590,WP_235158184.1,universal stress protein
+QSJ49_RS10595,WP_318655306.1,bifunctional oligoribonuclease/PAP phosphatase NrnA
+QSJ49_RS10600,WP_318655305.1,hypothetical protein
+QSJ49_RS10605,WP_318655304.1,hypothetical protein
+QSJ49_RS10610,WP_176705336.1,universal stress protein
+QSJ49_RS10615,WP_010904058.1,potassium-transporting ATPase subunit KdpC
+QSJ49_RS10620,WP_318655303.1,potassium-transporting ATPase subunit KdpB
+QSJ49_RS10625,WP_338416991.1,potassium-transporting ATPase subunit KdpA
+QSJ49_RS10630,WP_318655300.1,potassium-transporting ATPase subunit KdpF
+QSJ49_RS10635,WP_318655299.1,TrkA family potassium uptake protein
+QSJ49_RS10640,WP_318655298.1,SMC-like protein Sph2
+QSJ49_RS10645,WP_285265590.1,rod-determining factor RdfA
+QSJ49_RS10650,WP_285265591.1,universal stress protein
+QSJ49_RS10655,NA,RNA-guided endonuclease TnpB family protein
+QSJ49_RS10660,WP_318655297.1,AbrB/MazE/SpoVT family DNA-binding domain-containing protein
+QSJ49_RS10665,WP_318655296.1,PIN domain-containing protein
+QSJ49_RS10670,WP_318655295.1,hypothetical protein
+QSJ49_RS10675,NA,DNA replication protein Orc4
+QSJ49_RS10680,NA,DNA polymerase domain-containing protein
+QSJ49_RS10685,WP_012289614.1,hypothetical protein
+QSJ49_RS10690,WP_010904044.1,hypothetical protein
+QSJ49_RS10695,WP_010904043.1,hypothetical protein
+QSJ49_RS10700,WP_148265513.1,hypothetical protein
+QSJ49_RS10705,WP_012289612.1,hypothetical protein
+QSJ49_RS10710,WP_010904041.1,hypothetical protein
+QSJ49_RS10715,WP_012289611.1,hypothetical protein
+QSJ49_RS10720,WP_012289610.1,ParA family protein
+QSJ49_RS10725,WP_010904037.1,DNA replication protein Orc1
+QSJ49_RS10730,WP_012289609.1,DrmE family protein
+QSJ49_RS10735,WP_205250683.1,helicase-related protein
+QSJ49_RS10740,WP_229373326.1,hypothetical protein
+QSJ49_RS10745,WP_205250681.1,phospholipase D family protein
+QSJ49_RS10750,WP_205250680.1,DNA cytosine methyltransferase
+QSJ49_RS10755,WP_205250679.1,DUF4365 domain-containing protein
+QSJ49_RS10760,WP_136361728.1,SIR2 family protein
+QSJ49_RS10765,WP_012289705.1,helix-turn-helix domain-containing protein
+QSJ49_RS10770,WP_012289706.1,hypothetical protein
+QSJ49_RS10775,WP_012289707.1,phage integrase SAM-like domain-containing protein
+QSJ49_RS10780,WP_205250678.1,hypothetical protein
+QSJ49_RS10785,WP_158308649.1,AAA family ATPase
+QSJ49_RS10790,WP_012289710.1,hypothetical protein
+QSJ49_RS10795,NA,DUF1931 domain-containing protein
+QSJ49_RS10800,WP_229373324.1,exodeoxyribonuclease VII large subunit
+QSJ49_RS10805,WP_012289712.1,hypothetical protein
+QSJ49_RS10810,WP_049892758.1,hypothetical protein
+QSJ49_RS10815,WP_205250724.1,hypothetical protein
+QSJ49_RS10820,WP_049892760.1,hypothetical protein
+QSJ49_RS10825,WP_136361216.1,hypothetical protein
+QSJ49_RS10830,WP_010904034.1,hypothetical protein
+QSJ49_RS10835,WP_010904033.1,VirB4 family type IV secretion system protein
+QSJ49_RS10840,WP_010904032.1,ATP-binding protein
+QSJ49_RS10845,WP_010904031.1,DNA primase
+QSJ49_RS10850,NA,transposase
+QSJ49_RS10855,WP_010890461.1,primase-associated protein
+QSJ49_RS10860,WP_012289730.1,arsenite methyltransferase
+QSJ49_RS10865,WP_010890459.1,metalloregulator ArsR/SmtB family transcription factor
+QSJ49_RS10870,WP_049892776.1,halo-CC-star protein HcsS
+QSJ49_RS10875,WP_012289729.1,halo-CC-star protein HcsL
+QSJ49_RS10880,WP_010890458.1,arsenical pump-driving ATPase
+QSJ49_RS10885,WP_010890457.1,arsenite efflux transporter metallochaperone ArsD
+QSJ49_RS10890,WP_008444919.1,metalloregulator ArsR/SmtB family transcription factor
+QSJ49_RS10895,WP_010890456.1,low molecular weight phosphatase family protein
+QSJ49_RS10900,WP_010890455.1,hypothetical protein
+QSJ49_RS10905,WP_136361217.1,hypothetical protein
+QSJ49_RS10910,WP_012289727.1,hypothetical protein
+QSJ49_RS10915,WP_049892774.1,hypothetical protein
+QSJ49_RS10920,WP_010890452.1,hypothetical protein
+QSJ49_RS10925,WP_010890451.1,hypothetical protein
+QSJ49_RS10930,WP_010890450.1,hypothetical protein
+QSJ49_RS10935,WP_012289724.1,DNA-binding protein
+QSJ49_RS10940,WP_049892772.1,hypothetical protein
+QSJ49_RS10945,WP_229373323.1,hypothetical protein
+QSJ49_RS10950,WP_229373322.1,hypothetical protein
+QSJ49_RS10955,WP_168731179.1,hypothetical protein
+QSJ49_RS10960,WP_229373341.1,transcription initiation factor IIB family protein
+QSJ49_RS10965,WP_136361219.1,type II toxin-antitoxin system death-on-curing family toxin
+QSJ49_RS10970,WP_168731180.1,hypothetical protein
+QSJ49_RS10975,WP_136361220.1,hypothetical protein
+QSJ49_RS10980,WP_168731181.1,hypothetical protein
+QSJ49_RS10985,WP_136361222.1,MFS transporter
+QSJ49_RS10990,WP_136361223.1,hypothetical protein
+QSJ49_RS10995,WP_012289723.1,hypothetical protein
+QSJ49_RS11000,WP_049892769.1,hypothetical protein
+QSJ49_RS11005,WP_049892767.1,hypothetical protein
+QSJ49_RS11010,WP_049892765.1,MarR family transcriptional regulator
+QSJ49_RS11015,WP_136361224.1,restriction endonuclease
+QSJ49_RS11020,WP_012289717.1,ribbon-helix-helix domain-containing protein
+QSJ49_RS11025,WP_049892762.1,type II toxin-antitoxin system RelE/ParE family toxin
+QSJ49_RS11030,WP_158308650.1,C2H2-type zinc finger protein
+QSJ49_RS11035,WP_012289716.1,helix-turn-helix domain-containing protein
+QSJ49_RS11040,NA,sulfite exporter TauE/SafE family protein
+QSJ49_RS11045,WP_168731182.1,hypothetical protein
+QSJ49_RS11050,NA,helix-turn-helix domain-containing protein
+QSJ49_RS11055,WP_136361226.1,inorganic phosphate transporter
+QSJ49_RS11060,WP_136361227.1,YeeE/YedE family protein
+QSJ49_RS11065,WP_136361228.1,YeeE/YedE family protein
+QSJ49_RS11070,WP_136361229.1,MBL fold metallo-hydrolase
+QSJ49_RS11075,WP_136361230.1,sulfurtransferase TusA family protein
+QSJ49_RS11080,WP_136361231.1,DsrE/DsrF/DrsH-like family protein
+QSJ49_RS11085,WP_168731183.1,HalOD1 output domain-containing protein
+QSJ49_RS11090,NA,aminotransferase class V-fold PLP-dependent enzyme
+QSJ49_RS11095,WP_229373340.1,DUF302 domain-containing protein
+QSJ49_RS11100,WP_136361232.1,class I SAM-dependent methyltransferase
+QSJ49_RS11105,WP_229373321.1,AAA family ATPase
+QSJ49_RS11110,WP_205252873.1,hypothetical protein
+QSJ49_RS11115,WP_136361235.1,helix-turn-helix domain-containing protein
+QSJ49_RS11120,WP_136361236.1,hypothetical protein
+QSJ49_RS11125,WP_136361214.1,helix-turn-helix domain-containing protein
+QSJ49_RS11130,WP_136361213.1,hypothetical protein
+QSJ49_RS11135,WP_231546380.1,hypothetical protein
+QSJ49_RS11140,NA,hypothetical protein
+QSJ49_RS11145,WP_338416996.1,hypothetical protein
+QSJ49_RS11150,WP_136361726.1,DUF4238 domain-containing protein
+QSJ49_RS11155,WP_136361725.1,hypothetical protein
+QSJ49_RS11160,WP_168731199.1,tetratricopeptide repeat protein
+QSJ49_RS11165,WP_136361723.1,transposase
+QSJ49_RS11170,WP_136361722.1,hypothetical protein
+QSJ49_RS11175,WP_136361721.1,hypothetical protein
+QSJ49_RS11180,WP_136361731.1,hypothetical protein
+QSJ49_RS11185,WP_136361720.1,hypothetical protein
+QSJ49_RS11190,WP_136361719.1,hypothetical protein
+QSJ49_RS11195,WP_267875133.1,hypothetical protein
+QSJ49_RS11200,WP_136361718.1,hypothetical protein
+QSJ49_RS11205,WP_136361717.1,hypothetical protein
+QSJ49_RS11210,WP_136361716.1,hypothetical protein
+QSJ49_RS11215,NA,helix-turn-helix domain-containing protein
+QSJ49_RS11220,WP_136361715.1,cytochrome d ubiquinol oxidase subunit II
+QSJ49_RS11225,WP_136361714.1,cytochrome ubiquinol oxidase subunit I
+QSJ49_RS11230,NA,IS4 family transposase
+QSJ49_RS11235,NA,hemolysin family protein
+QSJ49_RS11240,WP_136361712.1,metallophosphoesterase
+QSJ49_RS11245,WP_136361711.1,hypothetical protein
+QSJ49_RS11250,WP_338416992.1,hypothetical protein
+QSJ49_RS11255,WP_136361709.1,transposase
+QSJ49_RS11260,WP_136361708.1,FaeA/PapI family transcriptional regulator
+QSJ49_RS11265,WP_136361707.1,type II toxin-antitoxin system PemK/MazF family toxin
+QSJ49_RS11270,WP_136361730.1,helix-turn-helix domain-containing protein
+QSJ49_RS11275,WP_318655350.1,transposase
+QSJ49_RS11280,WP_318655349.1,hypothetical protein
+QSJ49_RS11285,WP_338416997.1,DEAD/DEAH box helicase family protein
+QSJ49_RS11290,WP_318655348.1,SOS response-associated peptidase
+QSJ49_RS11295,NA,AAA family ATPase
+QSJ49_RS11300,WP_338416993.1,DUF5694 domain-containing protein
+QSJ49_RS11305,NA,site-specific integrase
+QSJ49_RS11310,NA,hypothetical protein
+QSJ49_RS11315,WP_338416994.1,hypothetical protein
+QSJ49_RS11320,WP_338416995.1,hypothetical protein
+QSJ49_RS11325,WP_318655344.1,hypothetical protein
+QSJ49_RS11330,WP_318655343.1,hypothetical protein
+QSJ49_RS11335,WP_318655342.1,ABC transporter ATP-binding protein
+QSJ49_RS11340,NA,IS1595 family transposase
+QSJ49_RS11345,WP_338416987.1,MFS transporter
+QSJ49_RS11350,WP_318655339.1,TetR/AcrR family transcriptional regulator
+QSJ49_RS11355,NA,IS5/IS1182 family transposase
+QSJ49_RS11360,WP_318655338.1,CPBP family intramembrane glutamic endopeptidase
+QSJ49_RS11365,NA,IS5/IS1182 family transposase
+QSJ49_RS11370,NA,DNA-binding protein
+QSJ49_RS11375,WP_338416998.1,hypothetical protein
+QSJ49_RS11380,WP_318655337.1,hypothetical protein
+QSJ49_RS11385,NA,DNA-binding protein
+QSJ49_RS11390,WP_338416988.1,hypothetical protein
+QSJ49_RS11395,WP_235218655.1,MFS transporter
+QSJ49_RS11400,WP_235218656.1,hypothetical protein
+QSJ49_RS11405,WP_338416989.1,ribonuclease H-like domain-containing protein
+QSJ49_RS11410,WP_176705217.1,DEAD/DEAH box helicase
+QSJ49_RS11415,WP_235218658.1,ribonuclease H-like domain-containing protein
+QSJ49_RS11420,WP_235218659.1,helix-turn-helix domain-containing protein
+QSJ49_RS11425,WP_318655330.1,MFS transporter
+QSJ49_RS11430,WP_235218660.1,helix-turn-helix domain-containing protein
+QSJ49_RS11435,WP_012289662.1,extracellular solute-binding protein
+QSJ49_RS11440,WP_235218661.1,ABC transporter permease subunit
+QSJ49_RS11445,WP_235218662.1,ABC transporter permease subunit
+QSJ49_RS11450,WP_235218663.1,ABC transporter ATP-binding protein
+QSJ49_RS11455,WP_235218664.1,hypothetical protein
+QSJ49_RS11460,WP_235218669.1,ABC transporter permease
+QSJ49_RS11465,WP_235218665.1,ABC transporter ATP-binding protein
+QSJ49_RS11470,WP_049892725.1,transcriptional regulator
+QSJ49_RS11475,WP_176705229.1,DASS family sodium-coupled anion symporter
+QSJ49_RS11480,WP_235158132.1,universal stress protein
+QSJ49_RS11485,WP_049892723.1,hypothetical protein
+QSJ49_RS11490,WP_205250671.1,MMPL family transporter
+QSJ49_RS11495,WP_229373315.1,COG1361 S-layer family protein
+QSJ49_RS11500,WP_205250670.1,ABC transporter permease subunit
+QSJ49_RS11505,WP_205250669.1,ABC transporter ATP-binding protein
+QSJ49_RS11510,WP_176705234.1,chemotaxis signal transducer protein Car
+QSJ49_RS11515,WP_205250668.1,lipopolysaccharide biosynthesis protein
+QSJ49_RS11520,NA,transposase
+QSJ49_RS11525,NA,transposase
+QSJ49_RS11530,NA,hypothetical protein
+QSJ49_RS11535,WP_010904172.1,hypothetical protein
+QSJ49_RS11540,WP_229373313.1,halocin C8-like domain-containing protein
+QSJ49_RS11545,WP_012289645.1,hypothetical protein
+QSJ49_RS11550,WP_010904170.1,hypothetical protein
+QSJ49_RS11555,WP_010904169.1,ABC transporter ATP-binding protein
+QSJ49_RS11560,NA,hypothetical protein
+QSJ49_RS11565,NA,hypothetical protein
+QSJ49_RS11570,NA,RNA-guided endonuclease TnpB family protein
+QSJ49_RS11575,WP_010904167.1,hypothetical protein
+QSJ49_RS11580,WP_010904166.1,hypothetical protein
+QSJ49_RS11585,WP_205250661.1,phage integrase SAM-like domain-containing protein
+QSJ49_RS11590,WP_229373312.1,hypothetical protein
+QSJ49_RS11595,WP_205250660.1,hypothetical protein
+QSJ49_RS11600,WP_205250659.1,hypothetical protein
+QSJ49_RS11605,WP_205250658.1,SMC-like protein Sph1
+QSJ49_RS11610,WP_176705203.1,rod-determining factor RdfA
+QSJ49_RS11615,WP_176705202.1,IclR family transcriptional regulator
+QSJ49_RS11620,WP_205250657.1,arginine deiminase family protein
+QSJ49_RS11625,WP_205250656.1,carbamate kinase
+QSJ49_RS11630,WP_010904159.1,ornithine carbamoyltransferase
+QSJ49_RS11635,WP_176705198.1,Na+/H+ antiporter NhaC family protein
+QSJ49_RS11640,WP_176705197.1,arginine--tRNA ligase
+QSJ49_RS11645,WP_229373338.1,aspartate carbamoyltransferase regulatory subunit
+QSJ49_RS11650,WP_012289640.1,aspartate carbamoyltransferase
+QSJ49_RS11655,WP_205250723.1,dicarboxylate/amino acid:cation symporter
+QSJ49_RS11660,WP_010904153.1,6-pyruvoyl tetrahydropterin synthase family protein
+QSJ49_RS11665,WP_010904152.1,7-carboxy-7-deazaguanine synthase QueE
+QSJ49_RS11670,WP_205250722.1,7-cyano-7-deazaguanine synthase QueC
+QSJ49_RS11675,WP_205250721.1,hemolysin family protein
+QSJ49_RS11680,WP_205250720.1,alkaline phosphatase
+QSJ49_RS11685,WP_205250719.1,AIR synthase family protein
+QSJ49_RS11690,WP_205250718.1,acyl CoA:acetate/3-ketoacid CoA transferase
+QSJ49_RS11695,WP_205250717.1,PQQ-binding-like beta-propeller repeat protein
+QSJ49_RS11700,WP_205250716.1,alpha/beta hydrolase
+QSJ49_RS11705,WP_205250715.1,PQQ-binding-like beta-propeller repeat protein
+QSJ49_RS11710,NA,hypothetical protein
+QSJ49_RS11715,WP_338416990.1,PQQ-binding-like beta-propeller repeat protein
+QSJ49_RS11720,WP_205250713.1,alpha/beta fold hydrolase
+QSJ49_RS11725,WP_205250712.1,catalase/peroxidase HPI
+QSJ49_RS11730,NA,DMT family transporter
+QSJ49_RS11735,WP_205250710.1,ABC transporter ATP-binding protein
+QSJ49_RS11740,WP_176705181.1,carbohydrate ABC transporter permease
+QSJ49_RS11745,WP_176705180.1,sugar ABC transporter permease
+QSJ49_RS11750,WP_205250709.1,ABC transporter substrate-binding protein
+QSJ49_RS11755,WP_010904130.1,hypothetical protein
+QSJ49_RS11760,WP_049892709.1,NifU family protein
+QSJ49_RS11765,WP_176705350.1,orc1/cdc6 family replication initiation protein
+QSJ49_RS11770,WP_010904127.1,glycerol dehydrogenase
+QSJ49_RS11775,WP_205250708.1,PqqD family protein
+QSJ49_RS11780,WP_176705175.1,oligopeptide transporter%2C OPT family
+QSJ49_RS11785,WP_229373336.1,hypothetical protein
+QSJ49_RS11790,WP_205250706.1,metal ABC transporter substrate-binding protein
+QSJ49_RS11795,WP_205250705.1,metal ABC transporter ATP-binding protein
+QSJ49_RS11800,WP_205250704.1,metal ABC transporter permease
+QSJ49_RS11805,WP_205250703.1,sodium-dependent transporter
+QSJ49_RS11810,WP_010904119.1,tubulin/FtsZ family protein
+QSJ49_RS11815,WP_205250702.1,amidohydrolase family protein
+QSJ49_RS11820,WP_205250701.1,biotin/lipoate A/B protein ligase family protein
+QSJ49_RS11825,WP_205250700.1,hypothetical protein
+QSJ49_RS11830,WP_010904115.1,putative quinol monooxygenase
+QSJ49_RS11835,WP_229373333.1,SHOCT domain-containing protein
+QSJ49_RS11840,WP_205250699.1,inorganic phosphate transporter
+QSJ49_RS11845,WP_176705167.1,TrkA family potassium uptake protein
+QSJ49_RS11850,WP_010904111.1,gas vesicle protein GvpO
+QSJ49_RS11855,WP_176705165.1,gas vesicle protein GvpN
+QSJ49_RS11860,WP_205250698.1,gas vesicle protein GvpC
+QSJ49_RS11865,WP_010904108.1,gas vesicle structural protein GvpA
+QSJ49_RS11870,WP_205250697.1,gas vesicle protein GvpD basic region 2 domain-containing protein
+QSJ49_RS11875,WP_205250696.1,helix-turn-helix transcriptional regulator
+QSJ49_RS11880,WP_205250695.1,gas vesicle protein GvpF
+QSJ49_RS11885,WP_012289627.1,gas vesicle protein GvpG
+QSJ49_RS11890,WP_205250694.1,gas vesicle protein GvpH
+QSJ49_RS11895,WP_176705160.1,gas vesicle protein GvpI
+QSJ49_RS11900,WP_205250693.1,gas vesicle protein
+QSJ49_RS11905,WP_010904100.1,gas vesicle protein K
+QSJ49_RS11910,WP_205250692.1,gas vesicle protein GvpL
+QSJ49_RS11915,WP_012289625.1,gas vesicle protein
+QSJ49_RS11920,WP_010904098.1,hypothetical protein
+QSJ49_RS11925,WP_010904097.1,ParA family protein
+QSJ49_RS11930,WP_176705155.1,TrkA family potassium uptake protein
+QSJ49_RS11935,WP_205250691.1,APC family permease
+QSJ49_RS11940,WP_010904091.1,TrkA family potassium uptake protein
+QSJ49_RS11945,WP_235158153.1,IucA/IucC family siderophore biosynthesis protein
+QSJ49_RS11950,WP_235158154.1,lysine N(6)-hydroxylase/L-ornithine N(5)-oxygenase family protein
+QSJ49_RS11955,WP_235158155.1,GNAT family N-acetyltransferase
+QSJ49_RS11960,WP_235158156.1,IucA/IucC family siderophore biosynthesis protein
+QSJ49_RS11965,WP_235158158.1,aspartate aminotransferase family protein
+QSJ49_RS11970,WP_235158157.1,diaminobutyrate--2-oxoglutarate transaminase family protein
+QSJ49_RS11975,WP_176705348.1,hypothetical protein
+QSJ49_RS11980,WP_229373332.1,prohibitin family protein
+QSJ49_RS10525,WP_229373331.1,hypothetical protein
+QSJ49_RS11990,WP_338417017.1,hypothetical protein
+QSJ49_RS11995,WP_338417018.1,hypothetical protein
+QSJ49_RS12000,WP_338417019.1,hypothetical protein
+QSJ49_RS12005,WP_338417020.1,Cdc6/Cdc18 family protein
+QSJ49_RS12010,WP_338417021.1,hypothetical protein
+QSJ49_RS12015,WP_205250777.1,hypothetical protein
+QSJ49_RS12020,WP_338417022.1,PadR family transcriptional regulator
+QSJ49_RS12025,WP_338417023.1,hypothetical protein
+QSJ49_RS12030,WP_205250774.1,hypothetical protein
+QSJ49_RS12035,WP_338417024.1,hypothetical protein
+QSJ49_RS12040,WP_338417025.1,hypothetical protein
+QSJ49_RS12045,WP_205250771.1,hypothetical protein
+QSJ49_RS12050,WP_205252912.1,hypothetical protein
+QSJ49_RS12055,WP_205252911.1,hypothetical protein
+QSJ49_RS12060,WP_205252910.1,hypothetical protein
+QSJ49_RS12065,WP_205252909.1,hypothetical protein
+QSJ49_RS12070,WP_205250762.1,hypothetical protein
+QSJ49_RS12075,WP_205252908.1,hypothetical protein
+QSJ49_RS12080,WP_205252907.1,hypothetical protein
+QSJ49_RS12085,WP_205252906.1,DUF4258 domain-containing protein
+QSJ49_RS12090,WP_205252905.1,hypothetical protein
+QSJ49_RS12095,WP_205252904.1,hypothetical protein
+QSJ49_RS12100,WP_205252903.1,hypothetical protein
+QSJ49_RS12105,WP_205252902.1,HNH endonuclease
+QSJ49_RS12110,WP_205252901.1,hypothetical protein
+QSJ49_RS12115,WP_205252900.1,hypothetical protein
+QSJ49_RS12120,WP_205252899.1,phage portal protein
+QSJ49_RS12125,WP_205252898.1,hypothetical protein
+QSJ49_RS12130,WP_269751358.1,hypothetical protein
+QSJ49_RS12135,WP_205252897.1,XkdF-like putative serine protease domain-containing protein
+QSJ49_RS12140,WP_205252896.1,hypothetical protein
+QSJ49_RS12145,WP_338416999.1,hypothetical protein
+QSJ49_RS12150,WP_205252894.1,hypothetical protein
+QSJ49_RS12155,WP_205252893.1,hypothetical protein
+QSJ49_RS12160,WP_338417000.1,hypothetical protein
+QSJ49_RS12165,WP_338417001.1,hypothetical protein
+QSJ49_RS12170,WP_338417002.1,hypothetical protein
+QSJ49_RS12175,WP_338417003.1,hypothetical protein
+QSJ49_RS12180,WP_338417004.1,hypothetical protein
+QSJ49_RS12185,WP_338417005.1,zinc-ribbon domain-containing protein
+QSJ49_RS12190,WP_338417006.1,hypothetical protein
+QSJ49_RS12195,WP_338417007.1,hypothetical protein
+QSJ49_RS12200,WP_338417008.1,hypothetical protein
+QSJ49_RS12205,WP_338417009.1,hypothetical protein
+QSJ49_RS12210,WP_338417010.1,hypothetical protein
+QSJ49_RS12215,WP_338417011.1,hypothetical protein
+QSJ49_RS12220,WP_338417012.1,hypothetical protein
+QSJ49_RS12225,WP_338417013.1,hypothetical protein
+QSJ49_RS12230,NA,hypothetical protein
+QSJ49_RS12235,WP_338417014.1,hypothetical protein
+QSJ49_RS12240,WP_338417015.1,ParA family protein
+QSJ49_RS11985,WP_338417016.1,HNH endonuclease

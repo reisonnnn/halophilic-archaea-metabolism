@@ -1,0 +1,9 @@
+Category,Count,Description
+HS_only,1021,Unique to HS strain
+HM_only,1282,Unique to HM strain
+HA_only,1723,Unique to HA strain
+HS_and_HM_only,43,Shared between HS and HM only
+HS_and_HA_only,76,Shared between HS and HA only
+HM_and_HA_only,919,Shared between HM and HA only
+Core_all_three,582,Shared among all three strains
+Total,5646,Total unannotated proteins analyzed
